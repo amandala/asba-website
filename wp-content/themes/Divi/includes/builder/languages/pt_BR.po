@@ -1,0 +1,5969 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-09-02 19:23+0300\n"
+"PO-Revision-Date: 2015-09-02 19:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-et-builder-element.php:438 ../class-et-builder-element.php:754
+#, php-format
+msgid "%1$s Font"
+msgstr "%1$s Fonte"
+
+#: ../class-et-builder-element.php:445
+#, php-format
+msgid "%1$s Font Size"
+msgstr "%1$s Tamanho da Fonte"
+
+#: ../class-et-builder-element.php:457 ../class-et-builder-element.php:691
+#, php-format
+msgid "%1$s Text Color"
+msgstr "%1$s Cor do Texto"
+
+#: ../class-et-builder-element.php:465 ../class-et-builder-element.php:744
+#, php-format
+msgid "%1$s Letter Spacing"
+msgstr "%1$s Espaçamento da Letra"
+
+#: ../class-et-builder-element.php:473
+#, php-format
+msgid "%1$s Line Height"
+msgstr "%1$s Altura da Linha"
+
+#: ../class-et-builder-element.php:496
+#, php-format
+msgid "%1$s All Caps"
+msgstr "%1$s Todas em Maiúsculas"
+
+#: ../class-et-builder-element.php:500 ../main-modules.php:450
+#: ../main-modules.php:2132 ../main-modules.php:2153 ../main-modules.php:6071
+#: ../main-modules.php:6418 ../main-modules.php:6612 ../main-modules.php:8262
+#: ../main-modules.php:8363 ../main-modules.php:9245 ../main-modules.php:9504
+#: ../main-modules.php:11372 ../main-modules.php:11393
+#: ../main-modules.php:11746 ../main-modules.php:11948
+msgid "Off"
+msgstr "Desligada"
+
+#: ../class-et-builder-element.php:501 ../main-modules.php:451
+#: ../main-modules.php:2133 ../main-modules.php:2154 ../main-modules.php:6070
+#: ../main-modules.php:6417 ../main-modules.php:6611 ../main-modules.php:8263
+#: ../main-modules.php:8364 ../main-modules.php:9244 ../main-modules.php:9505
+#: ../main-modules.php:11373 ../main-modules.php:11394
+#: ../main-modules.php:11747 ../main-modules.php:11947
+msgid "On"
+msgstr "Ligada"
+
+#: ../class-et-builder-element.php:528 ../class-et-builder-element.php:2817
+#: ../main-modules.php:2565 ../main-modules.php:3034 ../main-modules.php:4047
+#: ../main-modules.php:4283 ../main-modules.php:4562 ../main-modules.php:4975
+#: ../main-modules.php:6056 ../main-modules.php:6199 ../main-modules.php:9078
+#: ../main-modules.php:10013 ../main-modules.php:10447
+#: ../main-modules.php:10955 ../main-modules.php:12595
+#: ../main-structure-elements.php:120 ../main-structure-elements.php:862
+msgid "Background Color"
+msgstr "Fundo Colorido"
+
+#: ../class-et-builder-element.php:538 ../class-et-builder-element.php:2813
+#: ../main-modules.php:2528 ../main-structure-elements.php:98
+#: ../main-structure-elements.php:853
+msgid "Background Image"
+msgstr "Imagem de Fundo:"
+
+#: ../class-et-builder-element.php:541 ../class-et-builder-element.php:2814
+#: ../main-modules.php:81 ../main-modules.php:714 ../main-modules.php:1060
+#: ../main-modules.php:1511 ../main-modules.php:2531 ../main-modules.php:2573
+#: ../main-modules.php:3005 ../main-modules.php:4277 ../main-modules.php:7909
+#: ../main-modules.php:10441 ../main-modules.php:10483
+#: ../main-modules.php:10516 ../main-modules.php:12206
+#: ../main-structure-elements.php:101 ../main-structure-elements.php:856
+msgid "Upload an image"
+msgstr "Enviar uma imagem"
+
+#: ../class-et-builder-element.php:542 ../class-et-builder-element.php:2815
+#: ../main-modules.php:2532 ../main-structure-elements.php:102
+#: ../main-structure-elements.php:857
+msgid "Choose a Background Image"
+msgstr "Selecionar uma Imagem de Fundo"
+
+#: ../class-et-builder-element.php:543 ../class-et-builder-element.php:2816
+#: ../main-modules.php:2533 ../main-structure-elements.php:103
+#: ../main-structure-elements.php:858
+msgid "Set As Background"
+msgstr "Definir como Plano de Fundo"
+
+#: ../class-et-builder-element.php:561
+msgid "Use Border"
+msgstr "Usar Borda"
+
+#: ../class-et-builder-element.php:565 ../class-et-builder-element.php:657
+#: ../class-et-builder-element.php:768 ../class-et-builder-element.php:823
+#: ../functions.php:3230 ../main-modules.php:103 ../main-modules.php:142
+#: ../main-modules.php:186 ../main-modules.php:197 ../main-modules.php:421
+#: ../main-modules.php:431 ../main-modules.php:1438 ../main-modules.php:1471
+#: ../main-modules.php:1492 ../main-modules.php:1595 ../main-modules.php:2163
+#: ../main-modules.php:2189 ../main-modules.php:2255 ../main-modules.php:2265
+#: ../main-modules.php:2275 ../main-modules.php:2647 ../main-modules.php:3026
+#: ../main-modules.php:3476 ../main-modules.php:3502 ../main-modules.php:3513
+#: ../main-modules.php:3805 ../main-modules.php:4039 ../main-modules.php:4554
+#: ../main-modules.php:4636 ../main-modules.php:4956 ../main-modules.php:4967
+#: ../main-modules.php:5049 ../main-modules.php:5336 ../main-modules.php:5346
+#: ../main-modules.php:5356 ../main-modules.php:5705 ../main-modules.php:5715
+#: ../main-modules.php:5725 ../main-modules.php:7224 ../main-modules.php:7559
+#: ../main-modules.php:7730 ../main-modules.php:8240 ../main-modules.php:8274
+#: ../main-modules.php:8284 ../main-modules.php:8294 ../main-modules.php:8304
+#: ../main-modules.php:8314 ../main-modules.php:9070 ../main-modules.php:9271
+#: ../main-modules.php:9844 ../main-modules.php:9854 ../main-modules.php:9870
+#: ../main-modules.php:9881 ../main-modules.php:9904 ../main-modules.php:9915
+#: ../main-modules.php:9926 ../main-modules.php:9954 ../main-modules.php:9999
+#: ../main-modules.php:10304 ../main-modules.php:10317
+#: ../main-modules.php:10459 ../main-modules.php:11008
+#: ../main-modules.php:11403 ../main-modules.php:11427
+#: ../main-modules.php:11493 ../main-modules.php:11503
+#: ../main-modules.php:11513 ../main-modules.php:11717
+#: ../main-modules.php:11727 ../main-modules.php:12228
+#: ../main-modules.php:12426 ../main-modules.php:12436
+#: ../main-modules.php:12452 ../main-modules.php:12463
+#: ../main-modules.php:12486 ../main-modules.php:12497
+#: ../main-modules.php:12508 ../main-modules.php:12536
+#: ../main-modules.php:12581 ../main-structure-elements.php:111
+#: ../main-structure-elements.php:162 ../main-structure-elements.php:172
+#: ../main-structure-elements.php:182 ../main-structure-elements.php:213
+#: ../main-structure-elements.php:240 ../main-structure-elements.php:251
+#: ../main-structure-elements.php:308 ../main-structure-elements.php:318
+#: ../main-structure-elements.php:736 ../main-structure-elements.php:747
+#: ../main-structure-elements.php:803 ../main-structure-elements.php:835
+#: ../main-structure-elements.php:904 ../main-structure-elements.php:914
+#: ../main-structure-elements.php:938 ../main-structure-elements.php:956
+#: ../main-structure-elements.php:1339 ../main-structure-elements.php:1349
+#: ../main-structure-elements.php:1386 ../main-structure-elements.php:1402
+msgid "No"
+msgstr "Não"
+
+#: ../class-et-builder-element.php:566 ../class-et-builder-element.php:658
+#: ../class-et-builder-element.php:767 ../class-et-builder-element.php:822
+#: ../functions.php:3231 ../main-modules.php:104 ../main-modules.php:143
+#: ../main-modules.php:187 ../main-modules.php:196 ../main-modules.php:420
+#: ../main-modules.php:430 ../main-modules.php:1439 ../main-modules.php:1472
+#: ../main-modules.php:1493 ../main-modules.php:1596 ../main-modules.php:2164
+#: ../main-modules.php:2190 ../main-modules.php:2256 ../main-modules.php:2266
+#: ../main-modules.php:2276 ../main-modules.php:2648 ../main-modules.php:3025
+#: ../main-modules.php:3475 ../main-modules.php:3503 ../main-modules.php:3514
+#: ../main-modules.php:3806 ../main-modules.php:4038 ../main-modules.php:4553
+#: ../main-modules.php:4637 ../main-modules.php:4957 ../main-modules.php:4966
+#: ../main-modules.php:5050 ../main-modules.php:5335 ../main-modules.php:5345
+#: ../main-modules.php:5355 ../main-modules.php:5704 ../main-modules.php:5714
+#: ../main-modules.php:5724 ../main-modules.php:7223 ../main-modules.php:7560
+#: ../main-modules.php:7729 ../main-modules.php:8239 ../main-modules.php:8273
+#: ../main-modules.php:8283 ../main-modules.php:8293 ../main-modules.php:8303
+#: ../main-modules.php:8313 ../main-modules.php:9069 ../main-modules.php:9272
+#: ../main-modules.php:9843 ../main-modules.php:9853 ../main-modules.php:9869
+#: ../main-modules.php:9880 ../main-modules.php:9903 ../main-modules.php:9914
+#: ../main-modules.php:9925 ../main-modules.php:9953 ../main-modules.php:10000
+#: ../main-modules.php:10305 ../main-modules.php:10318
+#: ../main-modules.php:10460 ../main-modules.php:11009
+#: ../main-modules.php:11404 ../main-modules.php:11428
+#: ../main-modules.php:11494 ../main-modules.php:11504
+#: ../main-modules.php:11514 ../main-modules.php:11716
+#: ../main-modules.php:11726 ../main-modules.php:12229
+#: ../main-modules.php:12425 ../main-modules.php:12435
+#: ../main-modules.php:12451 ../main-modules.php:12462
+#: ../main-modules.php:12485 ../main-modules.php:12496
+#: ../main-modules.php:12507 ../main-modules.php:12535
+#: ../main-modules.php:12582 ../main-structure-elements.php:112
+#: ../main-structure-elements.php:163 ../main-structure-elements.php:173
+#: ../main-structure-elements.php:183 ../main-structure-elements.php:214
+#: ../main-structure-elements.php:241 ../main-structure-elements.php:252
+#: ../main-structure-elements.php:309 ../main-structure-elements.php:319
+#: ../main-structure-elements.php:737 ../main-structure-elements.php:748
+#: ../main-structure-elements.php:804 ../main-structure-elements.php:836
+#: ../main-structure-elements.php:905 ../main-structure-elements.php:915
+#: ../main-structure-elements.php:939 ../main-structure-elements.php:955
+#: ../main-structure-elements.php:1340 ../main-structure-elements.php:1350
+#: ../main-structure-elements.php:1387 ../main-structure-elements.php:1401
+msgid "Yes"
+msgstr "Sim"
+
+#: ../class-et-builder-element.php:578
+msgid "Border Color"
+msgstr "Cor da Borda"
+
+#: ../class-et-builder-element.php:588
+msgid "Border Width"
+msgstr "Largura da Borda"
+
+#: ../class-et-builder-element.php:598
+msgid "Border Style"
+msgstr "Estilo da Borda"
+
+#: ../class-et-builder-element.php:625
+msgid "Custom Margin"
+msgstr "Margem Personalizada"
+
+#: ../class-et-builder-element.php:634 ../main-structure-elements.php:202
+#: ../main-structure-elements.php:824 ../main-structure-elements.php:1328
+msgid "Custom Padding"
+msgstr "Preenchimento Personalizado"
+
+#: ../class-et-builder-element.php:653
+#, php-format
+msgid "Use Custom Styles for %1$s "
+msgstr "Usar Estilos Personalizados para %1$s "
+
+#: ../class-et-builder-element.php:682
+#, php-format
+msgid "%1$s Text Size"
+msgstr "%1$s Tamanho do Texto"
+
+#: ../class-et-builder-element.php:702
+#, php-format
+msgid "%1$s Background Color"
+msgstr "%1$s Cor de plano de Fundo"
+
+#: ../class-et-builder-element.php:713
+#, php-format
+msgid "%1$s Border Width"
+msgstr "%1$s de Largura de Borda"
+
+#: ../class-et-builder-element.php:723
+#, php-format
+msgid "%1$s Border Color"
+msgstr "%1$s Cor da Borda"
+
+#: ../class-et-builder-element.php:734
+#, php-format
+msgid "%1$s Border Radius"
+msgstr "%1$s Border Radius"
+
+#: ../class-et-builder-element.php:762
+#, php-format
+msgid "Add %1$s Icon"
+msgstr "Adicione %1$s Ícone"
+
+#: ../class-et-builder-element.php:766 ../functions.php:931
+#: ../main-modules.php:2198 ../main-modules.php:2215 ../main-modules.php:2541
+#: ../main-modules.php:2558 ../main-modules.php:11436
+#: ../main-modules.php:11453
+msgid "Default"
+msgstr "Padrão"
+
+#: ../class-et-builder-element.php:782
+#, php-format
+msgid "%1$s Icon"
+msgstr "%1$s Ícone"
+
+#: ../class-et-builder-element.php:794
+#, php-format
+msgid "%1$s Icon Color"
+msgstr "%1$s Ícone de Cor"
+
+#: ../class-et-builder-element.php:805
+#, php-format
+msgid "%1$s Icon Placement"
+msgstr "%1$s Ícone de Posicionamento"
+
+#: ../class-et-builder-element.php:809 ../class-et-builder-element.php:1404
+#: ../class-et-builder-element.php:2821 ../functions.php:301
+#: ../functions.php:307 ../main-modules.php:154 ../main-modules.php:1407
+#: ../main-modules.php:7517 ../main-modules.php:9980 ../main-modules.php:12562
+msgid "Right"
+msgstr "À Direita"
+
+#: ../class-et-builder-element.php:810 ../class-et-builder-element.php:1418
+#: ../class-et-builder-element.php:2823 ../functions.php:299
+#: ../main-modules.php:152 ../main-modules.php:1405 ../main-modules.php:7516
+#: ../main-modules.php:9978 ../main-modules.php:12560
+msgid "Left"
+msgstr "À Esquerda"
+
+#: ../class-et-builder-element.php:818
+#, php-format
+msgid "Only Show Icon On Hover for %1$s"
+msgstr "Apenas Mostrar o Ícone do rato por %1$s"
+
+#: ../class-et-builder-element.php:831
+#, php-format
+msgid "%1$s Hover Text Color"
+msgstr "%1$s Passe a Cor do Texto"
+
+#: ../class-et-builder-element.php:842
+#, php-format
+msgid "%1$s Hover Background Color"
+msgstr "%1$s Passe a Cor de Fundo"
+
+#: ../class-et-builder-element.php:853
+#, php-format
+msgid "%1$s Hover Border Color"
+msgstr "%1$s Hover Cor da Borda"
+
+#: ../class-et-builder-element.php:864
+#, php-format
+msgid "%1$s Hover Border Radius"
+msgstr "%1$s em Foco Border Radius"
+
+#: ../class-et-builder-element.php:874
+#, php-format
+msgid "%1$s Hover Letter Spacing"
+msgstr "%1$s Passe o Espaçamento entre as letras"
+
+#: ../class-et-builder-element.php:896
+msgid "Before"
+msgstr "Antes"
+
+#: ../class-et-builder-element.php:901
+msgid "Main Element"
+msgstr "Elemento Principal"
+
+#: ../class-et-builder-element.php:904
+msgid "After"
+msgstr "Depois"
+
+#: ../class-et-builder-element.php:1321 ../class-et-builder-element.php:2818
+msgid "Hex Value"
+msgstr "Valor da Cor"
+
+#: ../class-et-builder-element.php:1332
+msgid "Choose Custom Color"
+msgstr "Escolher Cor Personalizada"
+
+#: ../class-et-builder-element.php:1342
+msgid "Upload"
+msgstr "Upload"
+
+#: ../class-et-builder-element.php:1343
+msgid "Choose image"
+msgstr "Escolher imagem"
+
+#: ../class-et-builder-element.php:1344
+msgid "Set image"
+msgstr "Definir imagem"
+
+#: ../class-et-builder-element.php:1397 ../class-et-builder-element.php:2820
+#: ../main-modules.php:1401 ../main-modules.php:7710
+msgid "Top"
+msgstr "Topo"
+
+#: ../class-et-builder-element.php:1411 ../class-et-builder-element.php:2822
+#: ../main-modules.php:2584 ../main-modules.php:7712 ../main-modules.php:10506
+#: ../main-modules.php:10527
+msgid "Bottom"
+msgstr "Parte Inferior"
+
+#: ../class-et-builder-element.php:1554 ../class-et-builder-element.php:1759
+#: ../functions.php:4165
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: ../class-et-builder-element.php:1555
+msgid "Advanced Design Settings"
+msgstr "Configurações Avançadas de Design"
+
+#: ../class-et-builder-element.php:1556 ../functions.php:4173
+msgid "Custom CSS"
+msgstr "Customize CSS"
+
+#: ../class-et-builder-element.php:1709
+msgid "You don't have sufficient permissions to access the settings"
+msgstr "Você não tem permissões suficientes para acessar as configurações"
+
+#: ../class-et-builder-element.php:1734 ../main-modules.php:1231
+#: ../main-modules.php:1562 ../main-modules.php:1979 ../main-modules.php:2653
+#: ../main-modules.php:3057 ../main-modules.php:3853 ../main-modules.php:4070
+#: ../main-modules.php:4585 ../main-modules.php:4998 ../main-modules.php:6905
+#: ../main-modules.php:7036 ../main-modules.php:8245 ../main-modules.php:9389
+#: ../main-modules.php:9669 ../main-modules.php:10533
+#: ../main-modules.php:12024 ../main-modules.php:12112
+msgid "Content"
+msgstr "Conteúdo"
+
+#: ../class-et-builder-element.php:1735 ../main-modules.php:1981
+#: ../main-modules.php:6908
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr "Aqui você pode definir o conteúdo que será colocado na aba ativa."
+
+#: ../class-et-builder-element.php:1747
+msgid "Add New Item"
+msgstr "Adicionar Novo Item"
+
+#: ../class-et-builder-element.php:1747
+#, php-format
+msgid "Add New %s"
+msgstr "Adicionar Novo %s"
+
+#: ../class-et-builder-element.php:1794
+msgid "Mobile"
+msgstr "Móveis"
+
+#: ../class-et-builder-element.php:1795
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../class-et-builder-element.php:1796
+msgid "Desktop"
+msgstr "Ambiente de trabalho"
+
+#: ../class-et-builder-element.php:1856
+#, php-format
+msgid "%1$s %2$s Settings"
+msgstr "Configurações de %1$s %2$s"
+
+#: ../class-et-builder-element.php:1858
+msgid "Item"
+msgstr "Item"
+
+#: ../class-et-builder-element.php:1858 ../functions.php:1963
+#: ../functions.php:2007 ../layouts.php:174
+msgid "Module"
+msgstr "Módulo"
+
+#: ../class-et-builder-element.php:2812 ../functions.php:2004
+#: ../main-structure-elements.php:1583
+msgid "Column"
+msgstr "Coluna"
+
+#: ../class-et-builder-element.php:2819
+msgid "Padding"
+msgstr "Preenchimento"
+
+#: ../framework.php:28
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Por favor, verifique os campos abaixo para verifique se você digitou as "
+"informações corretas."
+
+#: ../framework.php:29
+msgid "Fill"
+msgstr "Preencha"
+
+#: ../framework.php:30
+msgid "field"
+msgstr "campo"
+
+#: ../framework.php:31
+msgid "Invalid email"
+msgstr "E-mail inválido"
+
+#: ../framework.php:32
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../framework.php:33
+msgid "Prev"
+msgstr "Anterior"
+
+#: ../framework.php:34
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../framework.php:35
+msgid "Next"
+msgstr "Próximo"
+
+#: ../framework.php:67
+#, php-format
+msgid "Unauthorized access. Preview cannot be accessed outside %1$s."
+msgstr ""
+"O acesso não autorizado. Pré-visualização não pode ser acessado fora de %1$s."
+
+#: ../functions.php:66 ../functions.php:1972 ../functions.php:3682
+msgid "All Categories"
+msgstr "Todas as Categorias"
+
+#: ../functions.php:75 ../layouts.php:10
+msgid "All Layouts"
+msgstr "Todos os Layouts"
+
+#: ../functions.php:76 ../functions.php:1267
+msgid "Modules"
+msgstr "Módulos"
+
+#: ../functions.php:77 ../functions.php:1266
+msgid "Rows"
+msgstr "Linhas"
+
+#: ../functions.php:78 ../functions.php:1265
+msgid "Sections"
+msgstr "Seções"
+
+#: ../functions.php:79 ../functions.php:1264 ../layouts.php:4
+msgid "Layouts"
+msgstr "Layouts"
+
+#: ../functions.php:83
+msgid "Global/not Global"
+msgstr "Global/não-Global"
+
+#: ../functions.php:84 ../layouts.php:181
+msgid "Global"
+msgstr "Global"
+
+#: ../functions.php:85
+msgid "not Global"
+msgstr "não-Global"
+
+#: ../functions.php:138 ../functions.php:153 ../functions.php:1900
+msgid "you don't have sufficient permissions to access this page"
+msgstr "você não tem permissões suficientes para acessar esta página"
+
+#: ../functions.php:300 ../functions.php:308 ../main-modules.php:153
+#: ../main-modules.php:2542 ../main-modules.php:2583 ../main-modules.php:9979
+#: ../main-modules.php:10505 ../main-modules.php:12561
+msgid "Center"
+msgstr "Centralizado"
+
+#: ../functions.php:302
+msgid "Justified"
+msgstr "Justificado"
+
+#: ../functions.php:320
+msgid "Update Gallery"
+msgstr "Atualizar Galeria"
+
+#: ../functions.php:329
+msgid "Select a menu"
+msgstr "Selecione um menu"
+
+#: ../functions.php:478
+msgid "Solid"
+msgstr "Sólida"
+
+#: ../functions.php:479
+msgid "Dotted"
+msgstr "Pontilhada"
+
+#: ../functions.php:480
+msgid "Dashed"
+msgstr "Tracejada"
+
+#: ../functions.php:481
+msgid "Double"
+msgstr "Dupla"
+
+#: ../functions.php:482
+msgid "Groove"
+msgstr "Ranhura"
+
+#: ../functions.php:483
+msgid "Ridge"
+msgstr "Ondulado"
+
+#: ../functions.php:484
+msgid "Inset"
+msgstr "Baixo-relevo"
+
+#: ../functions.php:485
+msgid "Outset"
+msgstr "Alto-relevo"
+
+#: ../functions.php:1224
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"A área de widgets <strong>%1$s</strong> foi criada. Você pode criar mais "
+"áreas, depois que terminar de atualizar a página para ver todas as áreas."
+
+#: ../functions.php:1248
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Você não tem permissões suficientes para exportar o conteúdo deste site."
+
+#: ../functions.php:1252
+msgid "Export Divi Builder Layouts"
+msgstr "Exportar Layouts do Construtor Divi"
+
+#: ../functions.php:1253
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Quando você clica no botão WordPress irá criar um arquivo XML para você "
+"salvar no computador."
+
+#: ../functions.php:1254
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Este formato, que é chamado WordPress eXtended RSS ou WXR, irá conter todos "
+"os layouts criados pelo criador da página."
+
+#: ../functions.php:1255
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"Uma vez que você salvou o arquivo carregado, você pode utilizar a função "
+"Importar em outro WordPress para importar todos os layouts a partir deste "
+"site."
+
+#: ../functions.php:1256
+msgid "Select Templates you want to export:"
+msgstr "Selecione os Modelos que você queira exportar:"
+
+#: ../functions.php:1289
+msgid "Download Export File"
+msgstr "Baixar Arquivo Exportar"
+
+#: ../functions.php:1294
+msgid "Export Divi Layouts"
+msgstr "Exportar Layouts do Divi"
+
+#: ../functions.php:1298
+msgid "Manage Categories"
+msgstr "Gerenciar Categorias"
+
+#: ../functions.php:1445 ../functions.php:1447
+msgid "Use Default Editor"
+msgstr "Utilizar Editor Padrão"
+
+#: ../functions.php:1445 ../functions.php:1446
+msgid "Use The Divi Builder"
+msgstr "Usar o Construtor Divi"
+
+#: ../functions.php:1488
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Aqui você pode criar novas áreas de widgets para usar no módulo da Barra "
+"Lateral"
+
+#: ../functions.php:1489
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Nota: Colocar os nomes \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" ou \"sidebar 5\" na sua área de widgets irá causar conflitos "
+"com este tema"
+
+#: ../functions.php:1490
+msgid "Widget Name"
+msgstr "Nome do Widget"
+
+#: ../functions.php:1491
+msgid "Create"
+msgstr "Criar"
+
+#: ../functions.php:1493 ../functions.php:1587 ../functions.php:3004
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../functions.php:1545
+msgid "Replace the existing content with loaded layout"
+msgstr "Substituir o conteúdo existente com um novo layout"
+
+#: ../functions.php:1584
+msgid "Load"
+msgstr "Carregar"
+
+#: ../functions.php:1689
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"Você ainda não salvou nenhum item na sua Biblioteca Divi. Quando o item "
+"tiver sido salvo na biblioteca, ele aparecerá aqui para fácil utilização."
+
+#: ../functions.php:1959
+msgid "The section should have at least one row."
+msgstr "A seção deve ter pelo menos uma linha."
+
+#: ../functions.php:1960
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr ""
+"Módulo da largura total não pode ser utilizado fora da seção de largura "
+"total."
+
+#: ../functions.php:1961
+msgid "3 column row can't be used in this column."
+msgstr "3 colunas não podem ser utilizadas nesta coluna."
+
+#: ../functions.php:1962 ../functions.php:2449 ../functions.php:2815
+msgid "Preview"
+msgstr "Anterior"
+
+#: ../functions.php:1964
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"As fotos não podem ser geradas a partir deste serviço de vídeo e/ou este "
+"formato de vídeo"
+
+#: ../functions.php:1965
+msgid "Geocode was not successful for the following reason"
+msgstr "O Geocódigo não teve sucesso pelo seguinte motivo"
+
+#: ../functions.php:1966
+msgid "Geocoder failed due to"
+msgstr "O Geocodificador falhou devido a"
+
+#: ../functions.php:1967
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+#: ../functions.php:1968
+msgid "No available options for this configuration."
+msgstr "Nenhuma opção disponível para esta configuração."
+
+#: ../functions.php:1969
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"Você está prestes a atualizar o módulo global. Esta alteração será aplicada "
+"a todas as páginas em que você usar este módulo. Pressione OK se você deseja "
+"atualizar este módulo"
+
+#: ../functions.php:1970
+msgid "You cannot add global rows into global sections"
+msgstr "Você não pode adicionar linhas globais em seções globais"
+
+#: ../functions.php:1971
+msgid "You cannot add global modules into global sections or rows"
+msgstr "Você não pode adicionar módulos globais em seções ou linhas globais"
+
+#: ../functions.php:1976
+msgid "You do not have permission to unlock this section."
+msgstr "Você não tem permissão para desbloquear esta seção."
+
+#: ../functions.php:1977
+msgid "You do not have permission to unlock this row."
+msgstr "Você não tem permissão para desbloquear esta linha."
+
+#: ../functions.php:1978
+msgid "You do not have permission to unlock this module."
+msgstr "Você não tem permissão para desbloquear este módulo."
+
+#: ../functions.php:1979
+msgid "You do not have permission to perform this task."
+msgstr "Você não tem permissão para executar esta tarefa."
+
+#: ../functions.php:1980
+msgid ""
+"Unable to perform copy/paste process due to inavailability of localStorage "
+"feature in your browser. Please use latest modern browser (Chrome, Firefox, "
+"or Safari) to perform copy/paste process"
+msgstr ""
+"Não é possível realizar copiar/colar processo devido a inavailability de "
+"localStorage recurso em seu navegador. Por favor, use mais moderna navegador "
+"(Chrome, Firefox ou Safari) para realizar copiar/colar processo"
+
+#: ../functions.php:1982
+msgid "Did"
+msgstr "Fiz"
+
+#: ../functions.php:1983
+msgid "Added"
+msgstr "Adicionado"
+
+#: ../functions.php:1984
+msgid "Edited"
+msgstr "Editado"
+
+#: ../functions.php:1985
+msgid "Removed"
+msgstr "Removido"
+
+#: ../functions.php:1986
+msgid "Moved"
+msgstr "Movido"
+
+#: ../functions.php:1987
+msgid "Expanded"
+msgstr "Expandida"
+
+#: ../functions.php:1988
+msgid "Collapsed"
+msgstr "Desabou"
+
+#: ../functions.php:1989
+msgid "Locked"
+msgstr "Bloqueado"
+
+#: ../functions.php:1990
+msgid "Unlocked"
+msgstr "Desbloqueado"
+
+#: ../functions.php:1991
+msgid "Cloned"
+msgstr "Clonado"
+
+#: ../functions.php:1992
+msgid "Cleared"
+msgstr "Limpo"
+
+#: ../functions.php:1993
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: ../functions.php:1994
+msgid "Disabled"
+msgstr "Deficiência"
+
+#: ../functions.php:1995
+msgid "Copied"
+msgstr "Copiado"
+
+#: ../functions.php:1996
+msgid "Renamed"
+msgstr "Renomeado"
+
+#: ../functions.php:1997
+msgid "Loaded"
+msgstr "Carregado"
+
+#: ../functions.php:2000 ../layouts.php:177 ../main-structure-elements.php:5
+msgid "Section"
+msgstr "Seção"
+
+#: ../functions.php:2001
+msgid "Saved Section"
+msgstr "Seção Salvo"
+
+#: ../functions.php:2002 ../functions.php:2596 ../layouts.php:178
+msgid "Fullwidth Section"
+msgstr "Seção de Largura Inteira"
+
+#: ../functions.php:2003 ../functions.php:2597 ../layouts.php:179
+msgid "Specialty Section"
+msgstr "Seção Especial"
+
+#: ../functions.php:2005 ../layouts.php:176 ../main-structure-elements.php:633
+#: ../main-structure-elements.php:1265
+msgid "Row"
+msgstr "Linha"
+
+#: ../functions.php:2006
+msgid "Saved Row"
+msgstr "Linha Gravada"
+
+#: ../functions.php:2008
+msgid "Saved Module"
+msgstr "Salvo Módulo"
+
+#: ../functions.php:2009
+msgid "Page"
+msgstr "Página"
+
+#: ../functions.php:2010 ../layouts.php:5 ../layouts.php:180
+#: ../main-modules.php:392 ../main-modules.php:5309 ../main-modules.php:5678
+#: ../main-modules.php:8200 ../main-modules.php:11687
+msgid "Layout"
+msgstr "Layout"
+
+#: ../functions.php:2012
+msgid "Invalid Color"
+msgstr "Cor Inválido"
+
+#: ../functions.php:2027
+msgid "The Divi Builder"
+msgstr "O Construtor Divi"
+
+#: ../functions.php:2038
+#, php-format
+msgid "Posts by %s"
+msgstr "Postagem de %s"
+
+#: ../functions.php:2053
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: ../functions.php:2055
+msgid "No Comments"
+msgstr "Nenhum Comentário"
+
+#: ../functions.php:2057
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: ../functions.php:2068
+msgid "by"
+msgstr "por"
+
+#: ../functions.php:2350 ../functions.php:2477
+msgid "Rename"
+msgstr "Mudar o nome"
+
+#: ../functions.php:2356
+msgid "Copy"
+msgstr "Cópia"
+
+#: ../functions.php:2362
+msgid "Paste After"
+msgstr "Depois De Colar"
+
+#: ../functions.php:2368 ../functions.php:2374
+msgid "Paste"
+msgstr "Colar"
+
+#: ../functions.php:2380 ../functions.php:2485 ../functions.php:2486
+msgid "Save to Library"
+msgstr "Salvar na Biblioteca"
+
+#: ../functions.php:2386
+msgid "Unlock"
+msgstr "Desbloquear"
+
+#: ../functions.php:2387
+msgid "Lock"
+msgstr "Bloqueio"
+
+#: ../functions.php:2393 ../functions.php:4363
+msgid "Enable"
+msgstr "Activar"
+
+#: ../functions.php:2394 ../functions.php:4364
+msgid "Disable"
+msgstr "Desativar"
+
+#: ../functions.php:2439 ../main-modules.php:11043
+msgid "Expand"
+msgstr "Expandir"
+
+#: ../functions.php:2440
+msgid "Collapse"
+msgstr "Colapso"
+
+#: ../functions.php:2444 ../functions.php:2533 ../functions.php:2534
+msgid "Undo"
+msgstr "Desfazer"
+
+#: ../functions.php:2445 ../functions.php:2531 ../functions.php:2532
+msgid "Redo"
+msgstr "Refazer"
+
+#: ../functions.php:2465 ../functions.php:2838 ../functions.php:3024
+#: ../functions.php:3079
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../functions.php:2466 ../functions.php:3025 ../functions.php:3080
+msgid "Save"
+msgstr "Salvar"
+
+#: ../functions.php:2478
+msgid "Enter a new name for this module"
+msgstr "Introduza um novo nome para este módulo"
+
+#: ../functions.php:2492 ../functions.php:2493
+msgid "Load From Library"
+msgstr "Abrir da Biblioteca"
+
+#: ../functions.php:2499 ../functions.php:2500 ../functions.php:3049
+msgid "Clear Layout"
+msgstr "Limpar Layout"
+
+#: ../functions.php:2535 ../functions.php:2536
+msgid "See History"
+msgstr "Veja A História"
+
+#: ../functions.php:2543 ../functions.php:2544 ../functions.php:2623
+#: ../functions.php:2624 ../functions.php:3005
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../functions.php:2549 ../functions.php:2550
+msgid "Clone Section"
+msgstr "Clonar Seção"
+
+#: ../functions.php:2554 ../functions.php:2555
+msgid "Delete Section"
+msgstr "Excluir Seção"
+
+#: ../functions.php:2559 ../functions.php:2560
+msgid "Unlock Section"
+msgstr "Desbloquear Secção"
+
+#: ../functions.php:2578 ../functions.php:2579
+msgid "Expand Section"
+msgstr "Expanda A Seção"
+
+#: ../functions.php:2584 ../functions.php:2865 ../functions.php:2908
+#: ../functions.php:2971 ../functions.php:4152
+msgid "Add From Library"
+msgstr "Adicionar a partir da Biblioteca"
+
+#: ../functions.php:2595
+msgid "Standard Section"
+msgstr "Seção Padrão"
+
+#: ../functions.php:2631 ../functions.php:2632
+msgid "Clone Row"
+msgstr "Clonar Linha"
+
+#: ../functions.php:2640 ../functions.php:2641
+msgid "Delete Row"
+msgstr "Excluir Linha"
+
+#: ../functions.php:2649 ../functions.php:2650
+msgid "Change Structure"
+msgstr "Modificar Estrutura"
+
+#: ../functions.php:2656 ../functions.php:2657
+msgid "Unlock Row"
+msgstr "Desbloqueio De Linha"
+
+#: ../functions.php:2682 ../functions.php:2683
+msgid "Expand Row"
+msgstr "Expanda Linha"
+
+#: ../functions.php:2703
+msgid "Add Row"
+msgstr "Adicionar Linha"
+
+#: ../functions.php:2711
+msgid "Insert Column(s)"
+msgstr "Inserir Coluna(s)"
+
+#: ../functions.php:2741 ../functions.php:2742 ../functions.php:3006
+msgid "Clone Module"
+msgstr "Clonar Módulo"
+
+#: ../functions.php:2752 ../functions.php:2753
+msgid "Remove Module"
+msgstr "Remover Módulo"
+
+#: ../functions.php:2763 ../functions.php:2764
+msgid "Unlock Module"
+msgstr "Desbloquear Módulo De"
+
+#: ../functions.php:2772 ../functions.php:2773
+msgid "Module Settings"
+msgstr "Configurações de Módulo"
+
+#: ../functions.php:2798
+msgid "Save & Exit"
+msgstr "Salvar e Sair"
+
+#: ../functions.php:2807
+msgid "Save & Add To Library"
+msgstr "Salvar e Adicionar à Biblioteca"
+
+#: ../functions.php:2893
+msgid "Insert Columns"
+msgstr "Inserir Colunas"
+
+#: ../functions.php:2895
+msgid "New Row"
+msgstr "Nova Linha"
+
+#: ../functions.php:2937
+msgid "Insert Module"
+msgstr "Inserir Módulo"
+
+#: ../functions.php:2938
+msgid "New Module"
+msgstr "Novo Módulo"
+
+#: ../functions.php:2969 ../functions.php:4139
+msgid "Load Layout"
+msgstr "Carregar Layout"
+
+#: ../functions.php:2970
+msgid "Predefined Layouts"
+msgstr "Layouts Predefinidos"
+
+#: ../functions.php:2978
+msgid "Insert Module(s)"
+msgstr "Inserir Módulo(s)"
+
+#: ../functions.php:3036
+msgid "Disable Builder"
+msgstr "Desabilitar Construtor"
+
+#: ../functions.php:3037
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Todo o conteúdo criado no Construtor Divi será perdido. O conteúdo anterior "
+"será restaurado."
+
+#: ../functions.php:3038 ../functions.php:3051 ../functions.php:3062
+msgid "Do you wish to proceed?"
+msgstr "Você deseja prosseguir?"
+
+#: ../functions.php:3050
+msgid "All of your current page content will be lost."
+msgstr "Todo o conteúdo da página atual será perdido."
+
+#: ../functions.php:3061
+msgid "All advanced module settings in will be lost."
+msgstr "Todas as configurações avançadas do módulo serão perdidas."
+
+#: ../functions.php:3093 ../functions.php:4148
+msgid "Save To Library"
+msgstr "Salvar na Biblioteca"
+
+#: ../functions.php:3094
+msgid "Save your current page to the Divi Library for later use."
+msgstr "Salve sua página atual na Biblioteca Divi para uso posterior."
+
+#: ../functions.php:3095
+msgid "Layout Name:"
+msgstr "Nome do Layout:"
+
+#: ../functions.php:3109
+msgid "Save And Add To Library"
+msgstr "Salvar e Adicionar à Biblioteca"
+
+#: ../functions.php:3116
+msgid "Add To Categories:"
+msgstr "Adicionar às Categorias:"
+
+#: ../functions.php:3137
+msgid "Create New Category"
+msgstr "Criar Nova Categoria"
+
+#: ../functions.php:3144
+msgid "Include General settings"
+msgstr "Incluir Configurações Gerais"
+
+#: ../functions.php:3150
+msgid "Include Advanced Design settings"
+msgstr "Incluir Configurações Avançadas de Design"
+
+#: ../functions.php:3156 ../layouts.php:185
+msgid "Include Custom CSS"
+msgstr "Incluir CSS Personalizado"
+
+#: ../functions.php:3204
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Aqui você pode salvar o item atual e adicioná-lo à sua Biblioteca Divi para "
+"uso posterior, também."
+
+#: ../functions.php:3205
+msgid "Template Name"
+msgstr "Nome do Modelo"
+
+#: ../functions.php:3206
+msgid "Selective Sync"
+msgstr "Sincronização Seletiva"
+
+#: ../functions.php:3210 ../layouts.php:186
+msgid "Please select at least 1 tab to save"
+msgstr "Por favor, selecione pelo menos 1 aba para salvar"
+
+#: ../functions.php:3211
+msgid "Save as Global:"
+msgstr "Salvar como Global:"
+
+#: ../functions.php:3212
+msgid "Make this a global item"
+msgstr "Tornar este item global"
+
+#: ../functions.php:3240
+msgid "Add Specialty Section"
+msgstr "Adicionar Seção de Especialidade"
+
+#: ../functions.php:3431
+msgid "Configuration error"
+msgstr "Erro de configuração"
+
+#: ../functions.php:3441
+msgid "Please enter first name"
+msgstr "Por favor, digite o primeiro nome"
+
+#: ../functions.php:3443
+msgid "Incorrect email"
+msgstr "E-mail incorreto"
+
+#: ../functions.php:3445
+msgid "Configuration error: List is not defined"
+msgstr "Erro de configuração: a Lista não está definida"
+
+#: ../functions.php:3447
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Subscrito - olhe para o e-mail de confirmação!"
+"</h2>"
+
+#: ../functions.php:3459
+msgid "Configuration error: api key is not defined"
+msgstr "Erro de configuração: chave de api não está definido"
+
+#: ../functions.php:3496
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: configuração Errada de dados"
+
+#: ../functions.php:3527
+msgid "Connecting..."
+msgstr "Conectando-se..."
+
+#: ../functions.php:3528
+msgid "Connection failed"
+msgstr "Falha na conexão"
+
+#: ../functions.php:3529
+msgid "Removing connection..."
+msgstr "Removendo conexão..."
+
+#: ../functions.php:3530
+msgid "Done"
+msgstr "Feito"
+
+#: ../functions.php:3559
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Passo 1: <a href=\"%1$s\" target=\"_blank\">Gerar código de autorização</a>"
+
+#: ../functions.php:3560
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Etapa 2: Colar o código de autorização e clique em \"criar uma ligação\" "
+"botão: "
+
+#: ../functions.php:3561
+msgid "Make a connection"
+msgstr "Fazer uma ligação"
+
+#: ../functions.php:3564
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber está configurado corretamente. Você pode remover a conexão aqui, se "
+"você desejar."
+
+#: ../functions.php:3565
+msgid "Remove the connection"
+msgstr "Remover a ligação"
+
+#: ../functions.php:3573
+msgid "Nonce failed."
+msgstr "Nonce falhou."
+
+#: ../functions.php:3579
+msgid "Authorization code is empty."
+msgstr "Código de autorização é vazia."
+
+#: ../functions.php:3590
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Código de autorização é inválido. Tente de regeneração e cole o código novo."
+
+#: ../functions.php:3612
+msgid "Aweber API Exception"
+msgstr "Aweber API Exceção"
+
+#: ../functions.php:3613 ../main-modules.php:8712
+msgid "Type"
+msgstr "Tipo"
+
+#: ../functions.php:3614 ../main-modules.php:7373
+msgid "Message"
+msgstr "Mensagem"
+
+#: ../functions.php:3615
+msgid "Documentation"
+msgstr "Documentação"
+
+#: ../functions.php:3625
+msgid "Nonce failed"
+msgstr "Nonce falha"
+
+#: ../functions.php:3642
+msgid "Projects"
+msgstr "Projetos"
+
+#: ../functions.php:3643
+msgid "Project"
+msgstr "Projeto"
+
+#: ../functions.php:3644 ../layouts.php:6
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: ../functions.php:3645
+msgid "Add New Project"
+msgstr "Adicionar Novo Projecto"
+
+#: ../functions.php:3646
+msgid "Edit Project"
+msgstr "Editar O Projeto"
+
+#: ../functions.php:3647
+msgid "New Project"
+msgstr "Novo Projeto"
+
+#: ../functions.php:3648
+msgid "All Projects"
+msgstr "Todos Os Projetos"
+
+#: ../functions.php:3649
+msgid "View Project"
+msgstr "Ver Projeto"
+
+#: ../functions.php:3650
+msgid "Search Projects"
+msgstr "Projetos De Pesquisa"
+
+#: ../functions.php:3651 ../layouts.php:13
+msgid "Nothing found"
+msgstr "Nada foi encontrado"
+
+#: ../functions.php:3652 ../layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "Nada foi encontrado na lixeira"
+
+#: ../functions.php:3679
+msgid "Project Categories"
+msgstr "Categorias De Projetos"
+
+#: ../functions.php:3680
+msgid "Project Category"
+msgstr "Categoria De Projeto"
+
+#: ../functions.php:3681
+msgid "Search Categories"
+msgstr "Pesquisar Categorias"
+
+#: ../functions.php:3683
+msgid "Parent Category"
+msgstr "Categoria Principal"
+
+#: ../functions.php:3684
+msgid "Parent Category:"
+msgstr "Categoria Pai:"
+
+#: ../functions.php:3685
+msgid "Edit Category"
+msgstr "Editar Categoria"
+
+#: ../functions.php:3686
+msgid "Update Category"
+msgstr "A Categoria De Actualização"
+
+#: ../functions.php:3687
+msgid "Add New Category"
+msgstr "Adicionar Nova Categoria"
+
+#: ../functions.php:3688
+msgid "New Category Name"
+msgstr "Novo Nome Da Categoria"
+
+#: ../functions.php:3689
+msgid "Categories"
+msgstr "Categorias"
+
+#: ../functions.php:3701
+msgid "Project Tags"
+msgstr "Projeto De Tags"
+
+#: ../functions.php:3702
+msgid "Project Tag"
+msgstr "Projeto Marca"
+
+#: ../functions.php:3703
+msgid "Search Tags"
+msgstr "Tags De Pesquisa"
+
+#: ../functions.php:3704
+msgid "All Tags"
+msgstr "Todas As Tags"
+
+#: ../functions.php:3705
+msgid "Parent Tag"
+msgstr "Pai Tag"
+
+#: ../functions.php:3706
+msgid "Parent Tag:"
+msgstr "Pai Tag:"
+
+#: ../functions.php:3707
+msgid "Edit Tag"
+msgstr "Editar Tag"
+
+#: ../functions.php:3708
+msgid "Update Tag"
+msgstr "Atualização Tag"
+
+#: ../functions.php:3709
+msgid "Add New Tag"
+msgstr "Adicionar Nova Tag"
+
+#: ../functions.php:3710
+msgid "New Tag Name"
+msgstr "Novo Nome De Marca"
+
+#: ../functions.php:3711
+msgid "Tags"
+msgstr "Tags"
+
+#: ../functions.php:3771
+msgid "Read more"
+msgstr "Leia mais"
+
+#: ../functions.php:4080
+msgid "Theme Customizer"
+msgstr "Customizador de Tema"
+
+#: ../functions.php:4085
+msgid "Module Customizer"
+msgstr "Customizador de Módulo"
+
+#: ../functions.php:4097
+msgid "Plugin Options"
+msgstr "As Opções De Plugin"
+
+#: ../functions.php:4097
+msgid "Theme Options"
+msgstr "Opções De Tema"
+
+#: ../functions.php:4102
+msgid "Divi Library"
+msgstr "Biblioteca Divi"
+
+#: ../functions.php:4106
+msgid "Page Options"
+msgstr "Opções De Página"
+
+#: ../functions.php:4112
+msgid "Builder Interface"
+msgstr "Interface Do Construtor"
+
+#: ../functions.php:4115
+msgid "Add/Delete Item"
+msgstr "Adicionar/Excluir Item"
+
+#: ../functions.php:4119
+msgid "Edit Item"
+msgstr "Editar Item"
+
+#: ../functions.php:4123
+msgid "Move Item"
+msgstr "Deslocar Item"
+
+#: ../functions.php:4127
+msgid "Disable Item"
+msgstr "Desabilitar O Item"
+
+#: ../functions.php:4131
+msgid "Lock Item"
+msgstr "Bloquear O Item"
+
+#: ../functions.php:4135
+msgid "Toggle Divi Builder"
+msgstr "Alternar Divi Builder"
+
+#: ../functions.php:4145
+msgid "Library Settings"
+msgstr "Definições Da Biblioteca De"
+
+#: ../functions.php:4156
+msgid "Edit Global Items"
+msgstr "Editar Global Itens"
+
+#: ../functions.php:4162
+msgid "Settings Tabs"
+msgstr "Guias De Configurações"
+
+#: ../functions.php:4169
+msgid "Advanced Settings"
+msgstr "Configurações Avançadas"
+
+#: ../functions.php:4179
+msgid "Settings Types"
+msgstr "Definições De Tipos"
+
+#: ../functions.php:4182
+msgid "Edit Colors"
+msgstr "Editar Cores"
+
+#: ../functions.php:4186
+msgid "Edit Content"
+msgstr "Editar O Conteúdo"
+
+#: ../functions.php:4190
+msgid "Edit Fonts"
+msgstr "Editar Fontes"
+
+#: ../functions.php:4194
+msgid "Edit Buttons"
+msgstr "Botões De Edição"
+
+#: ../functions.php:4198 ../layouts.php:8
+msgid "Edit Layout"
+msgstr "Editar Layout"
+
+#: ../functions.php:4202
+msgid "Edit Configuration"
+msgstr "Editar A Configuração"
+
+#: ../functions.php:4208
+msgid "Module Use"
+msgstr "Uso Do Módulo"
+
+#: ../functions.php:4248
+msgid "Administrator"
+msgstr "Administrador"
+
+#: ../functions.php:4249
+msgid "Editor"
+msgstr "Editor"
+
+#: ../functions.php:4250
+msgid "Author"
+msgstr "Autor"
+
+#: ../functions.php:4251
+msgid "Contributor"
+msgstr "Contribuinte"
+
+#: ../functions.php:4286
+msgid "Divi Role Editor"
+msgstr "Divi Função De Editor De"
+
+#: ../functions.php:4287
+msgid "Save Divi Roles"
+msgstr "Salvar Divi Funções"
+
+#: ../functions.php:4326
+msgid ""
+"Using the Divi Role Editor, you can limit the types of actions that can be "
+"taken by WordPress users of different roles. This is a great way to limit "
+"the functionality available to your customers or guest authors to ensure "
+"that they only have the necessary options available to them."
+msgstr ""
+"Usando o Divi Função de Editor, você pode limitar os tipos de ações que "
+"podem ser tomadas pelos usuários do WordPress de diferentes funções. Esta é "
+"uma ótima maneira de limitar a funcionalidade disponível para os seus "
+"clientes ou os autores convidados para garantir que elas tem somente o "
+"necessário opções disponíveis para eles."
+
+#: ../functions.php:4393
+msgid "Reset Roles"
+msgstr "Redefinição De Papéis"
+
+#: ../functions.php:4394
+msgid ""
+"All of your current role settings will be set to defaults. Do you wish to "
+"proceed?"
+msgstr ""
+"Todas as suas funções actuais configurações serão definidas para as "
+"predefinições. Deseja continuar?"
+
+#: ../functions.php:4395
+msgid "yes"
+msgstr "sim"
+
+#: ../functions.php:4396
+msgid "no"
+msgstr "nenhum"
+
+#: ../layouts.php:7
+msgid "Add New Layout"
+msgstr "Adicionar Novo Layout"
+
+#: ../layouts.php:9
+msgid "New Layout"
+msgstr "Novo Layout"
+
+#: ../layouts.php:11
+msgid "View Layout"
+msgstr "Visualizar Layout"
+
+#: ../layouts.php:12
+msgid "Search Layouts"
+msgstr "Pesquisar Layouts"
+
+#: ../layouts.php:38
+msgid "Scope"
+msgstr "Escopo"
+
+#: ../layouts.php:51
+msgid "Layout Type"
+msgstr "Tipo de Layout"
+
+#: ../layouts.php:64
+msgid "Module Width"
+msgstr "Largura do Módulo"
+
+#: ../layouts.php:77
+msgid "Category"
+msgstr "Categoria"
+
+#: ../layouts.php:171
+msgid "New Template Settings"
+msgstr "Configurações do Novo Modelo"
+
+#: ../layouts.php:172
+msgid "Template Name:"
+msgstr "Nome do Modelo:"
+
+#: ../layouts.php:173
+msgid "Template Type:"
+msgstr "Tipo de Modelo:"
+
+#: ../layouts.php:175
+msgid "Fullwidth Module"
+msgstr "Módulo de Largura Inteira"
+
+#: ../layouts.php:182
+msgid "Close Modal Window"
+msgstr "Fechar Janela Restrita"
+
+#: ../layouts.php:183
+msgid "Include General Settings"
+msgstr "Incluir Configurações Gerais"
+
+#: ../layouts.php:184
+msgid "Include Advanced Design Settings"
+msgstr "Incluir Configurações Avançadas de Design"
+
+#: ../layouts.php:187
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr ""
+"Selecione a(s) categoria(s) para o novo modelo ou digite um nome (opcional)"
+
+#: ../layouts.php:250
+msgid "Homepage Basic"
+msgstr "Página Inicial Básica"
+
+#: ../layouts.php:258
+msgid "Homepage Shop"
+msgstr "Página Inicial Loja"
+
+#: ../layouts.php:268
+msgid "Homepage Portfolio"
+msgstr "Página Inicial Portfólio"
+
+#: ../layouts.php:276
+msgid "Homepage Company"
+msgstr "Página Inicial Empresa"
+
+#: ../layouts.php:284
+msgid "Homepage Corporate"
+msgstr "Página Inicial Corporativa"
+
+#: ../layouts.php:295
+msgid "Homepage Extended"
+msgstr "Página Inicial Estendida"
+
+#: ../layouts.php:304
+msgid "Page Fullwidth"
+msgstr "Largura Completa de Página"
+
+#: ../layouts.php:338
+msgid "Page Right Sidebar"
+msgstr "Barra Lateral Direita da Página"
+
+#: ../layouts.php:372
+msgid "Page Left Sidebar"
+msgstr "Barra Lateral Esquerda da Página"
+
+#: ../layouts.php:406
+msgid "Page Dual Sidebars"
+msgstr "Barras Laterais Duplas da Página"
+
+#: ../layouts.php:428
+msgid "Portfolio Grid"
+msgstr "Grade de Portfólio"
+
+#: ../layouts.php:436
+msgid "Portfolio 1 Column"
+msgstr "Portfólio 1 Coluna"
+
+#: ../layouts.php:444
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Portfólio Carrossel de Largura Completa"
+
+#: ../layouts.php:452
+msgid "Portfolio Fullwidth Grid"
+msgstr "Portfólio Grade de Largura Completa"
+
+#: ../layouts.php:460
+msgid "Project Extended"
+msgstr "Projeto Estendido"
+
+#: ../layouts.php:470
+msgid "Project Extended 2"
+msgstr "Projeto Estendido 2"
+
+#: ../layouts.php:483
+msgid "Blog Masonry"
+msgstr "Blog Alvenaria"
+
+#: ../layouts.php:491
+msgid "Blog Standard"
+msgstr "Blog Padrão"
+
+#: ../layouts.php:499
+msgid "Shop Basic"
+msgstr "Loja Básica"
+
+#: ../layouts.php:507
+msgid "Shop Extended"
+msgstr "Loja Estendida"
+
+#: ../layouts.php:515
+msgid "Splash Page"
+msgstr "Página Splash"
+
+#: ../layouts.php:526
+msgid "Maintenance Mode"
+msgstr "Modo de Manutenção"
+
+#: ../layouts.php:535
+msgid "Coming Soon"
+msgstr "Em Breve"
+
+#: ../layouts.php:543
+msgid "Landing Page"
+msgstr "Página de Destino"
+
+#: ../layouts.php:552
+msgid "About Me"
+msgstr "Sobre Mim"
+
+#: ../layouts.php:561
+msgid "About Us"
+msgstr "Sobre Nós"
+
+#: ../layouts.php:570
+msgid "Contact Us"
+msgstr "Entre em Contato Conosco"
+
+#: ../layouts.php:586
+msgid "Our Team"
+msgstr "Nossa Equipe"
+
+#: ../layouts.php:699
+msgid "Creative Agency"
+msgstr "Agência Criativa"
+
+#: ../layouts.php:708
+msgid "Sales Page"
+msgstr "Página de Ofertas"
+
+#: ../layouts.php:744
+msgid "Case Study"
+msgstr "Estudo de Caso"
+
+#: ../layouts.php:754
+msgid "Product Features"
+msgstr "Características do Produto"
+
+#: ../main-modules.php:4 ../main-modules.php:1508 ../main-modules.php:8687
+msgid "Image"
+msgstr "Imagem"
+
+#: ../main-modules.php:49 ../main-modules.php:1537 ../main-modules.php:7921
+#: ../main-modules.php:12260
+msgid "Left To Right"
+msgstr "Esquerda para Direita"
+
+#: ../main-modules.php:50 ../main-modules.php:1538 ../main-modules.php:7922
+#: ../main-modules.php:12261
+msgid "Right To Left"
+msgstr "Direita para Esquerda"
+
+#: ../main-modules.php:51 ../main-modules.php:1536 ../main-modules.php:7923
+#: ../main-modules.php:12262
+msgid "Top To Bottom"
+msgstr "Cima para Baixo"
+
+#: ../main-modules.php:52 ../main-modules.php:1539 ../main-modules.php:7924
+#: ../main-modules.php:12263
+msgid "Bottom To Top"
+msgstr "Baixo para Cima"
+
+#: ../main-modules.php:53 ../main-modules.php:7920 ../main-modules.php:12264
+msgid "Fade In"
+msgstr "Desvanecer"
+
+#: ../main-modules.php:54 ../main-modules.php:1540 ../main-modules.php:7919
+#: ../main-modules.php:12265
+msgid "No Animation"
+msgstr "Sem Animação"
+
+#: ../main-modules.php:78 ../main-modules.php:7906 ../main-modules.php:12203
+msgid "Image URL"
+msgstr "URL da Imagem"
+
+#: ../main-modules.php:82 ../main-modules.php:715 ../main-modules.php:1061
+#: ../main-modules.php:1512 ../main-modules.php:3006 ../main-modules.php:4278
+#: ../main-modules.php:7910 ../main-modules.php:10442
+#: ../main-modules.php:10484 ../main-modules.php:10517
+#: ../main-modules.php:12207
+msgid "Choose an Image"
+msgstr "Selecionar uma Imagem"
+
+#: ../main-modules.php:83 ../main-modules.php:716 ../main-modules.php:1062
+#: ../main-modules.php:1513 ../main-modules.php:3007 ../main-modules.php:4279
+#: ../main-modules.php:7911 ../main-modules.php:10443
+#: ../main-modules.php:10485 ../main-modules.php:10518
+#: ../main-modules.php:12208
+msgid "Set As Image"
+msgstr "Definir como Imagem"
+
+#: ../main-modules.php:84 ../main-modules.php:3008 ../main-modules.php:4280
+#: ../main-modules.php:7912 ../main-modules.php:10444
+#: ../main-modules.php:10486 ../main-modules.php:10519
+#: ../main-modules.php:12209
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Envie sua imagem desejada ou digite a URL da imagem que você deseja exibir."
+
+#: ../main-modules.php:87 ../main-modules.php:2595 ../main-modules.php:12212
+msgid "Image Alternative Text"
+msgstr "Texto Alternativo da Imagem"
+
+#: ../main-modules.php:90 ../main-modules.php:10492 ../main-modules.php:12215
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Define o texto alternativo da imagem. Uma breve descrição da sua imagem pode "
+"ser colocada aqui."
+
+#: ../main-modules.php:93 ../main-modules.php:12218
+msgid "Image Title Text"
+msgstr "Texto do Título da Imagem"
+
+#: ../main-modules.php:96 ../main-modules.php:10498 ../main-modules.php:12221
+msgid "This defines the HTML Title text."
+msgstr "Define o texto do Título do HTML."
+
+#: ../main-modules.php:99
+msgid "Open in Lightbox"
+msgstr "Abrir no Lightbox"
+
+#: ../main-modules.php:110 ../main-modules.php:12235
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Aqui você pode escolher se a imagem deverá abrir ou não na Lightbox. Nota: "
+"Se você selecionar a opção de abrir a imagem na Lightbox, as opções de URL "
+"abaixo serão ignoradas."
+
+#: ../main-modules.php:113 ../main-modules.php:12238
+msgid "Link URL"
+msgstr "URL do Link"
+
+#: ../main-modules.php:117 ../main-modules.php:12242
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Se você deseja que a sua imagem seja um link, insira a URL de destino aqui. "
+"Nenhum link será criado se este campo ficar em branco."
+
+#: ../main-modules.php:120 ../main-modules.php:1424 ../main-modules.php:4018
+#: ../main-modules.php:9490 ../main-modules.php:12245
+msgid "Url Opens"
+msgstr "URL Abre"
+
+#: ../main-modules.php:124 ../main-modules.php:1428 ../main-modules.php:2996
+#: ../main-modules.php:4022 ../main-modules.php:9494 ../main-modules.php:12249
+msgid "In The Same Window"
+msgstr "Na Mesma Janela"
+
+#: ../main-modules.php:125 ../main-modules.php:1429 ../main-modules.php:2997
+#: ../main-modules.php:4023 ../main-modules.php:9495 ../main-modules.php:12250
+msgid "In The New Tab"
+msgstr "Em Uma Nova Aba"
+
+#: ../main-modules.php:128 ../main-modules.php:1431 ../main-modules.php:4025
+#: ../main-modules.php:9497 ../main-modules.php:12253
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Aqui você pode escolher se o link abrirá ou não em uma nova janela"
+
+#: ../main-modules.php:131 ../main-modules.php:7915 ../main-modules.php:12256
+msgid "Animation"
+msgstr "Animação"
+
+#: ../main-modules.php:135 ../main-modules.php:1542 ../main-modules.php:7926
+#: ../main-modules.php:12267
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Controla a direção da animação."
+
+#: ../main-modules.php:138
+msgid "Remove Space Below The Image"
+msgstr "Remover Espaço Abaixo da Imagem"
+
+#: ../main-modules.php:145
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr ""
+"Aqui você pode escolher se a imagem deverá ou não ter um espaço abaixo dela."
+
+#: ../main-modules.php:148
+msgid "Image Alignment"
+msgstr "Alinhamento da Imagem"
+
+#: ../main-modules.php:156
+msgid "Here you can choose the image alignment."
+msgstr "Aqui você pode selecionar o alinhamento da imagem."
+
+#: ../main-modules.php:159 ../main-modules.php:467 ../main-modules.php:731
+#: ../main-modules.php:905 ../main-modules.php:1032 ../main-modules.php:1237
+#: ../main-modules.php:1568 ../main-modules.php:1812 ../main-modules.php:2222
+#: ../main-modules.php:2671 ../main-modules.php:3063 ../main-modules.php:3406
+#: ../main-modules.php:4076 ../main-modules.php:4298 ../main-modules.php:4591
+#: ../main-modules.php:5004 ../main-modules.php:5371 ../main-modules.php:5740
+#: ../main-modules.php:6075 ../main-modules.php:6438 ../main-modules.php:6632
+#: ../main-modules.php:6765 ../main-modules.php:7042 ../main-modules.php:7241
+#: ../main-modules.php:7538 ../main-modules.php:7681 ../main-modules.php:7969
+#: ../main-modules.php:8336 ../main-modules.php:8775 ../main-modules.php:9084
+#: ../main-modules.php:9250 ../main-modules.php:9510 ../main-modules.php:10019
+#: ../main-modules.php:10540 ../main-modules.php:10987
+#: ../main-modules.php:11460 ../main-modules.php:11763
+#: ../main-modules.php:11953 ../main-modules.php:12030
+#: ../main-modules.php:12118 ../main-modules.php:12270
+#: ../main-modules.php:12601 ../main-structure-elements.php:231
+#: ../main-structure-elements.php:960
+msgid "Admin Label"
+msgstr "Rótulo do Administrador"
+
+#: ../main-modules.php:161 ../main-modules.php:469 ../main-modules.php:733
+#: ../main-modules.php:907 ../main-modules.php:1239 ../main-modules.php:1570
+#: ../main-modules.php:1814 ../main-modules.php:2224 ../main-modules.php:3065
+#: ../main-modules.php:3408 ../main-modules.php:4078 ../main-modules.php:4300
+#: ../main-modules.php:4593 ../main-modules.php:5006 ../main-modules.php:5373
+#: ../main-modules.php:5742 ../main-modules.php:6077 ../main-modules.php:6440
+#: ../main-modules.php:6634 ../main-modules.php:6767 ../main-modules.php:7044
+#: ../main-modules.php:7243 ../main-modules.php:7540 ../main-modules.php:7683
+#: ../main-modules.php:7971 ../main-modules.php:8338 ../main-modules.php:8777
+#: ../main-modules.php:9086 ../main-modules.php:9252 ../main-modules.php:9512
+#: ../main-modules.php:10021 ../main-modules.php:10542
+#: ../main-modules.php:10989 ../main-modules.php:11462
+#: ../main-modules.php:11765 ../main-modules.php:11955
+#: ../main-modules.php:12032 ../main-modules.php:12120
+#: ../main-modules.php:12272 ../main-modules.php:12603
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr "Altera o rótulo do módulo no construtor para fácil identificação."
+
+#: ../main-modules.php:164 ../main-modules.php:472 ../main-modules.php:736
+#: ../main-modules.php:910 ../main-modules.php:1242 ../main-modules.php:1573
+#: ../main-modules.php:1817 ../main-modules.php:2227 ../main-modules.php:3068
+#: ../main-modules.php:3411 ../main-modules.php:4081 ../main-modules.php:4303
+#: ../main-modules.php:4596 ../main-modules.php:5009 ../main-modules.php:5376
+#: ../main-modules.php:5745 ../main-modules.php:6080 ../main-modules.php:6443
+#: ../main-modules.php:6637 ../main-modules.php:6770 ../main-modules.php:7047
+#: ../main-modules.php:7246 ../main-modules.php:7543 ../main-modules.php:7686
+#: ../main-modules.php:7974 ../main-modules.php:8341 ../main-modules.php:8780
+#: ../main-modules.php:9089 ../main-modules.php:9255 ../main-modules.php:9515
+#: ../main-modules.php:10024 ../main-modules.php:10545
+#: ../main-modules.php:10992 ../main-modules.php:11465
+#: ../main-modules.php:11768 ../main-modules.php:11958
+#: ../main-modules.php:12035 ../main-modules.php:12123
+#: ../main-modules.php:12275 ../main-modules.php:12606
+#: ../main-structure-elements.php:219 ../main-structure-elements.php:841
+#: ../main-structure-elements.php:1370
+msgid "CSS ID"
+msgstr "IS CSS"
+
+#: ../main-modules.php:167 ../main-modules.php:475 ../main-modules.php:739
+#: ../main-modules.php:913 ../main-modules.php:1245 ../main-modules.php:1576
+#: ../main-modules.php:1820 ../main-modules.php:2230 ../main-modules.php:3071
+#: ../main-modules.php:3414 ../main-modules.php:4084 ../main-modules.php:4306
+#: ../main-modules.php:4599 ../main-modules.php:5012 ../main-modules.php:5379
+#: ../main-modules.php:5748 ../main-modules.php:6083 ../main-modules.php:6446
+#: ../main-modules.php:6640 ../main-modules.php:6773 ../main-modules.php:7050
+#: ../main-modules.php:7249 ../main-modules.php:7546 ../main-modules.php:7689
+#: ../main-modules.php:7977 ../main-modules.php:8344 ../main-modules.php:8783
+#: ../main-modules.php:9092 ../main-modules.php:9258 ../main-modules.php:9518
+#: ../main-modules.php:10027 ../main-modules.php:10548
+#: ../main-modules.php:10995 ../main-modules.php:11468
+#: ../main-modules.php:11771 ../main-modules.php:11961
+#: ../main-modules.php:12038 ../main-modules.php:12126
+#: ../main-modules.php:12278 ../main-modules.php:12609
+#: ../main-structure-elements.php:222 ../main-structure-elements.php:844
+#: ../main-structure-elements.php:1373
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Insira um ID CSS opcional para ser usado para este módulo. Um ID pode ser "
+"usado para criar estilos CSS personalizados ou para criar links para seções "
+"específicas da sua página."
+
+#: ../main-modules.php:170 ../main-modules.php:478 ../main-modules.php:742
+#: ../main-modules.php:916 ../main-modules.php:1248 ../main-modules.php:1579
+#: ../main-modules.php:1823 ../main-modules.php:2233 ../main-modules.php:3074
+#: ../main-modules.php:3417 ../main-modules.php:4087 ../main-modules.php:4309
+#: ../main-modules.php:4602 ../main-modules.php:5015 ../main-modules.php:5382
+#: ../main-modules.php:5751 ../main-modules.php:6086 ../main-modules.php:6449
+#: ../main-modules.php:6643 ../main-modules.php:6776 ../main-modules.php:7053
+#: ../main-modules.php:7252 ../main-modules.php:7549 ../main-modules.php:7692
+#: ../main-modules.php:7980 ../main-modules.php:8347 ../main-modules.php:8786
+#: ../main-modules.php:9095 ../main-modules.php:9261 ../main-modules.php:9521
+#: ../main-modules.php:10030 ../main-modules.php:10551
+#: ../main-modules.php:10998 ../main-modules.php:11471
+#: ../main-modules.php:11774 ../main-modules.php:11964
+#: ../main-modules.php:12041 ../main-modules.php:12129
+#: ../main-modules.php:12281 ../main-modules.php:12612
+#: ../main-structure-elements.php:225 ../main-structure-elements.php:847
+#: ../main-structure-elements.php:1376
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+#: ../main-modules.php:173 ../main-modules.php:481 ../main-modules.php:745
+#: ../main-modules.php:919 ../main-modules.php:1251 ../main-modules.php:1582
+#: ../main-modules.php:1826 ../main-modules.php:2236 ../main-modules.php:3077
+#: ../main-modules.php:3420 ../main-modules.php:4090 ../main-modules.php:4312
+#: ../main-modules.php:4605 ../main-modules.php:5018 ../main-modules.php:5385
+#: ../main-modules.php:5754 ../main-modules.php:6089 ../main-modules.php:6452
+#: ../main-modules.php:6646 ../main-modules.php:6779 ../main-modules.php:7056
+#: ../main-modules.php:7255 ../main-modules.php:7552 ../main-modules.php:7695
+#: ../main-modules.php:7983 ../main-modules.php:8350 ../main-modules.php:8789
+#: ../main-modules.php:9098 ../main-modules.php:9264 ../main-modules.php:9524
+#: ../main-modules.php:10033 ../main-modules.php:10554
+#: ../main-modules.php:11001 ../main-modules.php:11474
+#: ../main-modules.php:11777 ../main-modules.php:11967
+#: ../main-modules.php:12044 ../main-modules.php:12132
+#: ../main-modules.php:12284 ../main-modules.php:12615
+#: ../main-structure-elements.php:228 ../main-structure-elements.php:850
+#: ../main-structure-elements.php:1379
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Insira classes CSS opcionais para serem usadas para este módulo. Uma classe "
+"CSS pode ser usada para criar estilos CSS personalizados. Você pode "
+"adicionar múltiplas classes, separadas por espaços."
+
+#: ../main-modules.php:176 ../main-modules.php:1585
+msgid "Image Max Width"
+msgstr "Largura Máxima da Imagem"
+
+#: ../main-modules.php:182
+msgid "Force Fullwidth"
+msgstr "Transformar em Largura Inteira"
+
+#: ../main-modules.php:192
+msgid "Always Center Image On Mobile"
+msgstr "Sempre Centralizar a Imagem em Dispositivos Móveis"
+
+#: ../main-modules.php:296
+msgid "Gallery"
+msgstr "Galeria"
+
+#: ../main-modules.php:332 ../main-modules.php:4208 ../main-modules.php:5269
+#: ../main-modules.php:5624
+msgid "Caption"
+msgstr "Subtítulo"
+
+#: ../main-modules.php:346 ../main-modules.php:1412 ../main-modules.php:1974
+#: ../main-modules.php:3811 ../main-modules.php:4006 ../main-modules.php:4202
+#: ../main-modules.php:4256 ../main-modules.php:4537 ../main-modules.php:4946
+#: ../main-modules.php:5263 ../main-modules.php:5618 ../main-modules.php:6006
+#: ../main-modules.php:6187 ../main-modules.php:6371 ../main-modules.php:6400
+#: ../main-modules.php:6548 ../main-modules.php:6595 ../main-modules.php:6899
+#: ../main-modules.php:6972 ../main-modules.php:7020 ../main-modules.php:7178
+#: ../main-modules.php:7235 ../main-modules.php:7503 ../main-modules.php:7877
+#: ../main-modules.php:8183 ../main-modules.php:8657 ../main-modules.php:8695
+#: ../main-modules.php:9030 ../main-modules.php:9354 ../main-modules.php:9820
+#: ../main-modules.php:10270 ../main-modules.php:12402
+msgid "Title"
+msgstr "Título"
+
+#: ../main-modules.php:357
+msgid "Gallery Item"
+msgstr "Item da Galeria"
+
+#: ../main-modules.php:361 ../main-modules.php:5288 ../main-modules.php:5657
+#: ../main-modules.php:8691
+msgid "Overlay"
+msgstr "Sobreposição"
+
+#: ../main-modules.php:365 ../main-modules.php:5292 ../main-modules.php:5661
+msgid "Overlay Icon"
+msgstr "Ícone de Sobreposição"
+
+#: ../main-modules.php:369
+msgid "Gallery Item Title"
+msgstr "Título do Item da Galeria"
+
+#: ../main-modules.php:378 ../main-modules.php:387
+msgid "Gallery Images"
+msgstr "Imagens da Galeria"
+
+#: ../main-modules.php:396 ../main-modules.php:2016
+msgid "Slider"
+msgstr "Deslizante"
+
+#: ../main-modules.php:397 ../main-modules.php:5314 ../main-modules.php:5683
+#: ../main-modules.php:8205 ../main-modules.php:11692
+msgid "Grid"
+msgstr "Grade"
+
+#: ../main-modules.php:399 ../main-modules.php:8211
+msgid "Toggle between the various blog layout types."
+msgstr "Alterne entre vários tipos de layout de blog."
+
+#: ../main-modules.php:410
+msgid "Images Number"
+msgstr "Número de Imagens"
+
+#: ../main-modules.php:413
+msgid "Define the number of images that should be displayed per page."
+msgstr "Defina o número de imagens que devem ser exibidas por página."
+
+#: ../main-modules.php:416
+msgid "Show Title and Caption"
+msgstr "Exibir Título e Legenda"
+
+#: ../main-modules.php:423
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Aqui você pode escolher se exibirá o título e a legenda das imagens, se "
+"imagem tiver."
+
+#: ../main-modules.php:426 ../main-modules.php:5351 ../main-modules.php:5720
+#: ../main-modules.php:8309
+msgid "Show Pagination"
+msgstr "Exibir Paginação"
+
+#: ../main-modules.php:433 ../main-modules.php:5358 ../main-modules.php:5727
+msgid "Enable or disable pagination for this feed."
+msgstr "Habilitar ou desabilitar a paginação para este feed."
+
+#: ../main-modules.php:436 ../main-modules.php:1214 ../main-modules.php:1545
+#: ../main-modules.php:2601 ../main-modules.php:3040 ../main-modules.php:4053
+#: ../main-modules.php:4288 ../main-modules.php:4568 ../main-modules.php:4981
+#: ../main-modules.php:5361 ../main-modules.php:5730 ../main-modules.php:6046
+#: ../main-modules.php:6423 ../main-modules.php:6622 ../main-modules.php:7528
+#: ../main-modules.php:7929 ../main-modules.php:8325 ../main-modules.php:9055
+#: ../main-modules.php:9480 ../main-modules.php:9985 ../main-modules.php:10282
+#: ../main-modules.php:10960 ../main-modules.php:11732
+#: ../main-modules.php:12567
+msgid "Text Color"
+msgstr "Cor do Texto"
+
+#: ../main-modules.php:440 ../main-modules.php:900 ../main-modules.php:1076
+#: ../main-modules.php:1218 ../main-modules.php:1549 ../main-modules.php:2606
+#: ../main-modules.php:3044 ../main-modules.php:4058 ../main-modules.php:4293
+#: ../main-modules.php:4573 ../main-modules.php:4986 ../main-modules.php:5365
+#: ../main-modules.php:5734 ../main-modules.php:6050 ../main-modules.php:6427
+#: ../main-modules.php:6626 ../main-modules.php:7532 ../main-modules.php:7933
+#: ../main-modules.php:8329 ../main-modules.php:9059 ../main-modules.php:9484
+#: ../main-modules.php:9989 ../main-modules.php:10286
+#: ../main-modules.php:10964 ../main-modules.php:11736
+#: ../main-modules.php:12571
+msgid "Dark"
+msgstr "Escuro"
+
+#: ../main-modules.php:441 ../main-modules.php:899 ../main-modules.php:1075
+#: ../main-modules.php:1219 ../main-modules.php:1550 ../main-modules.php:2605
+#: ../main-modules.php:3045 ../main-modules.php:4057 ../main-modules.php:4292
+#: ../main-modules.php:4572 ../main-modules.php:4985 ../main-modules.php:5366
+#: ../main-modules.php:5735 ../main-modules.php:6051 ../main-modules.php:6428
+#: ../main-modules.php:6627 ../main-modules.php:7533 ../main-modules.php:7934
+#: ../main-modules.php:8330 ../main-modules.php:9060 ../main-modules.php:9485
+#: ../main-modules.php:9990 ../main-modules.php:10287
+#: ../main-modules.php:10965 ../main-modules.php:11737
+#: ../main-modules.php:12572
+msgid "Light"
+msgstr "Claro"
+
+#: ../main-modules.php:443 ../main-modules.php:1552 ../main-modules.php:3047
+#: ../main-modules.php:4060 ../main-modules.php:4295 ../main-modules.php:4575
+#: ../main-modules.php:4988 ../main-modules.php:5368 ../main-modules.php:5737
+#: ../main-modules.php:6053 ../main-modules.php:6430 ../main-modules.php:7535
+#: ../main-modules.php:8333 ../main-modules.php:9062 ../main-modules.php:9487
+#: ../main-modules.php:11739
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Aqui você escolher se o texto deverá ser claro ou escuro. Se você estiver "
+"trabalhando com um plano de fundo escuro, seu texto deverá ser claro. Se seu "
+"plano de fundo for claro, seu texto deve ser definido como escuro."
+
+#: ../main-modules.php:446 ../main-modules.php:2128 ../main-modules.php:11368
+msgid "Automatic Animation"
+msgstr "Animação Automática"
+
+#: ../main-modules.php:457 ../main-modules.php:2138 ../main-modules.php:11378
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Se você deseja que o botão deslizante deslize automaticamente, sem que o "
+"visitante precise clicar no botão seguinte, habilite esta opção e ajuste a "
+"velocidade de rotação abaixo, se desejar."
+
+#: ../main-modules.php:460 ../main-modules.php:2141 ../main-modules.php:11381
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Velocidade da Animação Automática (em milissegundos)"
+
+#: ../main-modules.php:464 ../main-modules.php:2145 ../main-modules.php:11385
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Aqui você pode definir a velocidade com que o botão deslizante desvanece "
+"entre cada deslize, se a opção 'Animação Automática' estiver habilitada "
+"acima. Quanto mais alto o número, mais longa será a pausa entre cada rotação."
+
+#: ../main-modules.php:484 ../main-modules.php:5388 ../main-modules.php:5766
+msgid "Zoom Icon Color"
+msgstr "Cor do Ícone de Zoom"
+
+#: ../main-modules.php:491 ../main-modules.php:5394 ../main-modules.php:5772
+#: ../main-modules.php:8804
+msgid "Hover Overlay Color"
+msgstr "Cor de Sobreposição ao Passar o Mouse"
+
+#: ../main-modules.php:498 ../main-modules.php:5400 ../main-modules.php:5757
+#: ../main-modules.php:8810
+msgid "Hover Icon Picker"
+msgstr "Seletor de Ícones ao Passar o Mouse"
+
+#: ../main-modules.php:667 ../main-modules.php:830 ../main-modules.php:1009
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../main-modules.php:682
+msgid "Video Icon"
+msgstr "Ícone de Vídeo"
+
+#: ../main-modules.php:691 ../main-modules.php:1037
+msgid "Video MP4/URL"
+msgstr ".MP4 URL do Vídeo"
+
+#: ../main-modules.php:695 ../main-modules.php:705 ../main-modules.php:1041
+#: ../main-modules.php:1051 ../main-modules.php:2615 ../main-modules.php:2625
+#: ../main-structure-elements.php:130 ../main-structure-elements.php:140
+#: ../main-structure-elements.php:872 ../main-structure-elements.php:882
+msgid "Upload a video"
+msgstr "Enviar um vídeo"
+
+#: ../main-modules.php:696 ../main-modules.php:1042
+msgid "Choose a Video MP4 File"
+msgstr "Selecionar um Arquivo de Vídeo .MP4"
+
+#: ../main-modules.php:697 ../main-modules.php:707 ../main-modules.php:1043
+#: ../main-modules.php:1053
+msgid "Set As Video"
+msgstr "Definir como Vídeo"
+
+#: ../main-modules.php:698 ../main-modules.php:1044
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"Envie sua imagem desejada ou digite a URL da imagem que você deseja exibir "
+"sobre seu vídeo. Você também pode gerar uma imagem estática a partir do seu "
+"vídeo."
+
+#: ../main-modules.php:701 ../main-modules.php:1047
+msgid "Video Webm"
+msgstr "Vídeo .WEBM"
+
+#: ../main-modules.php:706 ../main-modules.php:1052
+msgid "Choose a Video WEBM File"
+msgstr "Selecionar um Arquivo de Vídeo .WEBM"
+
+#: ../main-modules.php:708 ../main-modules.php:1054
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Envie a versão em .WEBM do seu vídeo aqui. Todos os vídeos devem ser "
+"enviados em ambos os formatos .MP4 e WEBM para garantir máxima "
+"compatibilidade com todos os navegadores."
+
+#: ../main-modules.php:711 ../main-modules.php:1057
+msgid "Image Overlay URL"
+msgstr "URL da Imagem Sobreposta"
+
+#: ../main-modules.php:719 ../main-modules.php:1065
+msgid "Generate From Video"
+msgstr "Gerar a Partir do Vídeo"
+
+#: ../main-modules.php:722 ../main-modules.php:1068
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Envie sua imagem desejada ou digite a URL da imagem que você deseja exibir "
+"sobre seu vídeo. Você também pode gerar uma imagem estática a partir do seu "
+"vídeo."
+
+#: ../main-modules.php:725 ../main-modules.php:922
+msgid "Play Icon Color"
+msgstr "Cor do Ícone de Reproduzir"
+
+#: ../main-modules.php:827
+msgid "Video Slider"
+msgstr "Botão Deslizante de Vídeo"
+
+#: ../main-modules.php:852
+msgid "Play Button"
+msgstr "Botão Reproduzir"
+
+#: ../main-modules.php:856
+msgid "Thumbnail Item"
+msgstr "Item da Miniatura"
+
+#: ../main-modules.php:865
+msgid "Display Image Overlays on Main Video"
+msgstr "Exibir Imagens Sobrepostas no Vídeo Principal"
+
+#: ../main-modules.php:869
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ../main-modules.php:870
+msgid "Show"
+msgstr "Exibir"
+
+#: ../main-modules.php:872
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Esta opção cobrirá a interface do player no vídeo principal. Esta imagem "
+"pode ser enviada na configuração de cada vídeo ou gerada automaticamente "
+"pelo Divi."
+
+#: ../main-modules.php:875 ../main-modules.php:2108 ../main-modules.php:11348
+msgid "Arrows"
+msgstr "Setas"
+
+#: ../main-modules.php:879 ../main-modules.php:2112 ../main-modules.php:11352
+msgid "Show Arrows"
+msgstr "Exibir Setas"
+
+#: ../main-modules.php:880 ../main-modules.php:2113 ../main-modules.php:11353
+msgid "Hide Arrows"
+msgstr "Ocultar Setas"
+
+#: ../main-modules.php:882 ../main-modules.php:2115
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "Esta configuração ativa ou desativa as setas de navegação."
+
+#: ../main-modules.php:885
+msgid "Slider Controls"
+msgstr "Controles Deslizantes"
+
+#: ../main-modules.php:889
+msgid "Use Thumbnail Track"
+msgstr "Usar Faixa de Miniaturas"
+
+#: ../main-modules.php:890
+msgid "Use Dot Navigation"
+msgstr "Usar Dot Navigation"
+
+#: ../main-modules.php:892
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Esta configuração permitirá a você escolher usar os controles de faixa de "
+"miniaturas abaixo do botão deslizante ou dot navigation (navegação pelas "
+"imagens através de pequenos círculos) na parte de baixo do botão deslizante."
+
+#: ../main-modules.php:895
+msgid "Slider Controls Color"
+msgstr "Cor dos Controles Deslizantes"
+
+#: ../main-modules.php:902
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr "Esta configuração fará suas setas deslizantes em cor clara ou escura."
+
+#: ../main-modules.php:928
+msgid "Thumbnail Overlay Color"
+msgstr "Cor de Sobreposição da Miniatura"
+
+#: ../main-modules.php:1013
+msgid "New Video"
+msgstr "Novo Vídeo"
+
+#: ../main-modules.php:1014
+msgid "Video Settings"
+msgstr "Configurações de Vídeo"
+
+#: ../main-modules.php:1034
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr "Altera o rótulo do vídeo no construtor para fácil identificação."
+
+#: ../main-modules.php:1071
+msgid "Slider Arrows Color"
+msgstr "Cor das Setas Deslizantes"
+
+#: ../main-modules.php:1078
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr "Esta configuração fará suas setas deslizantes em cor clara ou escura."
+
+#: ../main-modules.php:1169 ../main-modules.php:1191
+msgid "Text"
+msgstr "Texto"
+
+#: ../main-modules.php:1221 ../main-modules.php:7936 ../main-modules.php:10289
+#: ../main-modules.php:10967
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Aqui você pode escolher o valor do seu texto. Se você estiver trabalhando "
+"com um plano de fundo escuro, seu texto deverá ser definido para claro. Se "
+"você estiver trabalhando com um plano de fundo claro, seu texto deverá ser "
+"escuro."
+
+#: ../main-modules.php:1224 ../main-modules.php:1555 ../main-modules.php:3050
+#: ../main-modules.php:4063 ../main-modules.php:4578 ../main-modules.php:4991
+#: ../main-modules.php:9974 ../main-modules.php:10970
+#: ../main-modules.php:12556
+msgid "Text Orientation"
+msgstr "Orientação do Texto"
+
+#: ../main-modules.php:1228 ../main-modules.php:10296
+#: ../main-modules.php:10974
+msgid "This controls the how your text is aligned within the module."
+msgstr "Controla como seu texto é alinhado com o módulo."
+
+#: ../main-modules.php:1234 ../main-modules.php:12027
+#: ../main-modules.php:12115
+msgid "Here you can create the content that will be used within the module."
+msgstr "Aqui você pode definir o conteúdo que será colocado na aba ativa."
+
+#: ../main-modules.php:1254 ../main-modules.php:4093 ../main-modules.php:12047
+msgid "Max Width"
+msgstr "Largura Máxima"
+
+#: ../main-modules.php:1307
+msgid "Blurb"
+msgstr "Sinopse"
+
+#: ../main-modules.php:1357 ../main-modules.php:2062 ../main-modules.php:2467
+#: ../main-modules.php:3334 ../main-modules.php:3720 ../main-modules.php:3964
+#: ../main-modules.php:4436 ../main-modules.php:4903 ../main-modules.php:7484
+#: ../main-modules.php:7843 ../main-modules.php:8161 ../main-modules.php:8981
+#: ../main-modules.php:11299
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: ../main-modules.php:1363 ../main-modules.php:1776 ../main-modules.php:1946
+#: ../main-modules.php:2068 ../main-modules.php:2481 ../main-modules.php:2925
+#: ../main-modules.php:3365 ../main-modules.php:3765 ../main-modules.php:3970
+#: ../main-modules.php:4442 ../main-modules.php:4909 ../main-modules.php:6712
+#: ../main-modules.php:6978 ../main-modules.php:7490 ../main-modules.php:7849
+#: ../main-modules.php:8173 ../main-modules.php:11308
+msgid "Body"
+msgstr "Corpo"
+
+#: ../main-modules.php:1383
+msgid "Blurb Image"
+msgstr "Imagem da Descrição"
+
+#: ../main-modules.php:1387
+msgid "Blurb Title"
+msgstr "Título da Descrição"
+
+#: ../main-modules.php:1391
+msgid "Blurb Content"
+msgstr "Conteúdo da Descrição"
+
+#: ../main-modules.php:1415
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr ""
+"O título da sua sinopse aparecerá em negrito abaixo da imagem de sinopse."
+
+#: ../main-modules.php:1418
+msgid "Url"
+msgstr "URL"
+
+#: ../main-modules.php:1421
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Se você deseja que a sua sinopse seja um link, insira a URL de destino aqui."
+
+#: ../main-modules.php:1434
+msgid "Use Icon"
+msgstr "Usar Ícone"
+
+#: ../main-modules.php:1448
+msgid "Here you can choose whether icon set below should be used."
+msgstr "Aqui você pode escolher se o conjunto de ícones abaixo deve ser usado."
+
+#: ../main-modules.php:1451 ../main-modules.php:10326
+msgid "Icon"
+msgstr "Ícone"
+
+#: ../main-modules.php:1457
+msgid "Choose an icon to display with your blurb."
+msgstr "Escolha um ícone para exibir com a sua sinopse."
+
+#: ../main-modules.php:1461 ../main-modules.php:6794 ../main-modules.php:6935
+#: ../main-modules.php:7071 ../main-modules.php:7986 ../main-modules.php:9698
+msgid "Icon Color"
+msgstr "Cor do Ícone"
+
+#: ../main-modules.php:1463
+msgid "Here you can define a custom color for your icon."
+msgstr "Aqui você pode definir uma cor personalizada para o seu ícone."
+
+#: ../main-modules.php:1467
+msgid "Circle Icon"
+msgstr "Circular Ícone"
+
+#: ../main-modules.php:1478
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"Aqui você pode escolher se o conjunto de ícones acima deve ser exibido "
+"dentro de um círculo."
+
+#: ../main-modules.php:1482 ../main-modules.php:6455
+msgid "Circle Color"
+msgstr "Cor do Círculo"
+
+#: ../main-modules.php:1484
+msgid "Here you can define a custom color for the icon circle."
+msgstr "Aqui você pode definir uma cor personalizada para o círculo do ícone."
+
+#: ../main-modules.php:1488
+msgid "Show Circle Border"
+msgstr "Exibir Borda Circular"
+
+#: ../main-modules.php:1498
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "Aqui você pode escolher se a borda circular do ícone deve ser exibida."
+
+#: ../main-modules.php:1502
+msgid "Circle Border Color"
+msgstr "Cor da Borda Circular"
+
+#: ../main-modules.php:1504
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+"Aqui você pode definir uma cor personalizada para a borda circular do ícone."
+
+#: ../main-modules.php:1515
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Enviar uma imagem para ser exibida no topo da sua sinopse."
+
+#: ../main-modules.php:1518
+msgid "Image Alt Text"
+msgstr "Texto Alternativo da Imagem"
+
+#: ../main-modules.php:1521
+msgid "Define the HTML ALT text for your image here."
+msgstr "Defina o texto alternativo da imagem para sua imagem aqui."
+
+#: ../main-modules.php:1525
+msgid "Image/Icon Placement"
+msgstr "Posicionamento da Imagem/Ícone"
+
+#: ../main-modules.php:1529
+msgid "Here you can choose where to place the icon."
+msgstr "Aqui você pode escolher onde o ícone será posicionado."
+
+#: ../main-modules.php:1532
+msgid "Image/Icon Animation"
+msgstr "Animação da Imagem/Ícone"
+
+#: ../main-modules.php:1559
+msgid "This will control how your blurb text is aligned."
+msgstr "Controla como o texto da sua sinopse será alinhado."
+
+#: ../main-modules.php:1565 ../main-modules.php:3060 ../main-modules.php:4073
+#: ../main-modules.php:4588 ../main-modules.php:5001 ../main-modules.php:7039
+#: ../main-modules.php:7966
+msgid "Input the main text content for your module here."
+msgstr "Insira o conteúdo de texto principal do seu módulo aqui."
+
+#: ../main-modules.php:1591
+msgid "Use Icon Font Size"
+msgstr "Usar Tamanho da Fonte do Ícone"
+
+#: ../main-modules.php:1604
+msgid "Icon Font Size"
+msgstr "Tamanho da Fonte do Ícone"
+
+#: ../main-modules.php:1752
+msgid "Tabs"
+msgstr "Abas"
+
+#: ../main-modules.php:1755 ../main-modules.php:1769 ../main-modules.php:1799
+#: ../main-modules.php:1915 ../main-modules.php:1931 ../main-modules.php:1997
+msgid "Tab"
+msgstr "Aba"
+
+#: ../main-modules.php:1795
+msgid "Tabs Controls"
+msgstr "Controles das Abas"
+
+#: ../main-modules.php:1803
+msgid "Active Tab"
+msgstr "Aba Ativa"
+
+#: ../main-modules.php:1829
+msgid "Active Tab Background Color"
+msgstr "Cor de Fundo da Aba Ativa"
+
+#: ../main-modules.php:1835
+msgid "Inactive Tab Background Color"
+msgstr "Cor de Fundo da Aba Inativa"
+
+#: ../main-modules.php:1925
+msgid "New Tab"
+msgstr "Nova Aba"
+
+#: ../main-modules.php:1926
+msgid "Tab Settings"
+msgstr "Configurações da Aba"
+
+#: ../main-modules.php:1976 ../main-modules.php:9357
+msgid "The title will be used within the tab button for this tab."
+msgstr "O título será usado dentro do botão da aba desta aba."
+
+#: ../main-modules.php:2019 ../main-modules.php:2421 ../main-modules.php:11044
+#: ../main-modules.php:11256
+msgid "Slide"
+msgstr "Slide"
+
+#: ../main-modules.php:2077 ../main-modules.php:2498 ../main-modules.php:3397
+#: ../main-modules.php:3789 ../main-modules.php:3987 ../main-modules.php:4456
+#: ../main-modules.php:4923 ../main-modules.php:7200 ../main-modules.php:11317
+msgid "Button"
+msgstr "Botão"
+
+#: ../main-modules.php:2083 ../main-modules.php:11323
+msgid "Slide Description"
+msgstr "Descrição do Slide"
+
+#: ../main-modules.php:2087 ../main-modules.php:11327
+msgid "Slide Title"
+msgstr "Título do Slide"
+
+#: ../main-modules.php:2091 ../main-modules.php:11331
+msgid "Slide Button"
+msgstr "Botão do Slide"
+
+#: ../main-modules.php:2095 ../main-modules.php:11335
+msgid "Slide Controllers"
+msgstr "Controles do Slide"
+
+#: ../main-modules.php:2099 ../main-modules.php:11339
+msgid "Slide Active Controller"
+msgstr "Controle Ativo do Slide"
+
+#: ../main-modules.php:2118 ../main-modules.php:11358
+msgid "Controls"
+msgstr "Controles"
+
+#: ../main-modules.php:2122 ../main-modules.php:11362
+msgid "Show Slider Controls"
+msgstr "Exibir Controles Deslizantes"
+
+#: ../main-modules.php:2123 ../main-modules.php:11363
+msgid "Hide Slider Controls"
+msgstr "Ocultar Controles Deslizantes"
+
+#: ../main-modules.php:2125
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+"Esta configuração ativa ou desativa os botões circulares na parte de baixo "
+"do botão deslizante."
+
+#: ../main-modules.php:2148 ../main-modules.php:11388
+msgid "Continue Automatic Slide on Hover"
+msgstr "Continuar Automática de Slides em Foco"
+
+#: ../main-modules.php:2156 ../main-modules.php:11396
+msgid ""
+"Turning this on will allow automatic sliding to continue on mouse hover."
+msgstr ""
+"Transformar isso vai permitir automática deslizante para continuar no foco "
+"do mouse."
+
+#: ../main-modules.php:2159 ../main-modules.php:10455
+#: ../main-modules.php:11399
+msgid "Use Parallax effect"
+msgstr "Usar Efeito Paralaxe"
+
+#: ../main-modules.php:2171
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Habilitar esta opção dará um posição fixa às suas imagens de fundo conforme "
+"você rola."
+
+#: ../main-modules.php:2174 ../main-modules.php:10468
+#: ../main-modules.php:11412
+msgid "Parallax method"
+msgstr "Método paralaxe"
+
+#: ../main-modules.php:2178 ../main-modules.php:9967 ../main-modules.php:10472
+#: ../main-modules.php:11416 ../main-modules.php:12549
+#: ../main-structure-elements.php:195 ../main-structure-elements.php:927
+msgid "CSS"
+msgstr "CSS"
+
+#: ../main-modules.php:2179 ../main-modules.php:9968 ../main-modules.php:10473
+#: ../main-modules.php:11417 ../main-modules.php:12550
+#: ../main-structure-elements.php:196 ../main-structure-elements.php:928
+msgid "True Parallax"
+msgstr "Paralaxe Verdadeira"
+
+#: ../main-modules.php:2182 ../main-modules.php:10476
+#: ../main-modules.php:11420 ../main-structure-elements.php:199
+msgid "Define the method, used for the parallax effect."
+msgstr "Defina o método usado para o efeito paralaxe."
+
+#: ../main-modules.php:2185 ../main-modules.php:11423
+msgid "Remove Inner Shadow"
+msgstr "Remover Sombra Interna"
+
+#: ../main-modules.php:2194 ../main-modules.php:2537 ../main-modules.php:11432
+msgid "Background Image Position"
+msgstr "De Fundo, Posição Da Imagem"
+
+#: ../main-modules.php:2199 ../main-modules.php:2543 ../main-modules.php:11437
+msgid "Top Left"
+msgstr "Parte Superior Esquerda"
+
+#: ../main-modules.php:2200 ../main-modules.php:2544 ../main-modules.php:11438
+msgid "Top Center"
+msgstr "Centro Superior"
+
+#: ../main-modules.php:2201 ../main-modules.php:2545 ../main-modules.php:11439
+msgid "Top Right"
+msgstr "Superior Direito"
+
+#: ../main-modules.php:2202 ../main-modules.php:2546 ../main-modules.php:11440
+msgid "Center Right"
+msgstr "Centro De Direito"
+
+#: ../main-modules.php:2203 ../main-modules.php:2547 ../main-modules.php:11441
+msgid "Center Left"
+msgstr "Centro-Esquerda"
+
+#: ../main-modules.php:2204 ../main-modules.php:2548 ../main-modules.php:11442
+msgid "Bottom Left"
+msgstr "Inferior Esquerdo"
+
+#: ../main-modules.php:2205 ../main-modules.php:2549 ../main-modules.php:11443
+msgid "Bottom Center"
+msgstr "Centro Da Parte Inferior"
+
+#: ../main-modules.php:2206 ../main-modules.php:2550 ../main-modules.php:11444
+msgid "Bottom Right"
+msgstr "Inferior Direito"
+
+#: ../main-modules.php:2211 ../main-modules.php:2554 ../main-modules.php:11449
+msgid "Background Image Size"
+msgstr "Imagem De Fundo Tamanho"
+
+#: ../main-modules.php:2216 ../main-modules.php:2560 ../main-modules.php:11454
+msgid "Fit"
+msgstr "Ajuste"
+
+#: ../main-modules.php:2217 ../main-modules.php:2561 ../main-modules.php:11455
+msgid "Actual Size"
+msgstr "Tamanho Real"
+
+#: ../main-modules.php:2239 ../main-modules.php:11477
+msgid "Top Padding"
+msgstr "Preenchimento Superior"
+
+#: ../main-modules.php:2245 ../main-modules.php:11483
+msgid "Bottom Padding"
+msgstr "Preenchimento Inferior"
+
+#: ../main-modules.php:2251 ../main-modules.php:11489
+msgid "Hide Content On Mobile"
+msgstr "Ocultar Conteúdo em Dispositivo Móvel"
+
+#: ../main-modules.php:2261 ../main-modules.php:11499
+msgid "Hide CTA On Mobile"
+msgstr "Ocultar CTA em Dispositivo Móvel"
+
+#: ../main-modules.php:2271 ../main-modules.php:11509
+msgid "Show Image / Video On Mobile"
+msgstr "Exibir Imagem / Vídeo em Dispositivo Móvel"
+
+#: ../main-modules.php:2461
+msgid "New Slide"
+msgstr "Novo Slide"
+
+#: ../main-modules.php:2462
+msgid "Slide Settings"
+msgstr "Configurações do Slide"
+
+#: ../main-modules.php:2510
+msgid "Heading"
+msgstr "Cabeçalho"
+
+#: ../main-modules.php:2513
+msgid "Define the title text for your slide."
+msgstr "Definir o texto de título do seu slide."
+
+#: ../main-modules.php:2516 ../main-modules.php:3847 ../main-modules.php:4028
+#: ../main-modules.php:4543
+msgid "Button Text"
+msgstr "Texto do Botão"
+
+#: ../main-modules.php:2519
+msgid "Define the text for the slide button"
+msgstr "Definir o texto para o botão do slide"
+
+#: ../main-modules.php:2522 ../main-modules.php:3841 ../main-modules.php:4012
+msgid "Button URL"
+msgstr "URL do Botão"
+
+#: ../main-modules.php:2525
+msgid "Input a destination URL for the slide button."
+msgstr "Insira uma URL de destino para o botão do slide."
+
+#: ../main-modules.php:2534 ../main-structure-elements.php:104
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Se definida, esta imagem será usada como plano de fundo deste módulo. Para "
+"remover uma imagem de fundo, basta deletar a URL do campo de configurações."
+
+#: ../main-modules.php:2559
+msgid "Cover"
+msgstr "Cobertura"
+
+#: ../main-modules.php:2567 ../main-modules.php:10957
+msgid "Use the color picker to choose a background color for this module."
+msgstr "Use o seletor de cores para escolhe uma cor de fundo para este módulo."
+
+#: ../main-modules.php:2570
+msgid "Slide Image"
+msgstr "Imagem do Slide"
+
+#: ../main-modules.php:2574
+msgid "Choose a Slide Image"
+msgstr "Selecionar uma Imagem para o Slide"
+
+#: ../main-modules.php:2575
+msgid "Set As Slide Image"
+msgstr "Definir como Imagem do Slide"
+
+#: ../main-modules.php:2576
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Se definido, esta imagem do slide aparecerá à esquerda do texto do seu "
+"slide. Envie uma imagem ou deixe em branco para um slide de texto puro."
+
+#: ../main-modules.php:2579
+msgid "Slide Image Vertical Alignment"
+msgstr "Alinhamento Vertical da Imagem do Slide"
+
+#: ../main-modules.php:2586
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Esta configuração determina o alinhamento vertical da imagem do seu slide. "
+"Sua imagem pode ser verticalmente centralizada ou alinhada à parte inferior "
+"do seu slide."
+
+#: ../main-modules.php:2589
+msgid "Slide Video"
+msgstr "Vídeo do Slide"
+
+#: ../main-modules.php:2592
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Se definido, este vídeo aparecerá à esquerda do texto do seu slide. Insira a "
+"URL da página do Youtube ou Vimeo, ou deixe em branco para um slide de texto "
+"puro."
+
+#: ../main-modules.php:2598
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"Se você definiu a imagem de um slide, insira o texto alternativo para a sua "
+"imagem aqui."
+
+#: ../main-modules.php:2608
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Aqui você escolher se o texto deverá ser claro ou escuro. Se você tem um "
+"slide com fundo escuro, escolha texto claro. Se você tem um fundo claro, use "
+"texto escuro."
+
+#: ../main-modules.php:2611 ../main-structure-elements.php:126
+#: ../main-structure-elements.php:868
+msgid "Background Video MP4"
+msgstr "Vídeo de Fundo .MP4"
+
+#: ../main-modules.php:2616 ../main-structure-elements.php:131
+#: ../main-structure-elements.php:873
+msgid "Choose a Background Video MP4 File"
+msgstr "Selecionar um Arquivo de Vídeo .MP4 de Fundo"
+
+#: ../main-modules.php:2617 ../main-modules.php:2627
+#: ../main-structure-elements.php:132 ../main-structure-elements.php:142
+#: ../main-structure-elements.php:874 ../main-structure-elements.php:884
+msgid "Set As Background Video"
+msgstr "Definir como Vídeo de Fundo"
+
+#: ../main-modules.php:2618 ../main-structure-elements.php:133
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Todos os vídeos devem ser enviados em ambos os formatos .MP4 e WEBM para "
+"garantir máxima compatibilidade com todos os navegadores. Envie a versão ."
+"MP4 aqui. Nota Importante: Os fundos de vídeo estão desabilitados para "
+"dispositivos móveis. Em vez dela, uma imagem de funda será usada. Por esta "
+"razão, você deve definir tanto uma imagem de fundo quanto um vídeo de fundo "
+"para garantir melhores resultados."
+
+#: ../main-modules.php:2621 ../main-structure-elements.php:136
+#: ../main-structure-elements.php:878
+msgid "Background Video Webm"
+msgstr "Vídeo de Fundo .WEBM"
+
+#: ../main-modules.php:2626 ../main-structure-elements.php:141
+#: ../main-structure-elements.php:883
+msgid "Choose a Background Video WEBM File"
+msgstr "Selecionar um Arquivo de Vídeo .MP4 de Fundo"
+
+#: ../main-modules.php:2628 ../main-structure-elements.php:143
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Todos os vídeos devem ser enviados em ambos os formatos .MP4 e WEBM para "
+"garantir máxima compatibilidade com todos os navegadores. Envie a versão ."
+"WEBM aqui. Nota Importante: Os fundos de vídeo estão desabilitados para "
+"dispositivos móveis. Em vez dela, uma imagem de funda será usada. Por esta "
+"razão, você deve definir tanto uma imagem de fundo quanto um vídeo de fundo "
+"para garantir melhores resultados."
+
+#: ../main-modules.php:2631 ../main-structure-elements.php:146
+#: ../main-structure-elements.php:888
+msgid "Background Video Width"
+msgstr "Largura do Vídeo de Fundo"
+
+#: ../main-modules.php:2634 ../main-structure-elements.php:149
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Para que os vídeos sejam dimensionados corretamente, você deve inserir a "
+"largura exata (em pixels) do seu vídeo aqui:"
+
+#: ../main-modules.php:2637 ../main-structure-elements.php:152
+#: ../main-structure-elements.php:894
+msgid "Background Video Height"
+msgstr "Altura do Vídeo de Fundo"
+
+#: ../main-modules.php:2640 ../main-structure-elements.php:155
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Para que os vídeos sejam dimensionados corretamente, você deve inserir a "
+"altura exata (em pixels) do seu vídeo aqui:"
+
+#: ../main-modules.php:2643 ../main-structure-elements.php:158
+#: ../main-structure-elements.php:900
+msgid "Pause Video"
+msgstr "Pausar Vídeo"
+
+#: ../main-modules.php:2650 ../main-structure-elements.php:165
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr ""
+"Permite que o vídeo seja pausado por outros players, quanto estes começarem "
+"a tocar"
+
+#: ../main-modules.php:2656
+msgid "Input your main slide text content here."
+msgstr "Insira o conteúdo de texto do seu slide principal aqui."
+
+#: ../main-modules.php:2659
+msgid "Arrows Custom Color"
+msgstr "Cor Personalizada das Setas"
+
+#: ../main-modules.php:2665
+msgid "Dot Nav Custom Color"
+msgstr "Cor Personalizada do Dot Nav"
+
+#: ../main-modules.php:2673
+msgid ""
+"This will change the label of the slide in the builder for easy "
+"identification."
+msgstr ""
+"Isso irá alterar o rótulo do slide no construtor para fácil identificação."
+
+#: ../main-modules.php:2886
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: ../main-modules.php:2947
+msgid "Testimonial Portrait"
+msgstr "Retrato do Depoimento"
+
+#: ../main-modules.php:2951
+msgid "Testimonial Description"
+msgstr "Descrição do Depoimento"
+
+#: ../main-modules.php:2955
+msgid "Testimonial Author"
+msgstr "Autor do Depoimento"
+
+#: ../main-modules.php:2959
+msgid "Testimonial Meta"
+msgstr "Meta do Depoimento"
+
+#: ../main-modules.php:2968
+msgid "Author Name"
+msgstr "Nome do Autor"
+
+#: ../main-modules.php:2971
+msgid "Input the name of the testimonial author."
+msgstr "Insira o nome do autor do depoimento."
+
+#: ../main-modules.php:2974
+msgid "Job Title"
+msgstr "Cargo"
+
+#: ../main-modules.php:2977
+msgid "Input the job title."
+msgstr "Insira o cargo."
+
+#: ../main-modules.php:2980
+msgid "Company Name"
+msgstr "Nome da Empresa"
+
+#: ../main-modules.php:2983
+msgid "Input the name of the company."
+msgstr "Insira o nome da empresa."
+
+#: ../main-modules.php:2986
+msgid "Author/Company URL"
+msgstr "URL do Autor/Empresa"
+
+#: ../main-modules.php:2989
+msgid "Input the website of the author or leave blank for no link."
+msgstr "Insira o site do autor ou deixe em branco para que não haja link."
+
+#: ../main-modules.php:2992
+msgid "URLs Open"
+msgstr "URLs Abrem"
+
+#: ../main-modules.php:2999
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "Escolha se a URL deve ser aberta em uma nova janela."
+
+#: ../main-modules.php:3002
+msgid "Portrait Image URL"
+msgstr "URL da Imagem do Retrato"
+
+#: ../main-modules.php:3011
+msgid "Quote Icon"
+msgstr "Ícone de Cotação"
+
+#: ../main-modules.php:3015
+msgid "Visible"
+msgstr "Visível"
+
+#: ../main-modules.php:3016
+msgid "Hidden"
+msgstr "Oculto"
+
+#: ../main-modules.php:3018
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Escolhe se o ícone de cotação deve ser visível ou não."
+
+#: ../main-modules.php:3021 ../main-modules.php:4034 ../main-modules.php:4549
+#: ../main-modules.php:4962 ../main-modules.php:9065
+msgid "Use Background Color"
+msgstr "Utilizar Fundo Colorido"
+
+#: ../main-modules.php:3031 ../main-modules.php:4044 ../main-modules.php:4559
+#: ../main-modules.php:4972 ../main-modules.php:9075
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Aqui você pode escolher se as configurações de cor de fundo abaixo devem ser "
+"usadas ou não."
+
+#: ../main-modules.php:3036 ../main-modules.php:4050
+msgid "Here you can define a custom background color for your CTA."
+msgstr ""
+"Aqui você pode definir uma cor de fundo personalizada para o seu botão de "
+"chamada à ação."
+
+#: ../main-modules.php:3054 ../main-modules.php:4067
+msgid "This will adjust the alignment of the module text."
+msgstr "Ele irá ajustar o alinhamento do texto do módulo."
+
+#: ../main-modules.php:3080
+msgid "Quote Icon Color"
+msgstr "Cor do Ícone de Cotação"
+
+#: ../main-modules.php:3086
+msgid "Portrait Border Radius"
+msgstr "Raio da Borda do Retrato"
+
+#: ../main-modules.php:3092
+msgid "Portrait Width"
+msgstr "Largura do Retrato"
+
+#: ../main-modules.php:3103
+msgid "Portrait Height"
+msgstr "Altura do Retrato"
+
+#: ../main-modules.php:3269
+msgid "Pricing Tables"
+msgstr "Tabelas de Preços"
+
+#: ../main-modules.php:3273 ../main-modules.php:3692
+msgid "Pricing Table"
+msgstr "Tabela de Preços"
+
+#: ../main-modules.php:3303
+msgid "Pricing Heading"
+msgstr "Subcabeçalho de Preços"
+
+#: ../main-modules.php:3307
+msgid "Pricing Title"
+msgstr "Título dos Preços"
+
+#: ../main-modules.php:3311
+msgid "Pricing Top"
+msgstr "Topo dos Preços"
+
+#: ../main-modules.php:3315 ../main-modules.php:3352 ../main-modules.php:3752
+#: ../main-modules.php:3835 ../main-modules.php:8663 ../main-modules.php:8703
+msgid "Price"
+msgstr "Preço"
+
+#: ../main-modules.php:3319
+msgid "Pricing Content"
+msgstr "Conteúdo dos Preços"
+
+#: ../main-modules.php:3323
+msgid "Pricing Button"
+msgstr "Botão dos Preços"
+
+#: ../main-modules.php:3327
+msgid "Featured Table"
+msgstr "Tabela de Destaques"
+
+#: ../main-modules.php:3340 ../main-modules.php:3733
+msgid "Subheader"
+msgstr "Subcabeçalho"
+
+#: ../main-modules.php:3346 ../main-modules.php:3746
+msgid "Currency &amp; Frequency"
+msgstr "Moeda &amp; Frequência"
+
+#: ../main-modules.php:3423
+msgid "Featured Table Background Color"
+msgstr "Cor de Fundo da Tabela de Destaques"
+
+#: ../main-modules.php:3430
+msgid "Table Header Background Color"
+msgstr "Cor de Fundo do Cabeçalho da Tabela"
+
+#: ../main-modules.php:3436
+msgid "Featured Table Header Background Color"
+msgstr "Cor de Fundo do Cabeçalho da Tabela de Destaques"
+
+#: ../main-modules.php:3443
+msgid "Featured Table Header Text Color"
+msgstr "Cor do Texto do Cabeçalho da Tabela de Destaques"
+
+#: ../main-modules.php:3450
+msgid "Featured Table Subheader Text Color"
+msgstr "Cor do Texto do Subcabeçalho da Tabela de Destaques"
+
+#: ../main-modules.php:3457
+msgid "Featured Table Price Color"
+msgstr "Cor do Preço da Tabela de Destaques"
+
+#: ../main-modules.php:3464
+msgid "Featured Table Body Text Color"
+msgstr "Cor do Texto do Corpo da Tabela de Destaques"
+
+#: ../main-modules.php:3471
+msgid "Show Bullet"
+msgstr "Exibir Ponto"
+
+#: ../main-modules.php:3484
+msgid "Bullet Color"
+msgstr "Cor do Ponto"
+
+#: ../main-modules.php:3491
+msgid "Featured Table Bullet Color"
+msgstr "Cor do Ponto da Tabela de Destaques"
+
+#: ../main-modules.php:3498
+msgid "Remove Featured Table Drop Shadow"
+msgstr "Remove Sombra Projetada da Tabela de Destaques"
+
+#: ../main-modules.php:3509
+msgid "Center List Items"
+msgstr "Centralizar Itens da Lista"
+
+#: ../main-modules.php:3714
+msgid "New Pricing Table"
+msgstr "Nova Tabela de Preço"
+
+#: ../main-modules.php:3715
+msgid "Pricing Table Settings"
+msgstr "Configurações da Tabela de Preço"
+
+#: ../main-modules.php:3801
+msgid "Make This Table Featured"
+msgstr "Colocar esta Tabela em Destaque"
+
+#: ../main-modules.php:3808
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "Colocar a tabela em destaque faz com que ela se sobressaia às demais."
+
+#: ../main-modules.php:3814
+msgid "Define a title for the pricing table."
+msgstr "Defina um título para a tabela de preços."
+
+#: ../main-modules.php:3817
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: ../main-modules.php:3820
+msgid "Define a sub title for the table if desired."
+msgstr "Defina um subtítulo para a tabela, se desejar."
+
+#: ../main-modules.php:3823
+msgid "Currency"
+msgstr "Moeda"
+
+#: ../main-modules.php:3826
+msgid "Input your desired currency symbol here."
+msgstr "Insira o símbolo da moeda desejada aqui."
+
+#: ../main-modules.php:3829
+msgid "Per"
+msgstr "Por"
+
+#: ../main-modules.php:3832
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Se seus preços forem por assinatura, insira o ciclo de pagamento de "
+"assinatura aqui."
+
+#: ../main-modules.php:3838
+msgid "Input the value of the product here."
+msgstr "Insira o valor do produto aqui."
+
+#: ../main-modules.php:3844
+msgid "Input the destination URL for the signup button."
+msgstr "Insira uma URL de destino para o botão de cadastro."
+
+#: ../main-modules.php:3850
+msgid "Adjust the text used from the signup button."
+msgstr "Ajuste o texto usado no botão de cadastro."
+
+#: ../main-modules.php:3858
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Insira uma lista de recursos que estão/não estão incluídos no produto. "
+"Separe itens em uma nova linha, e comece com um símbolo de + ou -."
+
+#: ../main-modules.php:3859
+msgid "Included option"
+msgstr "Opção incluída"
+
+#: ../main-modules.php:3860
+msgid "Excluded option"
+msgstr "Opção excluída"
+
+#: ../main-modules.php:3933
+msgid "Call To Action"
+msgstr "Chamada à Ação"
+
+#: ../main-modules.php:3993
+msgid "Promo Description"
+msgstr "Descrição"
+
+#: ../main-modules.php:3997
+msgid "Promo Button"
+msgstr "Botão"
+
+#: ../main-modules.php:4009
+msgid "Input your value to action title here."
+msgstr "Insira o título do botão de chamada à ação aqui."
+
+#: ../main-modules.php:4015
+msgid "Input the destination URL for your CTA button."
+msgstr "Insira a URL de destino do botão de chamada à ação."
+
+#: ../main-modules.php:4031
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"Insira o texto desejado para o botão ou deixe em branco para que não haja "
+"botão."
+
+#: ../main-modules.php:4177 ../main-modules.php:4246
+msgid "Audio"
+msgstr "Áudio"
+
+#: ../main-modules.php:4229
+msgid "Audio Cover Art"
+msgstr "Imagem do Áudio"
+
+#: ../main-modules.php:4233
+msgid "Audio Content"
+msgstr "Conteúdo do Áudio"
+
+#: ../main-modules.php:4237
+msgid "Audio Meta"
+msgstr "Meta do Áudio"
+
+#: ../main-modules.php:4250
+msgid "Upload an audio file"
+msgstr "Enviar um arquivo de áudio"
+
+#: ../main-modules.php:4251
+msgid "Choose an Audio file"
+msgstr "Selecionar um arquivo de áudio"
+
+#: ../main-modules.php:4252
+msgid "Set As Audio for the module"
+msgstr "Definir como o áudio para o módulo"
+
+#: ../main-modules.php:4253
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Defina o arquivo de áudio a ser usado no módulo. Para remover um arquivo de "
+"áudio do módulo, basta deletar a URL do campo de configurações."
+
+#: ../main-modules.php:4259
+msgid "Define a title."
+msgstr "Defina um título."
+
+#: ../main-modules.php:4262
+msgid "Artist Name"
+msgstr "Nome do Artista"
+
+#: ../main-modules.php:4265
+msgid "Define an artist name."
+msgstr "Defina o nome do artista."
+
+#: ../main-modules.php:4268
+msgid "Album name"
+msgstr "Nome do álbum"
+
+#: ../main-modules.php:4271
+msgid "Define an album name."
+msgstr "Defina o nome do álbum."
+
+#: ../main-modules.php:4274
+msgid "Cover Art Image URL"
+msgstr "URL da Imagem da Arte da Capa"
+
+#: ../main-modules.php:4285 ../main-modules.php:4564 ../main-modules.php:4977
+#: ../main-structure-elements.php:123
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Defina uma cor de fundo personalizada para seu módulo ou deixe em branco "
+"para usar a cor padrão."
+
+#: ../main-modules.php:4345
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr "por <strong>%1$s</strong>"
+
+#: ../main-modules.php:4396
+msgid "Email Optin"
+msgstr "E-Mail Optin"
+
+#: ../main-modules.php:4424
+msgid "Subscribe"
+msgstr "Inscrever"
+
+#: ../main-modules.php:4462 ../main-modules.php:4929
+msgid "Newsletter Description"
+msgstr "Descrição da Newsletter"
+
+#: ../main-modules.php:4466 ../main-modules.php:4933
+msgid "Newsletter Form"
+msgstr "Formulário da Newsletter"
+
+#: ../main-modules.php:4470 ../main-modules.php:4937
+msgid "Newsletter Button"
+msgstr "Botão da Newsletter"
+
+#: ../main-modules.php:4477
+msgid "Select the list"
+msgstr "Selecione a lista"
+
+#: ../main-modules.php:4498
+msgid "Service Provider"
+msgstr "Provedor de Servidor"
+
+#: ../main-modules.php:4502
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../main-modules.php:4503
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../main-modules.php:4504
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../main-modules.php:4511
+msgid "Here you can choose a service provider."
+msgstr "qui você pode selecionar um provedor de serviço."
+
+#: ../main-modules.php:4514
+msgid "Feed Title"
+msgstr "Título do Feed"
+
+#: ../main-modules.php:4521
+msgid "MailChimp lists"
+msgstr "Listas do MailChimp"
+
+#: ../main-modules.php:4525
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Aqui você pode escolher a lista do MailChimp para adicionar clientes. Se "
+"você não vir nenhuma lista, você precisa se certificar de que a chave da "
+"MailChimp API esteja definida no ePanel e que você tenha pelo menos uma "
+"lista na conta do MailChimp. Se você adicionou uma nova lista, mas ela não "
+"apareceu aqui, ative a opção Regenerar Listas do MailChimp no ePanel. Não se "
+"esqueça de desabilitá-lo quando a lista tiver sido regenerada."
+
+#: ../main-modules.php:4529
+msgid "Aweber lists"
+msgstr "Listas do Aweber"
+
+#: ../main-modules.php:4533
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Aqui você pode escolher a lista do Aweber para adicionar clientes. Se você "
+"não vir nenhuma lista, você precisa se certificar de que o Aweber esteja "
+"definido corretamente no ePanel e que você tenha pelo menos uma lista na "
+"conta do Aweber. Se você adicionou uma nova lista, mas ela não apareceu "
+"aqui, ative a opção Regenerar Listas do Aweber no ePanel. Não se esqueça de "
+"desabilitá-lo quando a lista tiver sido regenerada."
+
+#: ../main-modules.php:4540
+msgid "Choose a title of your signup box."
+msgstr "Escolha um título para a sua caixa de cadastro."
+
+#: ../main-modules.php:4546
+msgid "Here you can change the text used for the signup button."
+msgstr "Aqui você pode alterar o texto usado para o botão de cadastro."
+
+#: ../main-modules.php:4582 ../main-modules.php:4995
+msgid "Here you can adjust the alignment of your text."
+msgstr "Aqui você pode ajustar o alinhamento do seu texto."
+
+#: ../main-modules.php:4608 ../main-modules.php:5021
+msgid "Form Field Background Color"
+msgstr "Cor de Fundo dos Campos do Formulário"
+
+#: ../main-modules.php:4614 ../main-modules.php:5027
+msgid "Form Field Text Color"
+msgstr "Cor de Texto dos Campos do Formulário"
+
+#: ../main-modules.php:4620 ../main-modules.php:5033
+msgid "Focus Background Color"
+msgstr "Cor de Fundo do Foco"
+
+#: ../main-modules.php:4626 ../main-modules.php:5039
+msgid "Focus Text Color"
+msgstr "Cor de Texto do Foco"
+
+#: ../main-modules.php:4632 ../main-modules.php:5045
+msgid "Use Focus Border Color"
+msgstr "Usar Cor da Borda do Foco"
+
+#: ../main-modules.php:4645 ../main-modules.php:5058
+msgid "Focus Border Color"
+msgstr "Cor da Borda do Foco"
+
+#: ../main-modules.php:4737
+msgid "First Name"
+msgstr "Primeiro Nome"
+
+#: ../main-modules.php:4738
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: ../main-modules.php:4739 ../main-modules.php:7372
+msgid "Email Address"
+msgstr "E-mail"
+
+#: ../main-modules.php:4806 ../main-modules.php:7371 ../main-modules.php:7894
+msgid "Name"
+msgstr "Nome"
+
+#: ../main-modules.php:4868 ../main-modules.php:5191
+msgid "Login"
+msgstr "Entrar"
+
+#: ../main-modules.php:4949
+msgid "Choose a title of your login box."
+msgstr "Escolha um título para a sua caixa de login."
+
+#: ../main-modules.php:4952
+msgid "Redirect To The Current Page"
+msgstr "Redirecionar para a Página Atual"
+
+#: ../main-modules.php:4959
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Aqui você pode escolher se o usuário deverá ser redirecionado para a página "
+"atual."
+
+#: ../main-modules.php:5152
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "Logado como %1$s"
+
+#: ../main-modules.php:5154
+msgid "Log out"
+msgstr "Sair"
+
+#: ../main-modules.php:5163
+msgid "Username"
+msgstr "Nome do Usuário"
+
+#: ../main-modules.php:5164
+msgid "Password"
+msgstr "Senha"
+
+#: ../main-modules.php:5184
+msgid "Forgot your password?"
+msgstr "Esqueceu sua senha?"
+
+#: ../main-modules.php:5231
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: ../main-modules.php:5284 ../main-modules.php:5653
+msgid "Portfolio Image"
+msgstr "Imagem do Portfólio"
+
+#: ../main-modules.php:5296 ../main-modules.php:5665 ../main-modules.php:11681
+msgid "Portfolio Title"
+msgstr "Título do Portfólio"
+
+#: ../main-modules.php:5300 ../main-modules.php:5669
+msgid "Portfolio Post Meta"
+msgstr "Meta da Publicação do Portfólio"
+
+#: ../main-modules.php:5313 ../main-modules.php:5682 ../main-modules.php:8204
+msgid "Fullwidth"
+msgstr "Largura Completa"
+
+#: ../main-modules.php:5316 ../main-modules.php:5685 ../main-modules.php:11697
+msgid "Choose your desired portfolio layout style."
+msgstr "Escolha o estilo de layout de portfólio desejado."
+
+#: ../main-modules.php:5319 ../main-modules.php:5688 ../main-modules.php:8214
+#: ../main-modules.php:8729 ../main-modules.php:11706
+msgid "Posts Number"
+msgstr "Número de Publicações"
+
+#: ../main-modules.php:5322 ../main-modules.php:5691
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Defina o número de projetos que devem ser exibidos por página."
+
+#: ../main-modules.php:5325 ../main-modules.php:5694 ../main-modules.php:8220
+#: ../main-modules.php:8735 ../main-modules.php:11700
+msgid "Include Categories"
+msgstr "Incluir Categorias"
+
+#: ../main-modules.php:5328 ../main-modules.php:5697 ../main-modules.php:11703
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Selecione quais categorias você deseja incluir no feed."
+
+#: ../main-modules.php:5331 ../main-modules.php:5700 ../main-modules.php:9839
+#: ../main-modules.php:11712 ../main-modules.php:12421
+msgid "Show Title"
+msgstr "Exibir Título"
+
+#: ../main-modules.php:5338 ../main-modules.php:5707 ../main-modules.php:11719
+msgid "Turn project titles on or off."
+msgstr "Ativar ou desativar títulos de projetos."
+
+#: ../main-modules.php:5341 ../main-modules.php:5710 ../main-modules.php:8289
+msgid "Show Categories"
+msgstr "Exibir Categorias"
+
+#: ../main-modules.php:5348 ../main-modules.php:5717 ../main-modules.php:8296
+msgid "Turn the category links on or off."
+msgstr "Ativar ou desativar os links de categorias."
+
+#: ../main-modules.php:5586
+msgid "Filterable Portfolio"
+msgstr "Portfólio Filtrável"
+
+#: ../main-modules.php:5630
+msgid "Filter"
+msgstr "Filtro"
+
+#: ../main-modules.php:5645
+msgid "Portfolio Filters"
+msgstr "Filtros de Portfólio"
+
+#: ../main-modules.php:5649
+msgid "Active Portfolio Filter"
+msgstr "Filtro de Portfólio Ativo"
+
+#: ../main-modules.php:5934
+msgid "All"
+msgstr "Todos"
+
+#: ../main-modules.php:5974
+msgid "Bar Counters"
+msgstr "Contadores em Barra"
+
+#: ../main-modules.php:5977 ../main-modules.php:6159
+msgid "Bar Counter"
+msgstr "Barra do Contador"
+
+#: ../main-modules.php:6012 ../main-modules.php:6193 ../main-modules.php:6387
+#: ../main-modules.php:6582
+msgid "Percent"
+msgstr "Percentual"
+
+#: ../main-modules.php:6029
+msgid "Counter Title"
+msgstr "Título do Contador"
+
+#: ../main-modules.php:6033
+msgid "Counter Container"
+msgstr "Contêiner do Contador"
+
+#: ../main-modules.php:6037
+msgid "Counter Amount"
+msgstr "Número do Contador"
+
+#: ../main-modules.php:6058
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr ""
+"Esta opção irá ajustar a cor do espaço vazio da barra (atualmente cinza)."
+
+#: ../main-modules.php:6061 ../main-modules.php:6205 ../main-modules.php:6433
+msgid "Bar Background Color"
+msgstr "Cor de Fundo da Barra"
+
+#: ../main-modules.php:6063 ../main-modules.php:6435 ../main-modules.php:6619
+msgid "This will change the fill color for the bar."
+msgstr "Esta opção irá modificar a cor de preenchimento da barra."
+
+#: ../main-modules.php:6066
+msgid "Use Percentages"
+msgstr "Usar Porcentagens"
+
+#: ../main-modules.php:6092
+msgid "Bar Top Padding"
+msgstr "Preenchimento Superior da Barra"
+
+#: ../main-modules.php:6098
+msgid "Bar Bottom Padding"
+msgstr "Preenchimento Inferior da Barra"
+
+#: ../main-modules.php:6104
+msgid "Border Radius"
+msgstr "Raio da Borda"
+
+#: ../main-modules.php:6177
+msgid "New Bar Counter"
+msgstr "Novo Contador em Barra"
+
+#: ../main-modules.php:6178
+msgid "Bar Counter Settings"
+msgstr "Configurações do Contador em Barra"
+
+#: ../main-modules.php:6190
+msgid "Input a title for your bar."
+msgstr "Insira um título para a sua barra."
+
+#: ../main-modules.php:6196
+msgid "Define a percentage for this bar."
+msgstr "Defina uma porcentagem para esta barra."
+
+#: ../main-modules.php:6211
+msgid "Label Color"
+msgstr "Cor do Rótulo"
+
+#: ../main-modules.php:6217
+msgid "Percentage Color"
+msgstr "Cor do Percentual"
+
+#: ../main-modules.php:6344
+msgid "Circle Counter"
+msgstr "Contador Circular"
+
+#: ../main-modules.php:6377 ../main-modules.php:6406 ../main-modules.php:6554
+#: ../main-modules.php:6601
+msgid "Number"
+msgstr "Número"
+
+#: ../main-modules.php:6391
+msgid "Circle Counter Title"
+msgstr "Título do Contador Circular"
+
+#: ../main-modules.php:6403
+msgid "Input a title for the circle counter."
+msgstr "Insira um título para o contador circular."
+
+#: ../main-modules.php:6410
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Defina um número para o contador circular. (Não inclua o sinal de "
+"porcentagem, usa e opção abaixo). Nota: Você pode usar somente números "
+"naturais de 0 a 100"
+
+#: ../main-modules.php:6413 ../main-modules.php:6607
+msgid "Percent Sign"
+msgstr "Sinal de Porcentagem"
+
+#: ../main-modules.php:6420 ../main-modules.php:6614
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"Aqui você pode escolher se o sinal de porcentagem deverá ser acrescentado "
+"depois do número definido acima."
+
+#: ../main-modules.php:6461
+msgid "Circle Color Opacity"
+msgstr "Opacidade da Cor do Círculo"
+
+#: ../main-modules.php:6523
+msgid "Number Counter"
+msgstr "Contador de Números"
+
+#: ../main-modules.php:6586
+msgid "Number Counter Title"
+msgstr "Título do Contador de Números"
+
+#: ../main-modules.php:6598
+msgid "Input a title for the counter."
+msgstr "Insira um título para o contador"
+
+#: ../main-modules.php:6604
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Defina um número para o contador. (Não inclua o sinal de porcentagem, usa e "
+"opção abaixo)."
+
+#: ../main-modules.php:6617
+msgid "Counter Text Color"
+msgstr "Cor do Texto do Contador"
+
+#: ../main-modules.php:6629
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Aqui você escolher se o texto do título deverá ser claro ou escuro. Se você "
+"estiver trabalhando com um plano de fundo escuro, seu texto deverá ser "
+"claro. Se seu plano de fundo for claro, seu texto deve ser definido como "
+"escuro."
+
+#: ../main-modules.php:6689 ../main-modules.php:6867
+msgid "Accordion"
+msgstr "Sanfona"
+
+#: ../main-modules.php:6706 ../main-modules.php:6740 ../main-modules.php:6948
+msgid "Toggle"
+msgstr "Caixa de Alternância"
+
+#: ../main-modules.php:6744 ../main-modules.php:6999
+msgid "Open Toggle"
+msgstr "Botão de Ativar/Desativar Ativo"
+
+#: ../main-modules.php:6748 ../main-modules.php:7003
+msgid "Toggle Title"
+msgstr "Título do Botão de Ativar/Desativar"
+
+#: ../main-modules.php:6752 ../main-modules.php:7007
+msgid "Toggle Icon"
+msgstr "Ícone do Botão de Ativar/Desativar"
+
+#: ../main-modules.php:6756 ../main-modules.php:7011
+msgid "Toggle Content"
+msgstr "Conteúdo do Botão de Ativar/Desativar"
+
+#: ../main-modules.php:6782 ../main-modules.php:6911 ../main-modules.php:7059
+msgid "Open Toggle Background Color"
+msgstr "Cor de Fundo do Botão de Ativar/Desativar Ativo"
+
+#: ../main-modules.php:6788 ../main-modules.php:6923 ../main-modules.php:7065
+msgid "Closed Toggle Background Color"
+msgstr "Cor de Fundo do Botão de Ativar/Desativar Desativado"
+
+#: ../main-modules.php:6902 ../main-modules.php:7023
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr ""
+"A caixa de alternância irá aparecer sobre o conteúdo e quando a caixa "
+"estiver fechada."
+
+#: ../main-modules.php:6917
+msgid "Open Toggle Text Color"
+msgstr "Cor de Texto do Botão de Ativar/Desativar Ativo"
+
+#: ../main-modules.php:6929
+msgid "Closed Toggle Text Color"
+msgstr "Cor de Texto do Botão de Ativar/Desativar Desativado"
+
+#: ../main-modules.php:7026
+msgid "State"
+msgstr "Estado"
+
+#: ../main-modules.php:7030 ../template-preview.php:80
+msgid "Close"
+msgstr "Fechar"
+
+#: ../main-modules.php:7031
+msgid "Open"
+msgstr "Abrir"
+
+#: ../main-modules.php:7033
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr ""
+"Escolhe se esta caixa de alternância deve começar no estado aberto ou "
+"fechado."
+
+#: ../main-modules.php:7156
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+#: ../main-modules.php:7184
+msgid "Form Field"
+msgstr "Campo do Formulário"
+
+#: ../main-modules.php:7206
+msgid "Contact Title"
+msgstr "Título do Contato"
+
+#: ../main-modules.php:7210
+msgid "Contact Button"
+msgstr "Botão de Contato"
+
+#: ../main-modules.php:7219
+msgid "Display Captcha"
+msgstr "Exibir Captcha"
+
+#: ../main-modules.php:7226
+msgid "Turn the captcha on or off using this option."
+msgstr "Ative ou desative o Captcha usando esta opção."
+
+#: ../main-modules.php:7229
+msgid "Email"
+msgstr "E-mail"
+
+#: ../main-modules.php:7232
+msgid "Input the email address where messages should be sent."
+msgstr ""
+"Insira o endereço de e-mail para o qual as mensagens devem ser enviadas."
+
+#: ../main-modules.php:7238
+msgid "Define a title for your contact form."
+msgstr "Defina um título para o seu formulário de contato."
+
+#: ../main-modules.php:7258
+msgid "Form Background Color"
+msgstr "Cor de Fundo do Formulário"
+
+#: ../main-modules.php:7264
+msgid "Input Border Radius"
+msgstr "Raio da Borda da Inserção"
+
+#: ../main-modules.php:7312
+msgid "Make sure you entered the captcha."
+msgstr "Certifique-se que você digitou o captcha."
+
+#: ../main-modules.php:7315
+msgid "You entered the wrong number in captcha."
+msgstr "Você digitou o número captcha errado."
+
+#: ../main-modules.php:7322
+msgid "Make sure you fill all fields."
+msgstr "Certifique-se de preencher todos os campos."
+
+#: ../main-modules.php:7327
+msgid "Invalid Email."
+msgstr "E-mail inválido."
+
+#: ../main-modules.php:7361
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "Nova mensagem de %1$s%2$s"
+
+#: ../main-modules.php:7363
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../main-modules.php:7366
+msgid "Thanks for contacting us"
+msgstr "Obrigado por entrar em contato conosco"
+
+#: ../main-modules.php:7426
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../main-modules.php:7461
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: ../main-modules.php:7499
+msgid "Widget"
+msgstr "Widget"
+
+#: ../main-modules.php:7512
+msgid "Orientation"
+msgstr "Orientação"
+
+#: ../main-modules.php:7519
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Escolha em que lado da página sua barra lateral ficará. Esta configuração "
+"controla a orientação do texto e a posição da borda."
+
+#: ../main-modules.php:7522
+msgid "Widget Area"
+msgstr "Área de Widgets"
+
+#: ../main-modules.php:7525
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Selecione um área de widgets que você deseja exibir. Você pode criar novas "
+"áreas de widgets na aba Aparências > Widgets."
+
+#: ../main-modules.php:7555
+msgid "Remove Border Separator"
+msgstr "Remover Separador da Borda"
+
+#: ../main-modules.php:7613
+msgid "Divider"
+msgstr "Divisor"
+
+#: ../main-modules.php:7624
+msgid "Don't Show Divider"
+msgstr "Não Exibir Divisor"
+
+#: ../main-modules.php:7625
+msgid "Show Divider"
+msgstr "Exibir Divisor"
+
+#: ../main-modules.php:7658
+msgid "Color"
+msgstr "Cor"
+
+#: ../main-modules.php:7660
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Ele irá ajustar a cor da linha divisora de 1 pixel."
+
+#: ../main-modules.php:7663
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: ../main-modules.php:7672
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Estas configurações ativam e desativam a linha divisora de 1 pixel, mas não "
+"afeta a altura do divisor."
+
+#: ../main-modules.php:7675
+msgid "Height"
+msgstr ""
+"Estas configurações ativam e desativam a linha divisora de 1 pixel, mas não "
+"afeta a altura do divisor."
+
+#: ../main-modules.php:7678
+msgid "Define how much space should be added below the divider."
+msgstr "Defina quanto espaço deve ser adicionado abaixo do divisor."
+
+#: ../main-modules.php:7698
+msgid "Divider Style"
+msgstr "Estilo do Divisor"
+
+#: ../main-modules.php:7706
+msgid "Divider Position"
+msgstr "Posição do Divisor"
+
+#: ../main-modules.php:7711 ../main-modules.php:10526
+msgid "Vertically Centered"
+msgstr "Centralizado Verticalmente"
+
+#: ../main-modules.php:7718
+msgid "Divider Weight"
+msgstr "Altura do Divisor"
+
+#: ../main-modules.php:7725
+msgid "Hide On Mobile"
+msgstr "Ocultar em Dispositivo Móvel"
+
+#: ../main-modules.php:7813
+msgid "Person"
+msgstr "Pessoa"
+
+#: ../main-modules.php:7869
+msgid "Member Image"
+msgstr "Imagem do Membro"
+
+#: ../main-modules.php:7873
+msgid "Member Description"
+msgstr "Descrição do Membro"
+
+#: ../main-modules.php:7881
+msgid "Member Position"
+msgstr "Posição do Membro"
+
+#: ../main-modules.php:7885
+msgid "Member Social Links"
+msgstr "Links Sociais do Membro"
+
+#: ../main-modules.php:7897
+msgid "Input the name of the person"
+msgstr "Insira o nome da pessoa"
+
+#: ../main-modules.php:7900
+msgid "Position"
+msgstr "Cargo"
+
+#: ../main-modules.php:7903
+msgid "Input the person's position."
+msgstr "Insira o cargo da pessoa."
+
+#: ../main-modules.php:7939
+msgid "Facebook Profile Url"
+msgstr "Facebook Perfil URL"
+
+#: ../main-modules.php:7942
+msgid "Input Facebook Profile Url."
+msgstr "Insira a URL do Perfil no Facebook"
+
+#: ../main-modules.php:7945
+msgid "Twitter Profile Url"
+msgstr "Twitter Perfil URL"
+
+#: ../main-modules.php:7948
+msgid "Input Twitter Profile Url"
+msgstr "Insira a URL do Perfil no Twitter"
+
+#: ../main-modules.php:7951
+msgid "Google+ Profile Url"
+msgstr "Google+ Perfil URL"
+
+#: ../main-modules.php:7954
+msgid "Input Google+ Profile Url"
+msgstr "Insira a URL do Perfil no Google+"
+
+#: ../main-modules.php:7957
+msgid "LinkedIn Profile Url"
+msgstr "URL do Perfil no LinkedIn"
+
+#: ../main-modules.php:7960
+msgid "Input LinkedIn Profile Url"
+msgstr "Insira a URL do Perfil no LinkedIn"
+
+#: ../main-modules.php:7963
+msgid "Description"
+msgstr "Descrição"
+
+#: ../main-modules.php:7992 ../main-modules.php:8798
+msgid "Icon Hover Color"
+msgstr "Cor do Ícone ao Passar o Mouse"
+
+#: ../main-modules.php:8044
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:8052 ../main-modules.php:9609
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../main-modules.php:8060 ../main-modules.php:9613
+msgid "Google+"
+msgstr "Google+"
+
+#: ../main-modules.php:8068 ../main-modules.php:9621
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../main-modules.php:8115
+msgid "Blog"
+msgstr "Blog"
+
+#: ../main-modules.php:8167 ../main-modules.php:9827 ../main-modules.php:12409
+msgid "Meta"
+msgstr "Meta"
+
+#: ../main-modules.php:8187
+msgid "Post Meta"
+msgstr "Meta da Publicação"
+
+#: ../main-modules.php:8191
+msgid "Pagenavi"
+msgstr "Navegação da Página"
+
+#: ../main-modules.php:8217
+msgid "Choose how much posts you would like to display per page."
+msgstr "Escolha quantas publicações você deseja exibir por página."
+
+#: ../main-modules.php:8226
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Escolha quais categorias você deseja incluir no feed."
+
+#: ../main-modules.php:8229
+msgid "Meta Date Format"
+msgstr "Formato da Data"
+
+#: ../main-modules.php:8232
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Se você deseja ajustar o formato da dada, insira o formato apropriado da "
+"data em PHP aqui."
+
+#: ../main-modules.php:8235 ../main-modules.php:9921 ../main-modules.php:12503
+msgid "Show Featured Image"
+msgstr "Exibir Imagem de Destaque"
+
+#: ../main-modules.php:8242
+msgid "This will turn thumbnails on and off."
+msgstr "Esta opção irá ativar ou desativar as miniaturas."
+
+#: ../main-modules.php:8249
+msgid "Show Excerpt"
+msgstr "Exibir Resumo"
+
+#: ../main-modules.php:8250
+msgid "Show Content"
+msgstr "Exibir Conteúdo"
+
+#: ../main-modules.php:8255
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Exibir todo o conteúdo não irá truncar suas publicações na página de índice. "
+"Exibir o resumo mostrará somente seu texto de resumo."
+
+#: ../main-modules.php:8258
+msgid "Read More Button"
+msgstr "Botão Ler Mais"
+
+#: ../main-modules.php:8266
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Aqui você pode definir se exibirá ou não o link para ler mais depois dos "
+"resumos."
+
+#: ../main-modules.php:8269 ../main-modules.php:9865 ../main-modules.php:12447
+msgid "Show Author"
+msgstr "Exibir Autor"
+
+#: ../main-modules.php:8276
+msgid "Turn on or off the author link."
+msgstr "Ativar ou desativar o link do autor."
+
+#: ../main-modules.php:8279 ../main-modules.php:9876 ../main-modules.php:11722
+#: ../main-modules.php:12458
+msgid "Show Date"
+msgstr "Exibir Data"
+
+#: ../main-modules.php:8286
+msgid "Turn the date on or off."
+msgstr "Ativar ou desativar a data."
+
+#: ../main-modules.php:8299
+msgid "Show Comment Count"
+msgstr "Mostrar Comentário Contagem"
+
+#: ../main-modules.php:8306
+msgid "Turn comment count on and off."
+msgstr "Vire a quantidade de comentários e fora."
+
+#: ../main-modules.php:8316
+msgid "Turn pagination on and off."
+msgstr "Ativar ou desativar a paginação."
+
+#: ../main-modules.php:8319
+msgid "Offset Number"
+msgstr "Número de Deslocamento"
+
+#: ../main-modules.php:8322
+msgid "Choose how many posts you would like to offset by"
+msgstr "Escolha em quantas publicações você deseja que a página desloque"
+
+#: ../main-modules.php:8353
+msgid "Grid Tile Background Color"
+msgstr "Cor de Fundo do Bloco da Grade"
+
+#: ../main-modules.php:8359
+msgid "Use Dropshadow"
+msgstr "Usar Sombra Projetada"
+
+#: ../main-modules.php:8513
+#, php-format
+msgid "by %s"
+msgstr "por %s"
+
+#: ../main-modules.php:8523
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../main-modules.php:8562
+msgid "read more..."
+msgstr "ler mais..."
+
+#: ../main-modules.php:8570
+msgid "read more"
+msgstr "ler mais"
+
+#: ../main-modules.php:8628
+msgid "Shop"
+msgstr "Loja"
+
+#: ../main-modules.php:8679
+msgid "Product"
+msgstr "Produto"
+
+#: ../main-modules.php:8683
+msgid "Onsale"
+msgstr "Em Oferta"
+
+#: ../main-modules.php:8699
+msgid "Rating"
+msgstr "Avaliação"
+
+#: ../main-modules.php:8716
+msgid "Recent Products"
+msgstr "Produtos Recentes"
+
+#: ../main-modules.php:8717
+msgid "Featured Products"
+msgstr "Produtos em Destaque"
+
+#: ../main-modules.php:8718
+msgid "Sale Products"
+msgstr "Produtos em Oferta"
+
+#: ../main-modules.php:8719
+msgid "Best Selling Products"
+msgstr "Produtos Mais Vendidos"
+
+#: ../main-modules.php:8720
+msgid "Top Rated Products"
+msgstr "Produtos Mais Bem Avaliados"
+
+#: ../main-modules.php:8721
+msgid "Product Category"
+msgstr "Categoria De Produto"
+
+#: ../main-modules.php:8726
+msgid "Choose which type of products you would like to display."
+msgstr "Escolha que tipos de produto você deseja exibir."
+
+#: ../main-modules.php:8732
+msgid "Control how many products are displayed."
+msgstr "Controla quantos produtos são exibidos."
+
+#: ../main-modules.php:8743
+msgid "Choose which categories you would like to include."
+msgstr "Escolha as categorias que você gostaria de incluir."
+
+#: ../main-modules.php:8746
+msgid "Columns Number"
+msgstr "Quantidade de Colunas"
+
+#: ../main-modules.php:8750
+msgid "default"
+msgstr "padrão"
+
+#: ../main-modules.php:8751 ../main-modules.php:8752 ../main-modules.php:8753
+#: ../main-modules.php:8754 ../main-modules.php:8755
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Colunas"
+
+#: ../main-modules.php:8756
+msgid "1 Column"
+msgstr "1 Coluna"
+
+#: ../main-modules.php:8758
+msgid "Choose how many columns to display."
+msgstr "Escolha quantas colunas deverão ser exibidas."
+
+#: ../main-modules.php:8761
+msgid "Order By"
+msgstr "Ordenar Por"
+
+#: ../main-modules.php:8765
+msgid "Default Sorting"
+msgstr "Ordem Padrão"
+
+#: ../main-modules.php:8766
+msgid "Sort By Popularity"
+msgstr "Ordenar por Popularidade"
+
+#: ../main-modules.php:8767
+msgid "Sort By Rating"
+msgstr "Ordenar por Avaliação"
+
+#: ../main-modules.php:8768
+msgid "Sort By Date"
+msgstr "Ordenar por Data"
+
+#: ../main-modules.php:8769
+msgid "Sort By Price: Low To High"
+msgstr "Ordenar por Preço Crescente"
+
+#: ../main-modules.php:8770
+msgid "Sort By Price: High To Low"
+msgstr "Ordenar por Preço Decrescente"
+
+#: ../main-modules.php:8772
+msgid "Choose how your products should be ordered."
+msgstr "Escolha como seus produtos devem ser ordenados."
+
+#: ../main-modules.php:8792
+msgid "Sale Badge Color"
+msgstr "Cor do Selo de Oferta"
+
+#: ../main-modules.php:8957
+msgid "Countdown Timer"
+msgstr "Relógio de Contagem Regressiva"
+
+#: ../main-modules.php:8987
+msgid "Numbers"
+msgstr "Números"
+
+#: ../main-modules.php:9000
+msgid "Label"
+msgstr "Rótulo"
+
+#: ../main-modules.php:9026
+msgid "Container"
+msgstr "Contêiner"
+
+#: ../main-modules.php:9034
+msgid "Timer Section"
+msgstr "Seção do Temporizador"
+
+#: ../main-modules.php:9043
+msgid "Countdown Timer Title"
+msgstr "Título do Relógio de Contagem Regressiva"
+
+#: ../main-modules.php:9046
+msgid "This is the title displayed for the countdown timer."
+msgstr "Este é o título exibido no relógio de contagem regressiva."
+
+#: ../main-modules.php:9049
+msgid "Countdown To"
+msgstr "Contar até"
+
+#: ../main-modules.php:9052
+#, php-format
+msgid ""
+"This is the date the countdown timer is counting down to. Your countdown "
+"timer is based on your timezone settings in your <a href=\"%1$s\" target="
+"\"_blank\" title=\"WordPress General Settings\">WordPress General Settings</"
+"a>"
+msgstr ""
+"Esta é a data em que o temporizador está em contagem regressiva. O "
+"temporizador de contagem decrescente é baseado em suas configurações de fuso "
+"horário em seu <a href=\"%1$s\" target=\"_blank\" title=\"WordPress Geral"
+"\"Configurações>Configurações Gerais do WordPress</a>"
+
+#: ../main-modules.php:9081
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr ""
+"Aqui você pode definir uma cor de fundo personalizada para o relógio de "
+"contagem regressiva."
+
+#: ../main-modules.php:9167
+msgid "Day(s)"
+msgstr "Dia(s)"
+
+#: ../main-modules.php:9168
+msgid "Hour(s)"
+msgstr "Hora(s)"
+
+#: ../main-modules.php:9169
+msgid "Hrs"
+msgstr "Hrs"
+
+#: ../main-modules.php:9170
+msgid "Minute(s)"
+msgstr "Minuto(s)"
+
+#: ../main-modules.php:9171
+msgid "Min"
+msgstr "Min"
+
+#: ../main-modules.php:9172
+msgid "Second(s)"
+msgstr "Segundo(s)"
+
+#: ../main-modules.php:9173
+msgid "Sec"
+msgstr "Seg"
+
+#: ../main-modules.php:9183
+msgid "Map"
+msgstr "Mapa"
+
+#: ../main-modules.php:9186 ../main-modules.php:9332 ../main-modules.php:11892
+msgid "Pin"
+msgstr "Pino"
+
+#: ../main-modules.php:9212 ../main-modules.php:11915
+msgid "Map Center Address"
+msgstr "Endereço do Centro do Marcador"
+
+#: ../main-modules.php:9217 ../main-modules.php:9367 ../main-modules.php:11920
+msgid "Find"
+msgstr "Procurar"
+
+#: ../main-modules.php:9220 ../main-modules.php:11923
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Insira um endereço para o ponto central do marcador, e o endereço será "
+"geocodificado e exibido no mapa abaixo."
+
+#: ../main-modules.php:9240 ../main-modules.php:11943
+msgid "Mouse Wheel Zoom"
+msgstr "Zoom com a Roda do Mouse"
+
+#: ../main-modules.php:9247 ../main-modules.php:11950
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"Aqui você pode escolher se o nível de zoom pode ser controlado pela roda do "
+"mouse ou não."
+
+#: ../main-modules.php:9267
+msgid "Use Grayscale Filter"
+msgstr "Usar Filtro de Escala de Cinza"
+
+#: ../main-modules.php:9280
+msgid "Grayscale Filter Amount (%)"
+msgstr "Quantidade do Filtro de Escala de Cinza (%)"
+
+#: ../main-modules.php:9347
+msgid "New Pin"
+msgstr "Novo Marcador"
+
+#: ../main-modules.php:9348
+msgid "Pin Settings"
+msgstr "Configurações do Marcador"
+
+#: ../main-modules.php:9360
+msgid "Map Pin Address"
+msgstr "Endereço do Marcador de Mapa"
+
+#: ../main-modules.php:9364
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Insira um endereço para este marcador de mapa, e o endereço será "
+"geocodificado e exibido no mapa abaixo."
+
+#: ../main-modules.php:9392 ../main-modules.php:10536
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Aqui você pode definir o conteúdo que será colocado na caixa de informações "
+"do marcador."
+
+#: ../main-modules.php:9433
+msgid "Social Media Follow"
+msgstr "Seguir nas Mídias Sociais"
+
+#: ../main-modules.php:9436 ../main-modules.php:9571 ../main-modules.php:9598
+msgid "Social Network"
+msgstr "Rede Social"
+
+#: ../main-modules.php:9457
+msgid "Social Follow"
+msgstr "Seguir nas Redes Sociais"
+
+#: ../main-modules.php:9461
+msgid "Social Icon"
+msgstr "Ícone de Redes Sociais"
+
+#: ../main-modules.php:9470
+msgid "Link Shape"
+msgstr "Formato do Link"
+
+#: ../main-modules.php:9474
+msgid "Rounded Rectangle"
+msgstr "Retângulo Arredondado"
+
+#: ../main-modules.php:9475
+msgid "Circle"
+msgstr "Círculo"
+
+#: ../main-modules.php:9477
+msgid "Here you can choose the shape of your social network icons."
+msgstr "Aqui você pode escolher o formato dos seus ícones de redes sociais."
+
+#: ../main-modules.php:9500
+msgid "Follow Button"
+msgstr "Botão Seguir"
+
+#: ../main-modules.php:9507
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Aqui você pode escolher se incluirá ou não o botão de seguir ao lado do "
+"ícone."
+
+#: ../main-modules.php:9591
+msgid "New Social Network"
+msgstr "Nova Rede Social"
+
+#: ../main-modules.php:9592
+msgid "Social Network Settings"
+msgstr "Configurações de Rede Social"
+
+#: ../main-modules.php:9603
+msgid "Select a Network"
+msgstr "Selecione uma Rede"
+
+#: ../main-modules.php:9605
+msgid "facebook"
+msgstr "facebook"
+
+#: ../main-modules.php:9617
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../main-modules.php:9625
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../main-modules.php:9629
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../main-modules.php:9633
+msgid "skype"
+msgstr "skype"
+
+#: ../main-modules.php:9637
+msgid "flikr"
+msgstr "flikr"
+
+#: ../main-modules.php:9641
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../main-modules.php:9645
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../main-modules.php:9649
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../main-modules.php:9653
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../main-modules.php:9657
+msgid "RSS"
+msgstr "RSS"
+
+#: ../main-modules.php:9666
+msgid "Choose the social network"
+msgstr "Escolha uma rede social"
+
+#: ../main-modules.php:9673
+msgid "Account URL"
+msgstr "URL da Conta"
+
+#: ../main-modules.php:9676
+msgid "The URL for this social network link."
+msgstr "A URL para este link de rede social."
+
+#: ../main-modules.php:9680
+msgid "Account Name"
+msgstr "Nome Da Conta"
+
+#: ../main-modules.php:9683
+msgid "The Skype account name."
+msgstr "A conta do Skype nome."
+
+#: ../main-modules.php:9687
+msgid "Skype Button Action"
+msgstr "Skype Botão De Ação"
+
+#: ../main-modules.php:9691
+msgid "Call"
+msgstr "Chamada"
+
+#: ../main-modules.php:9692
+msgid "Chat"
+msgstr "Bate-papo"
+
+#: ../main-modules.php:9695
+msgid "Here you can choose which action to execute on button click"
+msgstr "Aqui você pode escolher qual ação executar no botão do rato"
+
+#: ../main-modules.php:9700
+msgid "This will change the icon color."
+msgstr "Esta opção irá modificar a cor do ícone."
+
+#: ../main-modules.php:9735
+msgid "Follow"
+msgstr "Seguir"
+
+#: ../main-modules.php:9761
+msgid "Post Title"
+msgstr "Título da Publicação"
+
+#: ../main-modules.php:9846 ../main-modules.php:12428
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "Aqui você pode escolher se deseja exibir ou não o Título da Publicação"
+
+#: ../main-modules.php:9849 ../main-modules.php:12431
+msgid "Show Meta"
+msgstr "Exibir Meta"
+
+#: ../main-modules.php:9862 ../main-modules.php:12444
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr "Aqui você pode escolher se deseja exibir ou não o Meta da Publicação"
+
+#: ../main-modules.php:9873 ../main-modules.php:12455
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr ""
+"Aqui você pode escolher se deseja exibir ou não o Nome do Autor no Meta da "
+"Publicação"
+
+#: ../main-modules.php:9887 ../main-modules.php:12469
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr ""
+"Aqui você pode escolher se deseja exibir ou não a Data no Meta da Publicação"
+
+#: ../main-modules.php:9891 ../main-modules.php:12473
+msgid "Date Format"
+msgstr "Formato da Data"
+
+#: ../main-modules.php:9895 ../main-modules.php:12477
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr ""
+"Aqui você pode definir o Formato da Data no Meta da Publicação. O padrão é "
+"'M j, Y'"
+
+#: ../main-modules.php:9899 ../main-modules.php:12481
+msgid "Show Post Categories"
+msgstr "Exibir Categorias da Publicação"
+
+#: ../main-modules.php:9907 ../main-modules.php:12489
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"Aqui você pode escolher se deseja exibir ou não as Categorias no Meta da "
+"Publicação Nota: Esta opção não funciona com tipos de publicação "
+"personalizados."
+
+#: ../main-modules.php:9910 ../main-modules.php:12492
+msgid "Show Comments Count"
+msgstr "Exibir Contagem de Comentários"
+
+#: ../main-modules.php:9918 ../main-modules.php:12500
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr ""
+"Aqui você pode escolher se deseja exibir ou não a Contagem de Comentários no "
+"Meta da Publicação"
+
+#: ../main-modules.php:9931 ../main-modules.php:12513
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr "Aqui você pode escolher se deseja exibir ou não a Imagem de Destaque"
+
+#: ../main-modules.php:9934 ../main-modules.php:12516
+msgid "Featured Image Placement"
+msgstr "Posicionamento da Imagem de Destaque"
+
+#: ../main-modules.php:9938 ../main-modules.php:12520
+msgid "Below Title"
+msgstr "Abaixo do Título"
+
+#: ../main-modules.php:9939 ../main-modules.php:12521
+msgid "Above Title"
+msgstr "Acima do Título"
+
+#: ../main-modules.php:9940 ../main-modules.php:12522
+msgid "Title/Meta Background Image"
+msgstr "Imagem de Fundo do Título"
+
+#: ../main-modules.php:9946 ../main-modules.php:12528
+msgid "Here you can choose where to place the Featured Image"
+msgstr "Aqui você pode escolher onde a Imagem de Destaque será posicionada"
+
+#: ../main-modules.php:9949 ../main-modules.php:12531
+#: ../main-structure-elements.php:178 ../main-structure-elements.php:910
+msgid "Use Parallax Effect"
+msgstr "Usar Efeito Paralaxe"
+
+#: ../main-modules.php:9960 ../main-modules.php:12542
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr ""
+"Aqui você pode escolher se deseja usar ou não o efeito paralaxe para a "
+"imagem de destaque"
+
+#: ../main-modules.php:9963 ../main-modules.php:12545
+#: ../main-structure-elements.php:191 ../main-structure-elements.php:923
+msgid "Parallax Method"
+msgstr "Método Paralaxe"
+
+#: ../main-modules.php:9971 ../main-modules.php:12553
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr ""
+"Aqui você pode escolher qual efeito paralaxe usar para a imagem de destaque"
+
+#: ../main-modules.php:9982 ../main-modules.php:12564
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "Aqui você pode escolher a orientação do texto do Título"
+
+#: ../main-modules.php:9992 ../main-modules.php:12574
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "Aqui você pode escolher a cor do texto do Título"
+
+#: ../main-modules.php:9995 ../main-modules.php:12577
+msgid "Use Text Background Color"
+msgstr "Usar Cor de Fundo do Texto"
+
+#: ../main-modules.php:10005 ../main-modules.php:12587
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr ""
+"Aqui você pode escolher se deseja usar ou não a cor de fundo para o texto do "
+"Título"
+
+#: ../main-modules.php:10008 ../main-modules.php:12590
+msgid "Text Background Color"
+msgstr "Cor de Fundo do Texto"
+
+#: ../main-modules.php:10093 ../main-modules.php:12674
+msgid "0 comments"
+msgstr "0 Comentários"
+
+#: ../main-modules.php:10093 ../main-modules.php:12674
+msgid "1 comment"
+msgstr "1 Comentário"
+
+#: ../main-modules.php:10093 ../main-modules.php:12674
+msgid "comments"
+msgstr "Comentários"
+
+#: ../main-modules.php:10172
+msgid "Fullwidth Header"
+msgstr "Cabeçalho de Largura Completa"
+
+#: ../main-modules.php:10236
+msgid "Title Styling"
+msgstr "Estilo do Texto"
+
+#: ../main-modules.php:10237
+msgid "Subhead Styling"
+msgstr "Estilo do Subcabeçalho"
+
+#: ../main-modules.php:10238
+msgid "Content Styling"
+msgstr "Estilo do Conteúdo"
+
+#: ../main-modules.php:10245
+msgid "Button One"
+msgstr "Um Botão"
+
+#: ../main-modules.php:10251
+msgid "Button Two"
+msgstr "Botão De Dois"
+
+#: ../main-modules.php:10261
+msgid "Header Container"
+msgstr "Cabeçalho Do Recipiente"
+
+#: ../main-modules.php:10273
+msgid "Enter your page title here."
+msgstr "Insira o título da sua página aqui."
+
+#: ../main-modules.php:10276
+msgid "Subheading Text"
+msgstr "Texto do Sub-cabeçalho"
+
+#: ../main-modules.php:10279
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Se você deseja usar um sub-cabeçalho, adicione-o aqui. Seu sub-cabeçalho "
+"aparecerá abaixo do seu título em uma fonte pequena."
+
+#: ../main-modules.php:10292
+msgid "Text & Logo Orientation"
+msgstr "Orientação do Texto e da Logo"
+
+#: ../main-modules.php:10300
+msgid "Make Fullscreen"
+msgstr "Tornar Tela Inteira"
+
+#: ../main-modules.php:10310
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr ""
+"Aqui você pode escolher se o cabeçalho será expandido no tamanho tela cheia."
+
+#: ../main-modules.php:10313
+msgid "Show Scroll Down Button"
+msgstr "Exibir Botão de Rolar para Baixo"
+
+#: ../main-modules.php:10323
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr "Aqui você pode escolher se o botão de rolar para baixo é exibido."
+
+#: ../main-modules.php:10332
+msgid "Choose an icon to display for the scroll down button."
+msgstr "Escolha um ícone para exibir para o botão de rolar para baixo."
+
+#: ../main-modules.php:10336
+msgid "Scroll Down Icon Color"
+msgstr "Cor do Ícone de Rolar para Baixo"
+
+#: ../main-modules.php:10342
+msgid "Scroll Down Icon Size"
+msgstr "Tamanho do Ícone de Rolar para Baixo"
+
+#: ../main-modules.php:10348
+msgid "Title Font"
+msgstr "Fonte do Título"
+
+#: ../main-modules.php:10354
+msgid "Title Font Color"
+msgstr "Cor da Fonte do Título"
+
+#: ../main-modules.php:10361
+msgid "Title Font Size"
+msgstr "Tamanho da Fonte do Título"
+
+#: ../main-modules.php:10368
+msgid "Subhead Font"
+msgstr "Fonte do Subcabeçalho"
+
+#: ../main-modules.php:10374
+msgid "Subhead Font Color"
+msgstr "Cor da Fonte do Subcabeçalho"
+
+#: ../main-modules.php:10381
+msgid "Subhead Font Size"
+msgstr "Tamanho da Fonte do Subcabeçalho"
+
+#: ../main-modules.php:10388
+msgid "Content Font"
+msgstr "Fonte do Conteúdo"
+
+#: ../main-modules.php:10394
+msgid "Content Font Color"
+msgstr "Cor da Fonte do Conteúdo"
+
+#: ../main-modules.php:10401
+msgid "Content Font Size"
+msgstr "Tamanho da Fonte do Conteúdo"
+
+#: ../main-modules.php:10408
+msgid "Text Max Width"
+msgstr "Texto Largura Máxima"
+
+#: ../main-modules.php:10414 ../main-modules.php:10426
+#, php-format
+msgid "Button %1$s Text"
+msgstr "Texto %1$s do Botão"
+
+#: ../main-modules.php:10417 ../main-modules.php:10429
+msgid "Enter the text for the Button."
+msgstr "Insira o texto para o botão"
+
+#: ../main-modules.php:10420 ../main-modules.php:10432
+#, php-format
+msgid "Button %1$s URL"
+msgstr "URL %1$s do Botão"
+
+#: ../main-modules.php:10423 ../main-modules.php:10435
+msgid "Enter the URL for the Button."
+msgstr "Insira a URL para o Botão."
+
+#: ../main-modules.php:10438
+msgid "Background Image URL"
+msgstr "URL da Imagem de Fundo"
+
+#: ../main-modules.php:10451
+msgid "Background Overlay Color"
+msgstr "Cor de Sobreposição do Fundo"
+
+#: ../main-modules.php:10465 ../main-modules.php:11409
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Se habilitado, suas imagens de fundo terão uma posição fixa conforme você "
+"rola, criando um divertido efeito paralaxe."
+
+#: ../main-modules.php:10480
+msgid "Logo Image URL"
+msgstr "URL da Imagem da Logo"
+
+#: ../main-modules.php:10489
+msgid "Logo Image Alternative Text"
+msgstr "A Imagem Do Logotipo De Texto Alternativo"
+
+#: ../main-modules.php:10495
+msgid "Logo Title"
+msgstr "Logotipo Do Título"
+
+#: ../main-modules.php:10501
+msgid "Text Vertical Alignment"
+msgstr "Alinhamento Vertical do Texto"
+
+#: ../main-modules.php:10508
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"Esta configuração determina o alinhamento vertical do seu conteúdo. Seu "
+"conteúdo pode ser verticalmente centralizado ou alinhado ao fundo."
+
+#: ../main-modules.php:10513
+msgid "Header Image URL"
+msgstr "URL da Imagem do Cabeçalho"
+
+#: ../main-modules.php:10522
+msgid "Image Vertical Alignment"
+msgstr "Alinhamento Vertical da Imagem"
+
+#: ../main-modules.php:10529
+msgid "This controls the orientation of the image within the module."
+msgstr "Isto controla a orientação da imagem dentro do módulo."
+
+#: ../main-modules.php:10878
+msgid "Fullwidth Menu"
+msgstr "Menu de Largura Completa"
+
+#: ../main-modules.php:10906 ../main-modules.php:10943
+msgid "Menu"
+msgstr "Menu"
+
+#: ../main-modules.php:10950
+msgid "Select a menu that should be used in the module"
+msgstr "Selecione um menu que deva ser usado no módulo"
+
+#: ../main-modules.php:10951
+msgid "Click here to create new menu"
+msgstr "Clique aqui para criar um novo menu"
+
+#: ../main-modules.php:10977
+msgid "Sub-Menus Open"
+msgstr "Submenus Abrem"
+
+#: ../main-modules.php:10981
+msgid "Downwards"
+msgstr "Para baixo"
+
+#: ../main-modules.php:10982
+msgid "Upwards"
+msgstr "Para cima"
+
+#: ../main-modules.php:10984
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Aqui você pode escolher a direção para onde seus submenus abrem. Você pode "
+"escolher fazê-los abrirem para baixo ou para cima."
+
+#: ../main-modules.php:11004
+msgid "Make Menu Links Fullwidth"
+msgstr "Fazer Links De Menu Fullwidth"
+
+#: ../main-modules.php:11014
+msgid "Active Link Color"
+msgstr "Cor do Link Ativo"
+
+#: ../main-modules.php:11020
+msgid "Dropdown Menu Background Color"
+msgstr "Cor de Fundo do Menu Suspenso"
+
+#: ../main-modules.php:11026
+msgid "Dropdown Menu Line Color"
+msgstr "Cor de Linha do Menu Suspenso"
+
+#: ../main-modules.php:11032
+msgid "Dropdown Menu Text Color"
+msgstr "Cor de Texto do Menu Suspenso"
+
+#: ../main-modules.php:11038
+msgid "Dropdown Menu Animation"
+msgstr "Animação do Menu Suspenso"
+
+#: ../main-modules.php:11042
+msgid "Fade"
+msgstr "Esmaecer"
+
+#: ../main-modules.php:11045
+msgid "Flip"
+msgstr "Inverter"
+
+#: ../main-modules.php:11050
+msgid "Mobile Menu Background Color"
+msgstr "Móveis Cor De Fundo Dos Menus"
+
+#: ../main-modules.php:11056
+msgid "Mobile Menu Text Color"
+msgstr "Móveis De Menu Cor Do Texto"
+
+#: ../main-modules.php:11133
+msgid "Home"
+msgstr "Página Inicial"
+
+#: ../main-modules.php:11252
+msgid "Fullwidth Slider"
+msgstr "Botão Deslizante de Largura Completa"
+
+#: ../main-modules.php:11355
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr ""
+"Esta configuração permite a você ativar ou desativar as setas de navegação."
+
+#: ../main-modules.php:11365
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"Desabilitar esta opção removerá o botão circular na parte de baixo do botão "
+"deslizante."
+
+#: ../main-modules.php:11649
+msgid "Fullwidth Portfolio"
+msgstr "Portfólio de Largura Completa"
+
+#: ../main-modules.php:11684
+msgid "Title displayed above the portfolio."
+msgstr "Título exibido acima do portfólio."
+
+#: ../main-modules.php:11691
+msgid "Carousel"
+msgstr "Carrossel"
+
+#: ../main-modules.php:11709
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Controla quantos projetos são exibidos. Deixe em branco ou usa 0 para não "
+"limitar a quantidade."
+
+#: ../main-modules.php:11729
+msgid "Turn the date display on or off."
+msgstr "Ativar ou desativar o mostrador da data."
+
+#: ../main-modules.php:11742
+msgid "Automatic Carousel Rotation"
+msgstr "Rotação Automática do Carrossel"
+
+#: ../main-modules.php:11753
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Se a opção de layout em carrossel for escolhida e você deseja que o "
+"carrossel deslize automaticamente, sem que o visitante precise clicar no "
+"botão de próximo, habilite esta opção e ajusta a velocidade de rotação "
+"abaixo, se desejar."
+
+#: ../main-modules.php:11756
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Velocidade de Rotação do Carrossel (em milissegundos)"
+
+#: ../main-modules.php:11760
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Aqui você pode definir a velocidade com que o carrossel gira, se a opção "
+"'Rotação Automática do Carrossel' estiver habilitada acima. Quanto mais alto "
+"o número, mais longa será a pausa entre cada rotação. (Ex. 1000 = 1 segundo)"
+
+#: ../main-modules.php:11888
+msgid "Fullwidth Map"
+msgstr "Mapa de Largura Completa"
+
+#: ../main-modules.php:12008
+msgid "Code"
+msgstr "Código"
+
+#: ../main-modules.php:12096
+msgid "Fullwidth Code"
+msgstr "Código de Largura Inteira"
+
+#: ../main-modules.php:12163
+msgid "Fullwidth Image"
+msgstr "Imagem de Largura Inteira"
+
+#: ../main-modules.php:12224
+msgid "Open In Lightbox"
+msgstr "Abrir no Lightbox"
+
+#: ../main-modules.php:12342
+msgid "Fullwidth Post Title"
+msgstr "Título da Publicação de Largura Inteira"
+
+#: ../main-structure-elements.php:107
+msgid "Transparent Background Color"
+msgstr "Cor de Fundo Transparente"
+
+#: ../main-structure-elements.php:117
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr ""
+"Habilitar esta opção removerá a cor de fundo desta seção, permitindo que a "
+"cor de fundo ou imagem de fundo do site apareçam."
+
+#: ../main-structure-elements.php:168
+msgid "Show Inner Shadow"
+msgstr "Exibir Sombra Interna"
+
+#: ../main-structure-elements.php:175
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Aqui você pode selecionar se a seção terá ou não uma sombra interna. Ela "
+"pode dar uma aparência incrível quando você tiver fundos coloridos ou "
+"imagens de fundo."
+
+#: ../main-structure-elements.php:188
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Se habilitado, sua imagem de fundo ficará fixa conforme você rola, criando "
+"um efeito divertido estilo paralaxe."
+
+#: ../main-structure-elements.php:206 ../main-structure-elements.php:828
+#: ../main-structure-elements.php:1332
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Ajuste o preenchimento para valores específicos ou deixe em banco para usar "
+"o preenchimento padrão."
+
+#: ../main-structure-elements.php:209 ../main-structure-elements.php:831
+#: ../main-structure-elements.php:1335
+msgid "Keep Custom Padding on Mobile"
+msgstr "Manter Preenchimento Personalizado em Dispositivo Móvel"
+
+#: ../main-structure-elements.php:216 ../main-structure-elements.php:838
+#: ../main-structure-elements.php:1342
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr ""
+"Permite que o preenchimento personalizado seja retido na tela de "
+"dispositivos móveis"
+
+#: ../main-structure-elements.php:233
+msgid ""
+"This will change the label of the section in the builder for easy "
+"identification when collapsed."
+msgstr ""
+"Isto irá alterar o nome da seção em que o construtor para fácil "
+"identificação quando entrou em colapso."
+
+#: ../main-structure-elements.php:236
+msgid "Make This Section Fullwidth"
+msgstr "Tornar Esta Secção Fullwidth"
+
+#: ../main-structure-elements.php:247 ../main-structure-elements.php:743
+msgid "Use Custom Width"
+msgstr "Usar Largura Personalizada"
+
+#: ../main-structure-elements.php:262 ../main-structure-elements.php:758
+msgid "Unit"
+msgstr "Unidade"
+
+#: ../main-structure-elements.php:266 ../main-structure-elements.php:762
+msgid "px"
+msgstr "pixels"
+
+#: ../main-structure-elements.php:280 ../main-structure-elements.php:292
+#: ../main-structure-elements.php:775 ../main-structure-elements.php:787
+msgid "Custom Width"
+msgstr "Largura Personalizada"
+
+#: ../main-structure-elements.php:304 ../main-structure-elements.php:934
+#: ../main-structure-elements.php:1382
+msgid "Equalize Column Heights"
+msgstr "Equalizar Alturas das Colunas"
+
+#: ../main-structure-elements.php:314 ../main-structure-elements.php:799
+#: ../main-structure-elements.php:1345
+msgid "Use Custom Gutter Width"
+msgstr "Use Personalizado Largura Da Calha"
+
+#: ../main-structure-elements.php:327 ../main-structure-elements.php:812
+#: ../main-structure-elements.php:1358
+msgid "Gutter Width"
+msgstr "Preenchimento da Coluna"
+
+#: ../main-structure-elements.php:732
+msgid "Make This Row Fullwidth"
+msgstr "Transformar esta Linha em Largura Inteira"
+
+#: ../main-structure-elements.php:740
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr ""
+"Habilite esta opção para estender a largura desta linha para o limite da "
+"janela do navegador."
+
+#: ../main-structure-elements.php:755
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr ""
+"Altere para Sim se você deseja ajustar a largura desta linha para uma "
+"largura não-padrão."
+
+#: ../main-structure-elements.php:784 ../main-structure-elements.php:796
+msgid "Define custom width for this Row"
+msgstr "Define largura personalizada para esta linha"
+
+#: ../main-structure-elements.php:809 ../main-structure-elements.php:1355
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+"Ative esta opção para definir personalizada calha de largura para esta linha."
+
+#: ../main-structure-elements.php:821 ../main-structure-elements.php:1367
+msgid "Adjust the spacing between each column in this row."
+msgstr "Ajusta o espaçamento entre cada coluna desta linha."
+
+#: ../main-structure-elements.php:950 ../main-structure-elements.php:1397
+msgid "Keep Column Padding on Mobile"
+msgstr "Mantenha a Coluna de Estofamento de Móveis"
+
+#: ../main-structure-elements.php:962
+msgid ""
+"This will change the label of the row in the builder for easy identification "
+"when collapsed."
+msgstr ""
+"Isso irá alterar o rótulo de uma linha no construtor para fácil "
+"identificação quando entrou em colapso."
+
+#: ../template-preview.php:9 ../template-preview.php:63
+msgid "Authentication failed. You cannot preview this item."
+msgstr "Falha de autenticação. Você não pode visualizar este item."
+
+#: ../template-preview.php:14
+msgid "Authentication failed. You are not logged in."
+msgstr "Falha de autenticação. Você não está conectado."
+
+#: ../template-preview.php:19 ../template-preview.php:66
+msgid "Authentication failed. You have no permission to preview this item."
+msgstr ""
+"Falha de autenticação. Você não tem permissão para visualizar este item."
+
+#: ../template-preview.php:71
+msgid "Loading preview..."
+msgstr "Carregamento de pré-visualização..."
+
+#: ../template-preview.php:76
+msgid "Link Disabled"
+msgstr "Link Desativado"
+
+#: ../template-preview.php:77
+msgid "During preview, link to different page is disabled"
+msgstr "Durante a visualização, link para uma página diferente é desativado"
+
+#~ msgid "Signup"
+#~ msgstr "Cadastrar-se"
+
+#~ msgid "This is the date the countdown timer is counting down to."
+#~ msgstr ""
+#~ "Esta é a data até a qual o relógio de contagem regressiva está contando."
+
+#~ msgid "Days"
+#~ msgstr "Dias"
+
+#~ msgid "Hours"
+#~ msgstr "Horas"
+
+#~ msgid "Minutes"
+#~ msgstr "Minutos"
+
+#~ msgid "Seconds"
+#~ msgstr "Segundos"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Usar Estilos de Botão Personalizados"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Tamanho do Texto do Botão"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Cor do Texto do Botão"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Cor de Fundo do Botão"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Largura da Borda do Botão"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Cor da Borda do Botão"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Raio da Borda do Botão"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Espaçamento de Letra do Botão"
+
+#~ msgid "Button Font"
+#~ msgstr "Fonte do Botão"
+
+#~ msgid "Add Button Icon"
+#~ msgstr "Adicionar Ícone do Botão"
+
+#~ msgid "Button Icon"
+#~ msgstr "Ícone do Botão"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Cor do Ícone do Botão"
+
+#~ msgid "Icon Placement"
+#~ msgstr "Posicionamento do Ícone"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Mostrar Ícone Somente ao Passar o Mouse"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Cor do Texto do Botão ao Passar o Mouse"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Cor de Fundo do Botão ao Passar o Mouse"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Cor de Borda do Botão ao Passar o Mouse"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Raio da Borda do Botão ao Passar o Mouse"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Espaçamento de Letra do Botão ao Passar o Mouse"
+
+#~ msgid "Caption Font"
+#~ msgstr "Fonte da Legenda"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Cor da Fonte da Legenda"
+
+#~ msgid "Caption Font Size"
+#~ msgstr "Tamanho da Fonte da Legenda"
+
+#~ msgid "Font"
+#~ msgstr "Fonte"
+
+#~ msgid "Text Size"
+#~ msgstr "Tamanho do Texto"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Espaçamento de Letra"
+
+#~ msgid "Line Height"
+#~ msgstr "Altura da Linha"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Usar Cor da Borda"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Fonte do Texto do Corpo"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Tamanho da Fonte do Corpo"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Cor do Texto do Corpo"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Espaçamento de Letra do Corpo"
+
+#~ msgid "Body Line Height"
+#~ msgstr "Altura da Linha do Corpo"
+
+#~ msgid "Reset Color"
+#~ msgstr "Redefinir Cor"
+
+#~ msgid "Button Styling"
+#~ msgstr "Estilo do Botão"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Fonte %1$s do Botão"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Cor de Fonte %1$s do Botão"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Cor de Fundo %1$s do Botão"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Tamanho da Fonte %1$s do Botão"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Raio da Borda %1$s do Botão"
+
+#~ msgid "﻿%1$s Font"
+#~ msgstr "%1$s Fonte"
+
+#~ msgid "Subheader Font Size"
+#~ msgstr "Tamanho da Fonte do Subcabeçalho"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Bem-vindo ao Divi! Antes de mergulhar no seu novo tema, por favor, visite "
+#~ "a página<a href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> para "
+#~ "acessar dezenas de tutoriais aprofundados."
+
+#~ msgid "Divi Page Settings"
+#~ msgstr "Configurações de Página Divi"
+
+#~ msgid "Divi Post Settings"
+#~ msgstr "Configurações de Publicação Divi"
+
+#~ msgid "Divi Product Settings"
+#~ msgstr "Configurações de Produto Divi"
+
+#~ msgid "Divi Project Settings"
+#~ msgstr "Configurações de Projeto Divi"
+
+#~ msgid "Dot Navigation"
+#~ msgstr "Dot Navigation (Navegação por Pontos)"
+
+#~ msgid "Hide Nav Before Scroll"
+#~ msgstr "Ocultar Navegação Antes de Rolar"
+
+#~ msgid "Typography"
+#~ msgstr "Tipografia"
+
+#~ msgid "Mobile Styles"
+#~ msgstr "Estilos Móveis"
+
+#~ msgid "Phone"
+#~ msgstr "Telefone"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "Menu Móvel"
+
+#~ msgid "Background"
+#~ msgstr "Contexto"
+
+#~ msgid "Header & Navigation"
+#~ msgstr "Plano de Fundo"
+
+#~ msgid "Header Format"
+#~ msgstr "Formato do Cabeçalho"
+
+#~ msgid "Primary Menu Bar"
+#~ msgstr "Barra de Menu Primária"
+
+#~ msgid "Secondary Menu Bar"
+#~ msgstr "Barra de Menu Secundária"
+
+#~ msgid "Fixed Navigation Settings"
+#~ msgstr "Configurações da Navegação Fixa"
+
+#~ msgid "Header Elements"
+#~ msgstr "Elementos do Cabeçalho"
+
+#~ msgid "Footer"
+#~ msgstr "Rodapé"
+
+#~ msgid "Widgets"
+#~ msgstr "Widgets"
+
+#~ msgid "Footer Elements"
+#~ msgstr "Elementos do Cabeçalho"
+
+#~ msgid "Bottom Bar"
+#~ msgstr "Barra Inferior"
+
+#~ msgid "Buttons"
+#~ msgstr "Botões"
+
+#~ msgid "Buttons Style"
+#~ msgstr "Estilo dos Botões"
+
+#~ msgid "Buttons Hover Style"
+#~ msgstr "Estilo dos Botões ao Passar o Mouse"
+
+#~ msgid "Post"
+#~ msgstr "Publicação"
+
+#~ msgid "Meta Text Size"
+#~ msgstr "Tamanho do Texto do Meta"
+
+#~ msgid "Meta Line Height"
+#~ msgstr "Altura da Linha do Meta"
+
+#~ msgid "Meta Letter Spacing"
+#~ msgstr "Espaçamento de Letra do Meta"
+
+#~ msgid "Meta Font Style"
+#~ msgstr "Estilo de Fonte do Meta"
+
+#~ msgid "Bold"
+#~ msgstr "Negrito"
+
+#~ msgid "Italic"
+#~ msgstr "Itálico"
+
+#~ msgid "Uppercase"
+#~ msgstr "Maiúsculas"
+
+#~ msgid "Underline"
+#~ msgstr "Minúsculas"
+
+#~ msgid "Header Text Size"
+#~ msgstr "Tamanho do Texto do Cabeçalho"
+
+#~ msgid "Header Line Height"
+#~ msgstr "Altura da Linha do Cabeçalho"
+
+#~ msgid "Header Letter Spacing"
+#~ msgstr "Espaçamento de Letra do Cabeçalho"
+
+#~ msgid "Header Font Style"
+#~ msgstr "Estilo de Fonte do Cabeçalho"
+
+#~ msgid "Enable Boxed Layout"
+#~ msgstr "Habilitar Layout em Caixa"
+
+#~ msgid "Website Content Width"
+#~ msgstr "Largura do Conteúdo do Site"
+
+#~ msgid "Website Gutter Width"
+#~ msgstr "Preenchimento de Coluna do Site"
+
+#~ msgid "Sidebar Width"
+#~ msgstr "Largura da Barra Lateral"
+
+#~ msgid "Section Height"
+#~ msgstr "Altura da Seção"
+
+#~ msgid "Row Height"
+#~ msgstr "Altura da Linha"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Repetição de Plano de Fundo"
+
+#~ msgid "No Repeat"
+#~ msgstr "Sem Repetição"
+
+#~ msgid "Tile"
+#~ msgstr "Lado a Lado"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Lado a Lado Horizontalmente"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "Lado a Lado Verticalmente"
+
+#~ msgid "Background Position"
+#~ msgstr "Posição do Plano de Fundo"
+
+#~ msgid "Scroll"
+#~ msgstr "Rolar"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixo"
+
+#~ msgid "Body Text Size"
+#~ msgstr "Tamanho do Texto do Corpo"
+
+#~ msgid "Body Link Color"
+#~ msgstr "Cor do Link do Corpo"
+
+#~ msgid "Header Text Color"
+#~ msgstr "Cor do Texto do Cabeçalho"
+
+#~ msgid "Theme Accent Color"
+#~ msgstr "Cor da Ênfase do Tema"
+
+#~ msgid "Centered Inline Logo"
+#~ msgstr "Logo Embutido Centralizado"
+
+#~ msgid "Enable Vertical Navigation"
+#~ msgstr "Habilitar Navegação Vertical"
+
+#~ msgid "Hide Navigation Until Scroll"
+#~ msgstr "Ocultar Navegação Até Rolar"
+
+#~ msgid "Show Social Icons"
+#~ msgstr "Exibir Ícones Sociais"
+
+#~ msgid "Hide Logo Image"
+#~ msgstr "Ocultar Imagem do Logo"
+
+#~ msgid "Menu/Logo Height"
+#~ msgstr "Altura do Menu/Logo"
+
+#~ msgid "Font Style"
+#~ msgstr "Estilo de Fonte"
+
+#~ msgid "Fixed Menu/Logo Height"
+#~ msgstr "Altura Fixa de Menu/Logo"
+
+#~ msgid "Primary Menu Background Color"
+#~ msgstr "Cor de Fundo do Menu Primário"
+
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "Cor de Fundo do Menu Secundário"
+
+#~ msgid "Menu Link Color"
+#~ msgstr "Cor do Link do Menu"
+
+#~ msgid "Column Layout"
+#~ msgstr "Layout da Coluna"
+
+#~ msgid "Body/Link Text Size"
+#~ msgstr "Tamanho do Texto do Corpo/Link"
+
+#~ msgid "Body/Link Line Height"
+#~ msgstr "Altura da Linha do Corpo/Link"
+
+#~ msgid "Body Font Style"
+#~ msgstr "Estilo de Fonte do Corpo"
+
+#~ msgid "Widget Text Color"
+#~ msgstr "Cor do Texto do Widget"
+
+#~ msgid "Widget Link Color"
+#~ msgstr "Cor do Link do Widget"
+
+#~ msgid "Widget Header Color"
+#~ msgstr "Cor do Cabeçalho do Widget"
+
+#~ msgid "Widget Bullet Color"
+#~ msgstr "Cor do Ponto do Widget"
+
+#~ msgid "Footer Menu Background Color"
+#~ msgstr "Cor de Fundo do Menu de Rodapé"
+
+#~ msgid "Footer Menu Text Color"
+#~ msgstr "Cor de Texto do Menu de Rodapé"
+
+#~ msgid "Footer Menu Active Link Color"
+#~ msgstr "Cor do Link Ativo do Menu de Rodapé"
+
+#~ msgid "Font Size"
+#~ msgstr "Tamanho da Fonte"
+
+#~ msgid "Social Icon Size"
+#~ msgstr "Tamanho do Ícone Social"
+
+#~ msgid "Social Icon Color"
+#~ msgstr "Cor do Ícone Social"
+
+#~ msgid "Button Font Style"
+#~ msgstr "Estilo de Fonte do Botão"
+
+#~ msgid "Buttons Font"
+#~ msgstr "Fonte dos Botões"
+
+#~ msgid "Select Icon"
+#~ msgstr "Selecionar Ícone"
+
+#~ msgid "Only Show Icon on Hover"
+#~ msgstr "Mostrar Ícone Somente ao Passar o Mouse"
+
+#~ msgid "Left to Right"
+#~ msgstr "Esquerda para Direita"
+
+#~ msgid "Right to Left"
+#~ msgstr "Direita para Esquerda"
+
+#~ msgid "Top to Bottom"
+#~ msgstr "Cima para Baixo"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "Baixo para Cima"
+
+#~ msgid "This controls default direction of the lazy-loading animation."
+#~ msgstr "Isto controla a direção padrão da animação em lazy-loading."
+
+#~ msgid "Title Font Style"
+#~ msgstr "Estilo de Fonte do Título"
+
+#~ msgid "Caption Font Style"
+#~ msgstr "Estilo de Fonte da Legenda"
+
+#~ msgid "Header Font Size"
+#~ msgstr "Tamanho da Fonte do Cabeçalho"
+
+#~ msgid "Top & Bottom Padding"
+#~ msgstr "Preenchimento Superior e Inferior"
+
+#~ msgid "Content Font Style"
+#~ msgstr "Estilo de Fonte do Conteúdo"
+
+#~ msgid "Name Font Style"
+#~ msgstr "Estilo de Fonte do Nome"
+
+#~ msgid "Details Font Style"
+#~ msgstr "Estilo de Fonte dos Detalhes"
+
+#~ msgid "Subheader Font Style"
+#~ msgstr "Estilo de Fonte do Subcabeçalho"
+
+#~ msgid "Price Font Size"
+#~ msgstr "Tamanho da Fonte do Preço"
+
+#~ msgid "Pricing Font Style"
+#~ msgstr "Estilo de Fonte dos Preços"
+
+#~ msgid "Category Font Size"
+#~ msgstr "Tamanho da Fonte da Categoria"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Estilo de Fonte da Categoria"
+
+#~ msgid "Filters Font Size"
+#~ msgstr "Tamanho da Fonte dos Filtros"
+
+#~ msgid "Filters Font Style"
+#~ msgstr "Estilo de Fonte dos Filtros"
+
+#~ msgid "Label Font Size"
+#~ msgstr "Tamanho da Fonte do Rótulo"
+
+#~ msgid "Label Font Style"
+#~ msgstr "Estilo de Fonte do Rótulo"
+
+#~ msgid "Percent Font Size"
+#~ msgstr "Tamanho da Fonte do Percentual"
+
+#~ msgid "Percent Font Style"
+#~ msgstr "Estilo de Fonte do Percentual"
+
+#~ msgid "Bar Padding"
+#~ msgstr "Preenchimento da Barra"
+
+#~ msgid "Bar Border Radius"
+#~ msgstr "Raio da Borda da Barra"
+
+#~ msgid "Number Font Size"
+#~ msgstr "Tamanho da Fonte do Número"
+
+#~ msgid "Number Font Style"
+#~ msgstr "Estilo de Fonte do Número"
+
+#~ msgid "Opened Title Font Style"
+#~ msgstr "Estilo de Fonte do Título Aberto"
+
+#~ msgid "Closed Title Font Style"
+#~ msgstr "Estilo de Fonte do Título Fechado"
+
+#~ msgid "Toggle Icon Size"
+#~ msgstr "Tamanho do Ícone do Botão Ativar/Desativar"
+
+#~ msgid "Toggle Padding"
+#~ msgstr "Preenchimento do Botão Ativar/Desativar"
+
+#~ msgid "Input Font Size"
+#~ msgstr "Tamanho da Fonte da Inserção"
+
+#~ msgid "Input Font Style"
+#~ msgstr "Estilo de Fonte da Inserção"
+
+#~ msgid "Input Field Padding"
+#~ msgstr "Preenchimento do Campo de Inserção"
+
+#~ msgid "Captcha Font Size"
+#~ msgstr "Tamanho da Fonte do Captcha"
+
+#~ msgid "Captcha Font Style"
+#~ msgstr "Estilo de Fonte do Captcha"
+
+#~ msgid "Widget Header Font Size"
+#~ msgstr "Tamanho da Fonte do Cabeçalho do Widget"
+
+#~ msgid "Widget Header Font Style"
+#~ msgstr "Estilo de Fonte do Cabeçalho do Widget"
+
+#~ msgid "Remove Vertical Divider"
+#~ msgstr "Remover Divisor Vertical"
+
+#~ msgid "Divider Height"
+#~ msgstr "Altura do Divisor"
+
+#~ msgid "Name Font Size"
+#~ msgstr "Tamanho da Fonte do Nome"
+
+#~ msgid "Social Network Icon Size"
+#~ msgstr "Tamanho do Ícone de Rede Social"
+
+#~ msgid "Post Title Font Size"
+#~ msgstr "Tamanho da Fonte do Título da Publicação"
+
+#~ msgid "Meta Font Size"
+#~ msgstr "Tamanho da Fonte do Meta"
+
+#~ msgid "Masonry Blog"
+#~ msgstr "Blog em Blocos"
+
+#~ msgid "Product Name Font Size"
+#~ msgstr "Tamanho da Fonte do Nome do Produto"
+
+#~ msgid "Product Name Font Style"
+#~ msgstr "Estilo de Fonte do Nome do Produto"
+
+#~ msgid "Sale Badge Font Size"
+#~ msgstr "Tamanho da Fonte do Selo de Oferta"
+
+#~ msgid "Sale Badge Font Style"
+#~ msgstr "Estilo de Fonte do Selo de Oferta"
+
+#~ msgid "Price Font Style"
+#~ msgstr "Estilo de Fonte do Preço"
+
+#~ msgid "Sale Price Font Size"
+#~ msgstr "Tamanho da Fonte do Preço da Oferta"
+
+#~ msgid "Sale Price Font Style"
+#~ msgstr "Estilo de Fonte do Preço da Oferta"
+
+#~ msgid "Countdown"
+#~ msgstr "Contagem Regressiva"
+
+#~ msgid "Follow Font & Icon Size"
+#~ msgstr "Fonte e Tamanho do ícone de Seguir"
+
+#~ msgid "Full Width Slider"
+#~ msgstr "Slider de Largura Inteira"

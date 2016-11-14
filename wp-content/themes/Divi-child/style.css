@@ -1,0 +1,1122 @@
+/*
+ Theme Name:   Alberta Small Brewers Association
+ Theme URI:
+ Description:  Child theme of Divi created for The Alberta Small Brewers Association
+ Author:       Amanda Haynes
+ Author URI:   https://ca.linkedin.com/in/amandamariehaynes
+ Template:     Divi
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         ASBA
+ Text Domain:  Divi-child
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600,300);
+
+.et_color_scheme_green a, .et_color_scheme_green #top-menu li.current-menu-item > a{
+ color: #208EC7;
+}
+
+a {
+ font-family: 'Open Sans';
+}
+
+.et_color_scheme_green #top-menu li.current-menu-ancestor > a {
+ color: #208EC7;
+}
+
+li.menu-item > a {
+ color: white;
+}
+
+.et_color_scheme_green .bottom-nav li.current-menu-item > a{
+ color:#208EC7 ;
+}
+
+ul.bottom-nav {
+ position: relative;
+ top: .5rem;
+}
+
+p {
+ font-family: 'Open Sans';
+ font-weight: 300;
+ font-size: 1rem;
+}
+
+p.bolded {
+ font-weight: 600;
+ font-family: 'Open Sans';
+ color: black;
+ padding-bottom: 0;
+}
+
+p.bolded.pad {
+ padding-top: 1rem;
+}
+
+h4 {
+ font-family: 'Open Sans';
+ font-weight: 600;
+ font-size: 1.15rem;
+}
+
+h4.centered {
+ text-align: center;
+}
+
+.white{
+ color: white;
+}
+
+h1{
+  font-size: 2.5rem;
+ }
+
+
+h5, h1 {
+ font-weight: 300;
+}
+
+ul {
+ list-style: disc;
+ text-align: left;
+}
+
+#recent-posts-2 > ul, #categories-2 > ul {
+ padding-left: 2rem;
+}
+
+li {
+ padding-bottom: 1rem !important;
+ font-size: 1rem;
+}
+
+.et_color_scheme_green #top-header{
+ background: #FAC80F !important;
+}
+
+.et_color_scheme_green .et-search-form, .et_color_scheme_green .nav li ul, .et_color_scheme_green .et_mobile_menu, .et_color_scheme_green .footer-widget li:before, .et_color_scheme_green .et_pb_pricing li:before {
+ border-color: #FAC80F !important;
+}
+
+#top-header .et-social-icon a{
+ color: black;
+}
+
+#top-menu a, .fullwidth-menu a{
+ color: black;
+}
+
+.asba-teal-title{
+  color: #208EC7;
+  font-weight: 600;
+}
+
+.asba-teal-title-small{
+ color: #208EC7;
+ font-weight: 400;
+ font-size: 1rem;
+}
+
+header#main-header {
+ border-bottom: 2px solid #FAC80F;
+}
+
+div#page-container{
+ padding-top: 90px;
+}
+
+.et_fixed_nav.et_show_nav.et_secondary_nav_enabled #page-container{
+ padding-top: 0;
+}
+
+.page-container{
+ padding-top: 0 !important;
+}
+
+ul#top-menu {
+ font-weight: 600;
+}
+
+.centered-text {
+ text-align: center;
+ padding: 4rem 0rem !important;
+}
+
+/******************* ASBA Header Nav **************/
+
+#top-header{
+ height: 40px;
+}
+
+header#main-header {
+ height: 100px;
+}
+
+
+
+div#et-top-navigation {
+ position: relative;
+ top: .7rem;
+}
+
+#et-secondary-menu {
+ float: left;
+ position: relative;
+ top: .2rem;
+}
+
+div#header-contact {
+ float: right;
+ position: relative;
+ top: .4rem;
+}
+
+a#header-contact-link {
+ color: black;
+}
+
+#top-header .et-social-icon a {
+ font-size: 20px;
+}
+
+span.et_close_search_field {
+ color: black;
+}
+
+span#et_search_icon {
+ color: black;
+}
+
+input.et-search-field {
+ font-family: 'Open Sans';
+}
+
+span#et_search_icon:hover {
+ color: #208EC7 !important;
+}
+
+ul#top-menu>li>a {
+ padding-right: 1rem;
+}
+
+ul.et-social-icons {
+ padding-left: 0;
+}
+
+
+
+/******************* END ASBA Header Nav **********/
+
+/******************* ASBA Footer ******************/
+#main-footer{
+ background-color: #000066;
+}
+
+#footer-container{
+ height: 100%;
+}
+
+div#asba-footer {
+ height: 400px;
+ background-color: #323232;
+}
+
+div#asba-footer-row {
+ width: 100%;
+ padding-top: 3.05rem;
+}
+
+h3.footer-heading {
+ font-size: 2.5rem;
+ color: white;
+ font-weight: 300;
+}
+
+#footer-bottom{
+ background-color: #323232;
+}
+
+div#et-footer-nav{
+ background-color: #5a5a5a;
+}
+
+p.footer-p {
+ color: white;
+ font-size: 1rem;
+}
+
+ul#menu-footer>li>a {
+ color: white;
+ padding-right: 1rem;
+}
+
+li.et-social-icon>a {
+ color: white;
+}
+
+#menu-footer{
+ position: relative;
+ top: .65rem;
+}
+
+/* twitter stuff */
+
+.timeline-footer{
+ display: none;
+}
+
+/* insta stuff */
+
+p#asba-footer-insta {
+ padding-bottom: 1rem;
+}
+
+img.asba-insta-pic {
+ width: 33%;
+ padding-right: .5rem;
+ padding-bottom: .1rem;
+}
+
+div#footer-bottom > div.container.clearfix > ul.et-social-icons {
+ float: right;
+ position: relative;
+ top: .4rem;
+}
+
+/* sign up stuff */
+
+form#subForm {
+ padding-top: 3rem;
+}
+
+input#fieldEmail {
+ background-color: #5a5a5a;
+ border: 1px solid white;
+ padding: .5rem;
+ width: 100%;
+ font-family: 'Open Sans';
+ color: white;
+}
+
+button#buttonSubmit {
+ background-color: #323232;
+ border: 1px solid white;
+ color: white;
+ font-family: 'Open Sans';
+ font-size: 1rem;
+ padding: .5rem;
+ float: right;
+}
+
+.asba-thank-you {
+ text-align: center;
+ padding: 4rem;
+}
+
+/************ END ASBA Footer ***************/
+
+
+
+
+
+/************* ASBA Homepage ****************/
+
+
+
+div#asba-homepage {
+ width: 100%;
+ padding-top: 0 !important;
+ margin-left: 0 !important;
+ margin-right: 0 !important;
+ max-width: 100%;
+}
+
+#asba-homepage:before{
+ display: none;
+}
+
+#asba-home-banner {
+ width: 100%;
+}
+
+img#asba-home-banner {
+ width: 100%;
+}
+
+
+h1.asba-home-heading {
+ text-align: center;
+ font-size: 2.5rem;
+ font-weight: 300;
+ font-family: 'Open Sans';
+ padding: 3rem 0rem 1rem 0rem;
+
+}
+
+#asba-home-beer-week-events{
+ padding-top: 1rem;
+}
+
+h1.asba-home-heading.white{
+ color: white;
+ padding-bottom: 1rem;
+}
+
+h4.asba-home-event-title {
+ padding-top: 1rem;
+}
+
+div#asba-home-view-all {
+ text-align: center;
+ padding: 3rem 0rem 4rem 0rem;
+}
+
+a#asba-home-view-all-link, a#asba-home-view-all-link-small{
+ font-size: 1.5rem;
+ font-weight: 400;
+ border: 2px solid;
+ padding: 0.3rem .8rem;
+ font-family: 'Open Sans';
+}
+
+a#asba-home-view-all-link.white{
+ color: white !important;
+ border-color: white;
+}
+
+
+div.asba-color-background {
+ background-color: #208EC7;
+ text-align: center;
+ color: white;
+}
+
+p.asba-home-tagline {
+ text-align: center;
+ padding-bottom: 2rem;
+ font-size: 1rem;
+}
+
+#asba-home-members-grid{
+ text-align: center;
+ padding-top: 0;
+ padding-bottom: 2rem;
+}
+
+
+/************* END ASBA Homepage ************/
+
+
+/************ ASBA Single Event *************/
+
+#tribe-events-pg-template{
+ max-width:none;
+}
+
+.et_pb_row.et_pb_row_0.full-width {
+ width: 100%;
+}
+
+.tribe-events-single-event-description.tribe-events-content.entry-content.description {
+ padding-top: 1rem;
+}
+
+img.free-flag {
+ width: 50px;
+}
+
+span.tribe-events-cost {
+ position: relative;
+ left: 1rem;
+ top: .4rem;
+}
+
+.asba-single-event-details {
+ background-color: #f0f0f0;
+ height: auto;
+}
+
+h3#asba-single-event-details {
+ color: #208EC7;
+ font-weight: bold;
+ border-bottom: 2px solid #208EC7;
+}
+
+.tribe-events-venue-map {
+ width: 100% !important;
+}
+
+.asba-single-event-details-detail {
+ padding-top: 1rem;
+ font-size: 1rem;
+}
+
+address.tribe-events-address {
+ font-style: normal;
+}
+
+p.tribe-events-single-section-title {
+ font-size: 1rem;
+ font-family: 'Open Sans';
+ font-weight: 300;
+}
+
+h1#asba-event-browse {
+ padding-bottom: 4rem;
+ padding-top: 2rem;
+}
+
+p.tribe-events-single-section-title {
+ font-weight: bold;
+}
+
+/************** END ASBA Single Event ********/
+
+/*************** ASBA Photo View *************/
+div#tribe_events_filters_wrapper {
+ display: none;
+}
+h2.tribe-events-page-title {
+ font-family: 'Open Sans';
+ font-weight: 300;
+ font-size: 2.5rem;
+}
+
+.tribe-bar-filters-inner.tribe-clearfix {
+ background-color: #f0f0f0;
+}
+
+.tribe-events-event-image{
+ text-align: center;
+}
+
+.tribe-events-event-image img{
+ border: 2px solid #f0f0f0;
+ max-width: 250px;
+}
+
+
+.tribe-events-photo-event-wrap:hover{
+ -webkit-box-shadow: none;
+ box-shadow: none;
+}
+
+div.hentry {
+ padding: 2rem !important;
+}
+
+.type-tribe_events.tribe-events-photo-event .tribe-events-photo-event-wrap{
+ background-color: white !important;
+}
+
+.tribe-events-list .tribe-events-photo-event .tribe-events-event-details{
+ padding: 0;
+}
+
+.tribe-events-event-details.tribe-clearfix {
+ padding-top: .5rem;
+}
+
+.updated.published.time-details {
+ font-size: .85rem;
+ font-weight: bolder;
+ padding-bottom: .5rem;
+}
+
+div#tribe-events-footer {
+ display: none;
+}
+
+a.tribe-events-ical.tribe-events-button {
+ display: none !important;
+}
+
+img.free-flag.upcoming-view {
+ float: left;
+ padding-top: .2rem;
+ padding-bottom: .5rem;
+}
+
+span#after-free-flag {
+ padding-left: .5rem;
+}
+
+div.tribe-events-cost > img.free-flag {
+ position: relative;
+ top: .25rem;
+}
+
+.tribe-events-list-photo-description.tribe-events-content.entry-summary.description {
+ font-size: 1rem;
+ font-family: 'Open Sans';
+ font-weight: 300;
+}
+
+img.asba-partners {
+ padding: 2rem;
+}
+
+img#asba-partner-beerfest {
+ width: 200px;
+}
+
+img#asba-partner-rcktshp {
+ width: 250px;
+}
+
+img#asba-partner-liquor-connect {
+ width: 350px;
+}
+
+div#tribe-events-header {
+ display: none;
+}
+
+#tribe-events-bar {
+ padding: 2rem 2rem 0rem 2rem;
+
+}
+
+h4#asba-event-cost {
+ padding-top: .3rem;
+}
+
+div#tribe-events-content {
+ margin-bottom: 0 !important;
+}
+
+div#asba-photo-view-wrapper {
+ padding-bottom: 0 !important;
+}
+
+
+/************* END ASBA Photo View ************/
+
+
+/************** ASBA About US ****************/
+
+
+.asba-section.grey {
+ background-color: #f0f0f0;
+}
+
+.asba-wrapper {
+ width: 80%;
+ position: relative;
+ left: 10%;
+ text-align: center;
+ padding: 4rem 0rem;
+}
+
+img.asba-about-us-member-pic {
+ width: 100%;
+}
+
+.asba-about-us-board-pic {
+ width: 100%;
+ border-radius: 3%;
+ margin-bottom: 1rem;
+}
+
+div#asba-about-members-wrapper {
+ padding-bottom: 4rem;
+}
+
+
+/************** END ASBA About Us *************/
+
+/*************** ASBA Member Listing **********/
+
+.et_pb_row.asba-member-row {
+ padding: 0;
+}
+
+.et_pb_row.asba-member-row {
+ padding-bottom: 2rem;
+}
+
+img.asba-about-us-member-pic {
+ border-radius: 5px;
+}
+
+/************ END ASBA Member Listing *********/
+
+/************ ASBA Individual Member **********/
+
+div.brewery-page-img > img {
+ width: 100%;
+}
+
+
+/************ END ASBA Individual Member ******/
+
+
+/*************** ASBA Membership Criteria **********/
+
+h1#asba-mambership-exceptions {
+ padding-bottom: 3rem;
+
+}
+
+.asba-wrapper.no-bottom-pad {
+ padding-bottom: 0;
+}
+
+h4.white {
+ padding-bottom: 1rem;
+}
+
+.asba-membership-criteria-img{
+ text-align: center;
+}
+
+img.membership-img {
+ width: 100px;
+ position: relative;
+ left: 25%;
+ padding-bottom: 2rem;
+}
+
+div#asba-criteria-exceptions{
+ padding: 4rem 0rem;
+}
+
+div#asba-become-a-member {
+ text-align: center;
+}
+
+
+/************ END ASBA Membership Criteria *********/
+
+/************ ASBA Press *********************/
+div#left-area {
+ width: 70%;
+}
+
+div#sidebar {
+ width: 30%;
+ position: relative;
+ bottom: 4rem;
+ padding-top: 2.5rem;
+}
+
+h1.asba-home-heading.press-category-heading {
+ padding-bottom: 3.5rem;
+}
+
+.et_right_sidebar #sidebar{
+ padding-left: 0rem;
+}
+
+div.asba-press-sidebar {
+ padding-top: 0 !important;
+}
+
+.asba-press-sidebar-section {
+ background-color: #f0f0f0;
+ margin-bottom: 3rem;
+ padding: 3.5rem 1rem 3.5rem 1rem ;
+
+}
+
+div.container:before{
+ display: none;
+}
+
+h1.asba-home-heading.press-category-heading{
+ text-align: left;
+ padding-top: 0;
+}
+
+h2.asba-post-heading{
+ font-weight: 600;
+}
+
+#left-area > h1 {
+ padding-bottom: 0;
+}
+
+h4.widgettitle {
+ font-family: 'Open Sans';
+ font-weight: 300;
+ font-size: 2.25rem;
+}
+
+p.post-meta {
+ font-family: 'Open Sans';
+ font-weight: 600;
+ color: black;
+}
+
+.asba-press-sidebar-links.pad {
+ padding-top: 2rem;
+}
+
+p.asba-sidebar-para {
+ color: black;
+ padding-bottom: 0;
+}
+
+#sidebar > div:nth-child(2) > div > p:nth-child(3){
+ padding-top: 1rem;
+}
+/************* END ASBA PRESS ******************/
+
+/*********** ASBA CONTACT US ****************/
+
+#et-main-area > div.et_pb_row > div.et_pb_column.et_pb_column_1_3.et_pb_column_1 > h1 {
+ font-size: 2.5rem;
+}
+
+.et_pb_row.no-pad {
+ width: 100% !important;
+}
+
+span.contact-form {
+ padding-left:  60%
+}
+
+.et_color_scheme_green .form-submit input {
+ color: #208EC7;
+}
+
+input[type="text"] {
+ background-color: #f0f0f0;
+ border: none;
+ padding: .75rem;
+ width: 100%;
+}
+
+textarea.message-area {
+ border: none;
+ background-color: #f0f0f0;
+ width: 100%;
+ height: 250px;
+ padding: 1rem;
+}
+
+input#contact-form-submit {
+ background-color: white;
+ border: 2px solid #208EC7;
+ color: #208EC7;
+ padding: .5rem;
+ font-family: 'Open Sans';
+ font-size: 1rem;
+ font-weight: 600;
+ float: right;
+}
+
+input[type="number"] {
+ background-color: #f0f0f0;
+ border: none;
+ width: 50px;
+ padding: 1rem;
+}
+
+li.volunteer {
+ padding: 0 !important;
+}
+
+#et-main-area > div:nth-child(2) > div.et_pb_column.et_pb_column_1_3.et_pb_column_1 > ul {
+ padding-left: 3rem;
+}
+
+#et-main-area > div:nth-child(2) > div.et_pb_column.et_pb_column_1_3.et_pb_column_1 > h1 {
+ padding-bottom: 1rem;
+}
+
+ul {
+ padding-left: 2rem;
+ font-size: 1rem;
+ font-weight: 300;
+}
+/************ END ASBA CONTACT **************/
+
+
+/************* 404 ******************/
+
+div#main-content-404 {
+ background-color: #208EC7;
+ text-align: center;
+}
+
+
+.asba-404-white{
+ color: white;
+ padding: 3rem ;
+    }
+
+/************* end 404 ***************/
+
+/************* MEDIA QUERIES ****************/
+
+@media (max-width:980px) {
+ div#asba-footer {
+  height: 100%;
+ }
+
+ img.asba-insta-pic {
+  width: 16.66%;
+ }
+}
+
+
+/* general */
+
+@media (max-width: 600px) {
+ h1 {
+  font-size: 2rem !important;
+ }
+
+ img.asba-insta-pic {
+  width: 33%;
+ }
+
+ li.menu-item > a {
+  color: black;
+ }
+
+ .et_color_scheme_green .et_mobile_menu{
+  border-color:#FAC80F !important;
+ }
+
+ #mobile_menu{
+  top: 5.1rem;
+ }
+ 
+ ul#mobile_menu{
+  list-style: none;
+
+ }
+
+ .mobile_menu_bar:before {
+  color: #FAC80F !important;
+ }
+
+ .et_header_style_left #logo, .et_header_style_split #logo {
+  max-width: 80%;
+  position: relative;
+  top: 1rem;
+ }
+
+ div#et_top_search {
+  display: none;
+ }
+
+ .et_mobile_menu li ul{
+  list-style: none;
+ }
+
+ li#menu-item-278 {
+  padding-bottom: 0 !important;
+ }
+
+ li#menu-item-340 {
+  padding-bottom: 0rem !important;
+ }
+
+
+}
+
+/* home */
+@media (max-width: 600px) {
+  h1.asba-home-heading{
+   padding: 0;
+
+  }
+
+
+  a#asba-home-view-all-link{
+   font-size: 1.5rem;
+  }
+
+ a#asba-home-view-all-link-small{
+  font-size: 1rem;
+ }
+
+
+  #asba-home-events > div.et_pb_row {
+   padding-bottom: 0;
+  }
+
+  div#asba-about-row{
+   padding-top: 0
+  }
+
+ div#asba-about-beer-week {
+  padding-top: 0 !important;
+ }
+
+  h1.asba-home-heading.white{
+   padding-top: 2rem;
+  }
+
+
+  #asba-home-members > h1{
+   padding-top: 2rem;
+  }
+
+}
+
+/* event listing */
+
+img.asba-partners{
+ padding: 1rem 3rem;
+}
+
+/* Single event */
+@media (max-width: 600px) {
+
+  .tribe-events-cost {
+    text-align: center;
+   padding: .5rem;
+  }
+
+  div#asba-home-view-all {
+   padding: 2rem 0rem 2rem !important;
+  }
+
+  div.featured-event {
+   border-bottom: 2px solid #f0f0f0;
+   padding-bottom: 1rem;
+  }
+
+  .single-tribe_events #tribe-events-gmap{
+    height: 300px !important;
+  }
+  
+ /* about */
+ div#asba-home-banner{
+  background-image: url('images/wheat.png');
+ }
+
+ h1#about-slider-caption{
+  font-size 1.5rem !important;
+ }
+
+ .asba-section.grey{
+  background-color: white;
+ }
+
+ .asba-about-us-member {
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 2rem;
+ }
+
+ .et_pb_row.members{
+  padding: 0;
+ }
+
+ div.et_pb_slide_content > h1 {
+  font-size: 1.9rem !important;
+  color: black !important;
+  position: relative;
+  top: 5rem;
+ }
+
+ div.asba-about-us-board-pic > img {
+  border-radius: 1rem;
+ }
+
+
+
+ /* member listing */
+
+ .asba-member {
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 1rem;
+  }
+
+ #et-main-area > div.asba-section > div.asba-wrapper {
+  padding-bottom: 2rem !important;
+ }
+
+
+  /* news */
+
+  div#sidebar {
+   padding: 4rem 0rem 0rem 0rem;
+  }
+
+  article.et_pb_post {
+   border-bottom: 2px solid #f0f0f0;
+   padding-bottom: 1.5rem;
+  }
+
+  .asba-press-sidebar-links.pad > a > h4, .asba-press-sidebar-links > a > h4 {
+   font-size: .85rem;
+  }
+
+  /* criteria */
+
+  .asba-wrapper{
+   padding: 2rem 0rem;
+  }
+
+  #et-main-area > div.et_pb_row > div.et_pb_column.et_pb_column_1_3.et_pb_column_0 > ul, #et-main-area > div.et_pb_row > div.et_pb_column.et_pb_column_1_3.et_pb_column_1 > ul, #et-main-area > div.et_pb_row > div.et_pb_column.et_pb_column_1_3.et_pb_column_2 > ul, #asba-criteria-exceptions > div.et_pb_column.et_pb_column_1_2.et_pb_column_0 > ul, #asba-criteria-exceptions > div.et_pb_column.et_pb_column_1_2.et_pb_column_1 > ul {
+   text-align: center;
+   list-style: none;
+  }
+
+ #et-main-area > div:nth-child(4) > div > div > h1:nth-child(2) {
+  padding-top: 2rem;
+ }
+}
+
+/************* END MEDIA QUERIES ************/
+
+
+/* Wheat slider nonsense */
+.et_pb_section_video_bg{
+ top: -28rem !important;
+}
+
+
+.et_pb_slider .et_pb_container {
+ height: 400px;
+}
+
+h1#about-slider-caption {
+ position: relative;
+ top: 5rem;
+}
+
+@-moz-document url-prefix() {
+ .et_pb_section_video_bg.et_pb_first_video {
+  display: none;
+
+ }
+
+  h1#about-slider-caption {
+ position: relative;
+  top: 2rem;
+ }
+ }
+}
+
+
+@media (max-width: 1175px) {
+ img.asba-home-member-logo{
+  width: 19%;
+ }
+}
+
+
+.recurringinfo {
+ display: none !important;
+}
+
+/*  remove padding from page content to allow for fixed header to be turned off*/
+
+
+.et_pb_column.et_pb_column_1_3.et_pb_column.et_pb_column_0.past {
+ margin: 0 !important;
+ padding: .5rem;
+}
+
+img.avatar.avatar-300.photo.avatar-default {
+ border-radius: .5rem;
+}

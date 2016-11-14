@@ -1,0 +1,18 @@
+{
+    "name": "moderntribe/events-filterbar",
+    "description": "Events Filterbar Plugin",
+    "type": "wordpress-plugin",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "Modern Tribe",
+            "email": "tribe@tri.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "lucatume/wp-browser": "~1.0",
+        "codeception/codeception": "2.1.1"
+    }
+}

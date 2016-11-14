@@ -1,0 +1,57 @@
+actor: Tester
+paths:
+    tests: tests
+    log: tests/_output
+    data: tests/_data
+    helpers: tests/_support
+settings:
+    bootstrap: _bootstrap.php
+    colors: true
+    memory_limit: 1024M
+modules:
+    config:
+        Db:
+            dsn: 'mysql:host=localhost;dbname=tribe-tests'
+            user: root
+            password: root
+            dump: tests/_data/dump.sql
+        WPBrowser:
+            url: 'http://plugins.tribe'
+            adminUsername: admin
+            adminPassword: admin
+            adminUrl: /wp-admin
+        WPDb:
+            dsn: 'mysql:host=localhost;dbname=tribe-tests'
+            user: root
+            password: root
+            dump: tests/_data/dump.sql
+            populate: true
+            cleanup: true
+            url: 'http://plugins.tribe'
+            tablePrefix: wp_
+            checkExistence: true
+            update: true
+        WPLoader:
+            wpRootFolder: ~/www/tribe
+            dbName: tribe-tests
+            dbHost: localhost
+            dbUser: root
+            dbPassword: root
+            wpDebug: true
+            dbCharset: utf8
+            dbCollate: ''
+            tablePrefix: wp_
+            domain: plugins.tribe
+            adminEmail: admin@plugins.tribe
+            title: 'Modern Tribe Plugins'
+            phpBinary: php
+            language: ''
+        WPWebDriver:
+            url: 'http://plugins.tribe'
+            browser: phantomjs
+            port: 4444
+            restart: true
+            wait: 2
+            adminUsername: admin
+            adminPassword: admin
+            adminUrl: /wp-admin

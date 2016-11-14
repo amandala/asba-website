@@ -1,0 +1,139 @@
+.pthgtf .message {
+  display: none;
+}
+
+.pthgtf .updated {
+  margin: 10px 20px 0 2px;
+}
+
+.pthgtf_header {
+  background: #5ea9dd; /* Old browsers */
+  background: -moz-linear-gradient(top,  #5ea9dd 0%, #4c8ebb 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5ea9dd), color-stop(100%,#4c8ebb)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #5ea9dd 0%,#4c8ebb 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #5ea9dd 0%,#4c8ebb 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #5ea9dd 0%,#4c8ebb 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  #5ea9dd 0%,#4c8ebb 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5ea9dd', endColorstr='#4c8ebb',GradientType=0 ); /* IE6-9 */
+  position: relative;
+  padding: 41px 0 48px 0;
+  margin-left: -20px;
+  margin-bottom: 20px;
+}
+
+.pthgtf_header:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOC4xLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIGZpbGw9IiNmMWYxZjEiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCSB2aWV3Qm94PSIwIDAgMTYuMDAzIDE2LjAwMyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTYuMDAzIDE2LjAwMzsiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPgk8Zz4JCTxwYXRoICBkPSJNMTYuMDAzLDMuMDRjLTAuNTg5LDAuMjYxLTEuMjIxLDAuNDM4LTEuODg1LDAuNTE3YzAuNjc4LTAuNDA2LDEuMTk3LTEuMDUsMS40NDMtMS44MTUJCQljLTAuNjM2LDAuMzc2LTEuMzM4LDAuNjQ5LTIuMDg2LDAuNzk3Yy0wLjU5OS0wLjYzOS0xLjQ1MS0xLjAzNy0yLjM5Ni0xLjAzN2MtMS44MTMsMC0zLjI4MywxLjQ3LTMuMjgzLDMuMjgyCQkJYzAsMC4yNTcsMC4wMjksMC41MDgsMC4wODUsMC43NDhjLTIuNzI4LTAuMTM3LTUuMTQ3LTEuNDQ0LTYuNzY2LTMuNDNDMC44MzIsMi41ODYsMC42NzEsMy4xNSwwLjY3MSwzLjc1MgkJCWMwLDEuMTM5LDAuNTgsMi4xNDQsMS40NiwyLjczMkMxLjU5Myw2LjQ2NiwxLjA4Nyw2LjMxOCwwLjY0NCw2LjA3MnYwLjA0MWMwLDEuNTksMS4xMzIsMi45MTcsMi42MzMsMy4yMTkJCQlDMy4wMDIsOS40MDYsMi43MTIsOS40NDcsMi40MTIsOS40NDdjLTAuMjEyLDAtMC40MTctMC4wMjEtMC42MTgtMC4wNjFjMC40MTgsMS4zMDUsMS42MywyLjI1NCwzLjA2NiwyLjI4CQkJYy0xLjEyMywwLjg4LTIuNTM5LDEuNDAzLTQuMDc3LDEuNDAzYy0wLjI2NSwwLTAuNTI2LTAuMDE2LTAuNzgzLTAuMDQ1YzEuNDUzLDAuOTMzLDMuMTc4LDEuNDc3LDUuMDMyLDEuNDc3CQkJYzYuMDM5LDAsOS4zNC01LjAwMiw5LjM0LTkuMzRsLTAuMDExLTAuNDI1QzE1LjAwNiw0LjI3NiwxNS41NjQsMy42OTgsMTYuMDAzLDMuMDR6Ii8+CTwvZz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PC9zdmc+);
+  background-position: right 5% bottom -47px;
+  background-size: auto 250px;
+  background-repeat: no-repeat;
+}
+
+.pthgtf_header a{
+  box-shadow: none;
+}
+
+.pthgtf_logo {
+  text-decoration: none;
+  color: #f1f1f1;
+  font-weight: bold;
+  text-align: center;
+  display: table;
+  padding: 10px 20px;
+  margin: 0 auto;
+  position: inherit;
+}
+
+.pthgtf_logo:hover {
+  color: #fff;
+}
+
+.pthgtf_logo h1 {
+  margin: 0;
+  font-size: 70px;
+  line-height: 70px;
+}
+
+.pthgtf_logo span {
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+.pthgtf_main_menu {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-left: 15px;
+}
+
+.pthgtf_main_menu li {
+  margin: 0 2px 0 0;
+  float: left;
+}
+
+.pthgtf_main_menu a {
+  padding: 15px;
+  display: block;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+}
+
+.pthgtf_main_menu a:hover,
+.pthgtf_main_menu a.active {
+  background: #f1f1f1;
+  color: #5ea9dd;
+}
+
+.pthgtf .graph_type {
+  display: none;
+  vertical-align: middle;
+  padding-left: 10px;
+}
+
+#wp-editor-widget-container {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  right: 30px;
+  bottom: 30px;
+  z-index: 50100;
+  background: #fff;
+}
+
+#wp-editor-widget-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  min-height: 360px;
+  background: #000;
+  opacity: .7;
+  z-index: 50000;
+}
+
+#wp-editor-widget-container .close {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  width: 30px;
+  height: 30px;
+  z-index: 1000;
+  text-decoration: none;
+}
+
+#wp-editor-widget-container .close:active {
+  outline: 0;
+}
+
+#wp-editor-widget-container .editor {
+  margin: 50px;
+}
